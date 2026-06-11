@@ -13,7 +13,9 @@ Public research and datasets exploring how AI systems discover, understand, trus
 
 ## Published Research
 
-Coming soon.
+### Recommendation Intelligence™
+
+- [The State of AI Recommendations in Beauty](reports/2026-06-state-of-ai-recommendations-beauty) (June 2026)
 
 ## Website
 

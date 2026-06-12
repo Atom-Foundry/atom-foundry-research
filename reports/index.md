@@ -1,37 +1,35 @@
-# Reports
+# Atom Foundry Research Reports
 
-## Recommendation Intelligence™
+Public research on AI Commerce Intelligence™, Recommendation Intelligence™ and AI-native commerce.
 
-### Published Research
+## Published Reports
 
-* [The State of AI Recommendations in Beauty](2026-06-state-of-ai-recommendations-beauty)
+### State of AI Recommendations in Beauty (June 2026)
 
-### In Progress
+First category study examining the relationship between AI recommendation frequency and AI Commerce Score™.
 
-* The State of AI Recommendations in Supplements
+### State of AI Recommendations in Supplements (June 2026)
 
-### Planned Research
+4,000 recommendations across 20 buyer intents. Found no measurable relationship between recommendation frequency and AI Commerce Score™.
 
-* The State of AI Recommendations in Coffee
-* The State of AI Recommendations in Pets
-* The State of AI Recommendations in Home & Living
-* The State of AI Recommendations Across Commerce
-* AI Recommendation Intelligence Report 2026
-* The Recommendation Gap Report
-* The State of AI Commerce Readiness
-* The Future of AI Driven Commerce
+### State of AI Recommendations in Coffee (June 2026)
 
-## Research Focus
+4,000 recommendations across 20 buyer intents. Replicated findings from Beauty and Supplements.
 
-Atom Foundry researches how AI systems discover, understand, trust, recommend, and route customers to businesses.
+## In Progress
 
-Core research areas include:
+### State of AI Recommendations in Pets
 
-* AI Commerce Intelligence™
-* Recommendation Intelligence™
-* AI Readability™
-* AI Understanding™
-* AI Trust™
-* Recommendation Share™
-* Decision Confidence™
-* AI Commerce Graph™
+Coming soon.
+
+### State of AI Recommendations in Home & Living
+
+Coming soon.
+
+## Planned
+
+### State of AI Recommendations Across Commerce
+
+Cross-category analysis combining Beauty, Supplements, Coffee, Pets and Home & Living.
+
+Goal: identify what actually drives AI recommendations.

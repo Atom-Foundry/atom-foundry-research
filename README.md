@@ -10,14 +10,16 @@ Public research, datasets and frameworks for understanding how AI systems discov
 
 - The State of AI Recommendations in Supplements
 
-## Core Frameworks
+## AI Commerce Intelligence Framework™
 
-- AI Commerce Intelligence™
 - AI Readability™
 - AI Understanding™
 - AI Trust™
 - Recommendation Intelligence™
 - Decision Confidence™
+
+Framework:
+https://atomfoundry.dev/framework
 
 ## Website
 

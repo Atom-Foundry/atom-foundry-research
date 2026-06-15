@@ -117,3 +117,7 @@ Understanding why AI chooses one brand over another remains one of the most impo
 **Created by Atom Foundry**
 
 *Building the AI Commerce Intelligence Layer™*
+
+## Full Report
+
+https://atomfoundry.dev/research/ai-recommendations-across-commerce-2026

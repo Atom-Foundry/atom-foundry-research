@@ -1,0 +1,5 @@
+brand,recommendation_share,recommendation_frequency,recommendation_position,ai_commerce_score,status
+Blue Buffalo,2.8,27.8,3.9,30,on_index
+PetFusion,2.7,25.0,4.2,,off_index
+Purina Pro Plan,2.7,26.8,3.4,,off_index
+Merrick,2.5,24.8,6.5,42,on_index

@@ -1,0 +1,6 @@
+category,recommendations,brands,on_index_share,marketplace_share,correlation_r,relationship
+Beauty,4000,238,57.6,0.4,0.170,None
+Supplements,4000,367,33.5,5.5,-0.015,None
+Coffee,4000,228,49.8,1.8,0.019,None
+Pets,4000,405,19.8,7.1,-0.366,Weak Negative
+Home & Living,4000,271,60.7,20.9,0.108,None

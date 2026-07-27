@@ -1,126 +1,143 @@
 # Atom Foundry Research
 
-Public research, datasets, and frameworks exploring how AI systems discover, understand, trust, recommend, and transact with brands.
+Public research exploring how AI systems discover, understand, trust, recommend, and influence commercial decisions.
 
-Our mission is to build the largest public research database on AI Commerce Intelligence™, Recommendation Intelligence™, and AI-native commerce.
-
----
-
-## Published Research
-
-### State of AI Recommendations in Beauty (June 2026)
-
-The first category-level study examining the relationship between AI recommendation frequency and AI Commerce Score™.
-
-Based on thousands of AI-generated recommendations across leading beauty brands, the study challenged the assumption that better AI optimization automatically leads to more recommendations.
-
-**Key Finding**
-
-AI recommendation frequency showed no meaningful relationship to AI Commerce Score™, suggesting that recommendation systems may rely on additional signals beyond store-level AI readiness.
+Atom Foundry Research is an independent research initiative dedicated to understanding the emerging field of AI Commerce Intelligence™ through real-world experiments, transparent methodology, and open publication.
 
 ---
 
-### State of AI Recommendations in Supplements (June 2026)
+# Research at a Glance
 
-Analysis of 4,000 AI-generated supplement recommendations across 20 buyer-intent prompts.
-
-The study found no measurable relationship between AI recommendation frequency and AI Commerce Score™ (r = -0.015).
-
-**Key Findings**
-
-* Brands with poor AI readiness were often recommended more frequently than highly optimized stores.
-* Recommendation frequency did not correlate with AI Commerce Score™.
-* Visibility and recommendation appear to be distinct layers within AI commerce.
-
----
-
-### State of AI Recommendations in Coffee (June 2026)
-
-Analysis of 4,000 AI-generated coffee recommendations across 20 buyer-intent prompts.
-
-The study replicated findings from Beauty and Supplements, showing no measurable relationship between AI recommendation frequency and AI Commerce Score™ (r = 0.019).
-
-**Key Findings**
-
-* Recommendation frequency showed little connection to store-level AI readiness.
-* Well-known brands frequently outperformed technically optimized competitors.
-* Brand familiarity may currently play a larger role in recommendation systems than previously assumed.
+- **15 published research reports**
+- **20,000 AI recommendations analyzed**
+- **1,513 brands observed**
+- **100 buyer-intent prompts**
+- **5 ecommerce categories**
+- **13,000+ ecommerce stores scanned**
+- **100% real-world data**
+- **No synthetic datasets**
+- **Public methodology**
 
 ---
 
-## Research In Progress
+# Research Collections
 
-### State of AI Recommendations in Pets
+## ⭐ Flagship Research
 
-Large-scale analysis of recommendation patterns across the pet products category.
+Our flagship publication combining every major experiment into a single cross-category analysis.
 
-Focus areas:
-
-* Recommendation frequency
-* Brand concentration
-* AI Commerce Score™ relationship
-* Cross-model consistency
+- The State of AI Recommendations Across Commerce 2026
 
 ---
 
-### State of AI Recommendations in Home & Living
+## ⚙️ Mechanism Studies
 
-Research examining how AI systems evaluate and recommend brands across home, furniture, décor, and household products.
+Research explaining why AI recommendation systems behave the way they do.
 
-Focus areas:
-
-* Recommendation concentration
-* Trust signals
-* Category-specific recommendation behavior
-* AI Commerce Score™ relationship
-
----
-
-## Upcoming Research
-
-### State of AI Recommendations Across Commerce
-
-The first cross-category analysis combining findings from:
-
-* Beauty
-* Supplements
-* Coffee
-* Pets
-* Home & Living
-
-Objective:
-
-Identify the signals that actually influence AI recommendations across categories and determine whether recommendation behavior follows consistent patterns or varies by market.
+- Web Search Changes AI Recommendations
+- The Fame Study
+- AI Knows Your Website
+- AI Confabulates Its Reasons
+- Search Changes the Vocabulary
+- Candidacy vs Selection
+- The Model Predicts Itself
 
 ---
 
-### Recommendation Intelligence Report 2026
+## 📊 Category Reports
 
-Our flagship annual research report.
+Independent recommendation studies across multiple ecommerce industries.
 
-A comprehensive analysis of recommendation behavior across major AI systems, categories, and buyer intents.
+- Beauty
+- Supplements
+- Coffee
+- Pets
+- Home & Living
 
-Research Areas:
-
-* AI Readability™
-* AI Understanding™
-* AI Trust™
-* Recommendation Intelligence™
-* Decision Confidence™
-* AI Commerce Intelligence™
-
-Goal:
-
-Establish the first public benchmark for understanding how AI systems decide which brands get recommended, trusted, and ultimately chosen.
+Each report follows the same methodology, enabling direct comparison between industries.
 
 ---
 
-## Research Thesis
+## 🧪 Founder Lab
+
+Founder Lab documents the creation of an AI-native ecommerce brand in public.
+
+Current publications:
+
+- Founder Lab — Day Zero
+- Founder Lab — Research Log
+
+---
+
+# Research Focus
+
+Our work explores how modern AI systems:
+
+- discover brands
+- understand websites
+- evaluate products
+- build trust
+- generate recommendations
+- explain decisions
+- change behavior when web search is available
+- influence commercial outcomes
+
+Rather than studying visibility alone, we study the complete recommendation process.
+
+---
+
+# Research Principles
+
+Every published report follows the same principles.
+
+- Real AI responses
+- Real ecommerce stores
+- Transparent methodology
+- Reproducible experiments
+- Independent analysis
+- No sponsored conclusions
+
+If we cannot measure it, we do not publish it.
+
+---
+
+# Repository Structure
+
+```
+reports/
+methodology/
+datasets/
+assets/
+```
+
+Detailed documentation is available throughout the repository.
+
+---
+
+# Research Thesis
 
 The first generation of AI commerce focused on visibility.
 
 The next generation will focus on recommendation.
 
-Being found is not the same as being chosen.
+Being discovered is not the same as being recommended.
+
+Being recommended is not the same as being chosen.
 
 Atom Foundry exists to understand the difference.
+
+---
+
+# Website
+
+https://atomfoundry.dev
+
+Research Library
+
+https://atomfoundry.dev/research
+
+---
+
+Published by **Atom Foundry**
+
+Advancing AI Commerce Intelligence™ through open research.

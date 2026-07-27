@@ -1,7 +1,11 @@
 Metric,Value,Unit
 AI Model,GPT-4o,
-Website Sample,Real ecommerce stores,
-Input,Website domain only,
-Evaluation,Manual review,
-Measured Capability,Website Understanding,
-Primary Output,Business Interpretation,
+Brands Tested,360,brands
+Direct Lookups,3600,lookups
+Runs per Brand,10,runs
+Correct Domain Recognition,75.9,percent
+Wrong or Unknown,24.1,percent
+Unknown Rate (Low Stability),16.2,percent
+Unknown Rate (High Stability),2.5,percent
+Scoring,"Correct / Wrong Domain / Unknown",
+Segmentation,"Recommendation Stability (Fame Study)",

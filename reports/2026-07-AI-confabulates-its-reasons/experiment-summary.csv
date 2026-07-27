@@ -1,0 +1,6 @@
+Metric,Value,Unit
+AI Model,GPT-4o,
+Recommendation Prompts,Buyer-intent prompts,
+Explanation Prompts,Post-recommendation evaluation,
+Evaluation,Manual comparison,
+Primary Output,Explanation Consistency,

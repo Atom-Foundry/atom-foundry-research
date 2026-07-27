@@ -1,6 +1,9 @@
 Metric,Value,Unit
 AI Model,GPT-4o,
-Recommendation Prompts,Buyer-intent prompts,
-Explanation Prompts,Post-recommendation evaluation,
-Evaluation,Manual comparison,
-Primary Output,Explanation Consistency,
+Reasons Checked,29633,reasons
+Distinct Reasons,26812,reasons
+Unique Text Rate,90,percent
+Repeated Reasons,2821,reasons
+Most Repeated Reason,12,occurrences
+Scoring,Exact-text match,
+Source,Recommendation dataset,

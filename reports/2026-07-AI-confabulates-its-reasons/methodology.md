@@ -10,30 +10,44 @@ For the complete research framework, see:
 
 # Objective
 
-Evaluate whether AI-generated explanations accurately reflect the observable factors behind recommendation decisions.
+Measure whether AI systems generate genuinely new explanations for recommendations or repeatedly reuse the same reasoning across different recommendations.
+
+---
+
+# Research Question
+
+Do AI systems produce original recommendation explanations, or do they rely on a limited library of repeated reasons?
 
 ---
 
 # Experimental Design
 
-AI was first asked to recommend ecommerce brands for buyer-intent prompts.
+Recommendation explanations were extracted from the complete recommendation dataset generated throughout the Atom Foundry research program.
 
-The model was then asked to explain why each recommendation was made.
+Every explanation was compared using exact-text matching to identify duplicated reasoning.
 
-Recommendation behavior and explanation behavior were evaluated independently.
+---
+
+# Dataset
+
+- AI Model: GPT-4o
+- Recommendation explanations analyzed: 29,633
+- Distinct explanations: 26,812
 
 ---
 
 # Evaluation
 
-Each explanation was compared against measurable recommendation patterns observed throughout the research program.
+Every explanation was normalized and compared against every other explanation.
 
-Evaluation focused on:
+The analysis measured:
 
-- Explanation consistency
-- Recommendation consistency
-- Observable evidence
-- Agreement with measured behavior
+- Exact duplicate explanations
+- Unique explanations
+- Explanation reuse frequency
+- Maximum repetition count
+
+Paraphrases were intentionally treated as different explanations.
 
 ---
 
@@ -41,16 +55,20 @@ Evaluation focused on:
 
 Primary metrics included:
 
-- Explanation Consistency
-- Recommendation Consistency
-- Explanation Stability
-- Observable Agreement
+- Explanation Uniqueness Rate
+- Duplicate Explanation Rate
+- Distinct Explanation Count
+- Maximum Repetition Frequency
 
 ---
 
 # Limitations
 
-The study evaluates observable recommendation behavior rather than internal model weights or hidden reasoning processes.
+The analysis measures exact-text repetition only.
+
+Two explanations expressing the same idea with different wording are considered unique.
+
+As a result, the measured uniqueness rate represents a conservative lower bound.
 
 ---
 

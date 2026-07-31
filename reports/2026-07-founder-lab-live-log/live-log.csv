@@ -1,0 +1,4 @@
+Entry,Date,Title,Summary
+1,2026-07-12 to 2026-07-17,Baseline established,"Initial AI Commerce Score measured. Six scans showed only intent variation. No AI bot visits recorded."
+2,2026-07-21,External AI audit,"ChatGPT could not access the store. Internal verification confirmed robots.txt was open and the store was publicly reachable. Tracker reliability questioned."
+3,2026-07-21,Tracking bug fixed,"AI detection worked correctly. n8n database insert overwrote the same row because of a hardcoded ID. Fixed by allowing PostgreSQL auto-increment IDs."

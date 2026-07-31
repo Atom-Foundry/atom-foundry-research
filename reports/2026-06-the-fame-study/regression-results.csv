@@ -1,0 +1,5 @@
+Signal,R² (%),Notes
+Store Quality,0.7,AI Commerce Score
+Public Fame,1.2,Wikipedia + nameability
+Permuted Null,1.2,95th percentile shuffled outcome
+Top Recommendation Stability,78–91,Top-1 consistency across runs

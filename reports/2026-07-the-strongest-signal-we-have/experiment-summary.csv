@@ -1,0 +1,10 @@
+Metric,Value,Unit
+AI Model,GPT-4o,
+Brand-Intent Pairs,1082,pairs
+Time Periods,June vs July,
+Buyer Intents,50,intents
+Position → Position R²,61.4,percent
+Frequency → Frequency R²,54.4,percent
+Position → Frequency R²,31.9,percent
+Recommendation Drift (15 Days),0,points
+Method,Pearson Correlation,

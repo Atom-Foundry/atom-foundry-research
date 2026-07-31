@@ -1,0 +1,9 @@
+Metric,Value,Unit
+AI Model,GPT-4o,
+Prompts,50,prompts
+Conditions,"Search On vs Search Off",
+Largest Word Shift,"Monohydrate (21x)",
+Noise Floor (Search On),27,percent
+Noise Floor (Search Off),47,percent
+Scoring,"Normalized Word-Frequency Ratio",
+Status,Corroborated,

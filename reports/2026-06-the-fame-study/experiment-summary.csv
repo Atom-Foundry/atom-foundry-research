@@ -1,0 +1,10 @@
+Metric,Value,Unit
+AI Model,GPT-4o-mini,
+Brands Re-measured,872,brands
+Original Sample,87,brands
+Store Quality R²,0.7,percent
+Public Fame R²,1.2,percent
+Permuted Null R²,1.2,percent
+Top Recommendation Stability,78–91,percent
+Runs per Intent,20,runs
+Correction Published,2026-07-17,

@@ -1,0 +1,8 @@
+Signal,R² (%),Notes
+Store Quality,0.7,AI Commerce Score
+Public Fame,1.2,Recommendation frequency study
+Web Traces,0.2,Distinct domains and review mentions
+Intent (Within Recommended Set),1.2,Candidacy vs Selection study
+Previous Recommendation Position,61.4,Month-to-month prediction
+Previous Recommendation Frequency,54.4,Month-to-month prediction
+Position → Future Frequency,31.9,Cross-metric prediction

@@ -1,0 +1,11 @@
+Metric,Value,Unit
+AI Model,GPT-4o,
+Stores Scanned,60924,stores
+Recommended Stores,599,stores
+Never Recommended,60325,stores
+Average Score (Recommended),55.4,points
+Average Score (Never Recommended),56.0,points
+Intent Difference,+39,percent
+Frequency Correlation (Intent),0.112,r
+Explained Variance,1.2,percent
+Niches Tested,9,niches

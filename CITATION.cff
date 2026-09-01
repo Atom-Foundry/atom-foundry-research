@@ -14,9 +14,10 @@ repository-code: "https://github.com/Atom-Foundry/atom-foundry-research"
 
 abstract: >
   Public research exploring how AI systems discover,
-  understand, trust, recommend and influence commercial
-  decisions. The repository contains research reports,
-  methodologies and datasets focused on AI Commerce
+  understand, evaluate, trust, select and recommend
+  ecommerce brands and products. The repository contains
+  research reports, controlled experiments, methodologies,
+  datasets and observations focused on AI Commerce
   Intelligence™, Recommendation Intelligence™ and
   AI-native commerce.
 
@@ -24,16 +25,21 @@ keywords:
   - AI Commerce
   - Ecommerce
   - Artificial Intelligence
-  - Recommendation Systems
   - AI Recommendations
-  - AI Commerce Intelligence
+  - Recommendation Systems
   - Recommendation Intelligence
-  - Ecommerce Research
+  - AI Commerce Intelligence
+  - AI Search
   - Generative AI
   - LLM
+  - Ecommerce Research
+  - AI Agents
+  - AI Decision Making
 
 license: MIT
 
-version: "1.0.0"
+version: "1.1.0"
 
-date-released: "2026-07-27"
+date-released: "2026-09-01"
+
+url: "https://atomfoundry.dev/research"

@@ -10,11 +10,11 @@ Understand how AI makes commercial decisions before everyone else.
 
 ## Research at a glance
 
-- **20 public research reports**
-- **40,000 AI recommendations analyzed**
+- **22 public research studies**
+- **40,000+ AI recommendations analyzed**
 - **1,490 brands measured**
 - **5 commerce categories**
-- **13,000+ ecommerce stores scanned**
+- **66,000+ ecommerce stores analyzed**
 - **100% real-world data**
 - **No surveys**
 - **No simulations**
@@ -40,10 +40,10 @@ Our primary research synthesizing what we have learned about AI recommendation s
 
 Controlled experiments designed to understand the mechanisms behind AI recommendation and selection.
 
-- Web Search Changes AI Recommendations
+- Web Search Rewrites 77% of AI Product Recommendations
 - The Fame Study, Corrected
-- AI Knows Your Website, It Still Won't Recommend You
-- AI Confabulates Its Reasons
+- AI Knows Your Website. It Still Won't Recommend You.
+- 29,633 Reasons. 26,812 Unique. The Model Confabulates.
 - Search Changes the Vocabulary, Not Just the Brands
 - Candidacy vs Selection
 - Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
@@ -187,7 +187,7 @@ Cross-category recommendation experiments launched.
 
 ### July 2026
 
-40,000 AI recommendations collected.
+20,000 AI recommendations collected.
 
 Initial mechanism studies published.
 
@@ -197,7 +197,11 @@ Controlled mechanism research expanded.
 
 Longitudinal, search, selection and signal experiments added.
 
-Research library expanded to 20 public reports.
+Research library expanded with additional mechanism studies and Founder Lab observations.
+
+### September 2026
+
+Research continues across recommendation intelligence, AI visibility, agentic commerce and AI decision science.
 
 ---
 
@@ -223,21 +227,35 @@ timeline/
 
 Website
 
+Main website:
+
 https://atomfoundry.dev
 
-## Research Library
+Research Library:
 
 https://atomfoundry.dev/research
 
-## Framework
+AI Commerce Intelligence Framework:
 
 https://atomfoundry.dev/framework
 
-## Citation
+Founder Lab:
 
-If you reference this work in research, articles or presentations, please cite the original report together with the publication date.
+https://founder.atomfoundry.dev
 
-## License
+Citation
+
+If you reference this work in research, articles, presentations or other publications, please cite the original report together with the publication date.
+
+Example:
+
+Atom Foundry. "The State of AI Recommendations Across Commerce 2026."
+Atom Foundry Research, 2026.
+https://atomfoundry.dev/research
+
+For individual mechanism studies, please cite the original study title and its publication date.
+
+License
 
 This repository is released under the MIT License.
 

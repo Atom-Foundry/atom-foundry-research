@@ -225,19 +225,19 @@ Website
 
 https://atomfoundry.dev
 
-Research Library
+## Research Library
 
 https://atomfoundry.dev/research
 
-Framework
+## Framework
 
 https://atomfoundry.dev/framework
 
-Citation
+## Citation
 
 If you reference this work in research, articles or presentations, please cite the original report together with the publication date.
 
-License
+## License
 
 This repository is released under the MIT License.
 

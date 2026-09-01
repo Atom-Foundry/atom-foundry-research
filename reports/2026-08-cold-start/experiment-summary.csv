@@ -1,0 +1,13 @@
+metric,value,unit,notes
+open_intents,50,intents,Phase 1
+entrenched_leaders,36,leaders,top brand ≥7/10
+zero_evidence_runs,360,runs,36×10
+phase3_runs,1080,runs,36×3×10
+total_calls,1940,calls,
+zero_evidence_win_rate,0,percent,0/360
+review_win_rate,53.1,percent,p<0.0001
+press_win_rate,1.9,percent,p=0.241
+volume_win_rate,0.3,percent,p=1.000
+strict_review_rate,47.8,percent,≥8/10 robustness cut
+strict_press_rate,0.7,percent,≥8/10 robustness cut
+strict_volume_rate,0.0,percent,≥8/10 robustness cut

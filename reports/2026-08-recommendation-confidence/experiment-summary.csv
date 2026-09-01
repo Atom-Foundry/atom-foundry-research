@@ -1,0 +1,18 @@
+metric,value,unit,notes
+intents_tracked,50,intents,10 categories
+categories,10,categories,
+sweeps,6,sweeps,June 30–August 26 2026
+days,58,days,
+recommendations_analyzed,30170,recommendations,
+locked_intents,43,intents,same #1 every sweep
+locked_rate,86,percent,43/50
+contested_intents,7,intents,#1 changed at least once
+confirmatory_runs,20,runs,three borderline intents
+athleta_share,60,percent,plus-size activewear
+nike_share,25,percent,plus-size activewear
+olay_share,50,percent,"eye cream, dark circles"
+clinique_share,25,percent,"eye cream, dark circles"
+fiesta_share,50,percent,ceramic dinnerware
+corelle_share,40,percent,ceramic dinnerware
+specialist_avg_position,1.6,position,supporting comparison
+generalist_avg_position,7.4,position,supporting comparison

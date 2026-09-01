@@ -1,0 +1,13 @@
+metric,value,unit,notes
+brands,95,brands,distinct brands mentioned
+signals,4,signals,"Wikipedia, Wikidata, domain age, GDELT"
+complete_brands,50,brands,all four signals present
+lookups,380,lookups,approximate public API/WHOIS
+wikipedia_r2,2.3,percent,p=0.135
+wikidata_r2,0.9,percent,p=0.365
+domain_age_r2,2.2,percent,p=0.147
+gdelt_r2,5.2,percent,p=0.095
+combined_r2,11.2,percent,n=50 complete brands
+original_fame_r2,1.2,percent,The Fame Study
+self_consistency_r2,61.4,percent,The Model Predicts Itself
+strict_combined_r2,6.1,percent,75-brand cut

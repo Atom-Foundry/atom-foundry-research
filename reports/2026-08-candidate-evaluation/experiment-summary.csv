@@ -1,0 +1,15 @@
+metric,value,unit,notes
+open_intents,50,intents,Phase 1
+runs_per_open_intent,10,runs,
+contested_pairs,16,pairs,after removing two duplicate-brand cases
+paired_baseline_calls,160,calls,16×10
+phase3_calls,480,calls,16×3×10
+total_calls,1140,calls,
+rating_follow_rate,100,percent,160/160
+spec_follow_rate,81.9,percent,
+price_follow_rate,60.6,percent,
+noise_floor,11.2,percent,paired no-data baseline
+rating_flip_rate,50.0,percent,"vs baseline, p<0.0001"
+spec_flip_rate,41.9,percent,"vs baseline, p=0.0004"
+price_flip_rate,26.9,percent,"vs baseline, p=0.055"
+rating_vs_price_gap,23.1,percentage_points,p=0.0012 adjusted

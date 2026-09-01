@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<rect width="100%" height="100%" fill="#fdfcfa"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#161512">Position-1 share at 20 runs</text>
+<text x="40" y="82" font-family="Arial, sans-serif" font-size="13" fill="#4a463c">Source: Atom Foundry research HTML · values reproduced from published page</text>
+<text x="40" y="128" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Athleta</text>
+<rect x="300" y="110" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="110" width="600.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="128" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">60%</text>
+<text x="40" y="183" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Nike</text>
+<rect x="300" y="165" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="165" width="250.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="183" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">25%</text>
+<text x="40" y="238" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Olay</text>
+<rect x="300" y="220" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="220" width="500.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="238" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">50%</text>
+<text x="40" y="293" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Clinique</text>
+<rect x="300" y="275" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="275" width="250.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="293" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">25%</text>
+<text x="40" y="348" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Fiesta</text>
+<rect x="300" y="330" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="330" width="500.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="348" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">50%</text>
+<text x="40" y="403" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4a463c">Corelle</text>
+<rect x="300" y="385" width="600" height="24" rx="4" fill="#e6e2d6"/>
+<rect x="300" y="385" width="400.00" height="24" rx="4" fill="#fe6a03"/>
+<text x="930" y="403" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#161512">40%</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="464" viewBox="0 0 1200 464">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="60" y="62" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#161512">Selection Pull vs No-Fact Baseline</text>
+<text x="60" y="98" font-family="Arial,sans-serif" font-size="16" fill="#4a463c">Combined result · percentage-point lift</text>
+<text x="60" y="174" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">Neutral</text>
+<rect x="390" y="150" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="150" width="196.9" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="172" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">30.3%</text>
+<text x="60" y="252" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">Third party</text>
+<rect x="390" y="228" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="228" width="331.5" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="250" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">51%</text>
+<text x="60" y="330" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">Self-claim</text>
+<rect x="390" y="306" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="306" width="438.1" height="28" rx="4" fill="#fe6a03"/>
+<text x="1058" y="328" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">67.4%</text>
+<text x="390" y="356" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">Largest pull toward target</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="854" viewBox="0 0 1200 854">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="60" y="62" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#161512">Round 1 vs Round 2</text>
+<text x="60" y="98" font-family="Arial,sans-serif" font-size="16" fill="#4a463c">Round 2 rebuilt attribution wrappers to near-identical word counts</text>
+<text x="60" y="174" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R1 · No fact</text>
+<rect x="390" y="150" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="150" width="1.3" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="172" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">0.2%</text>
+<text x="60" y="252" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R2 · No fact</text>
+<rect x="390" y="228" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="228" width="0.0" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="250" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">0%</text>
+<text x="60" y="330" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R1 · Neutral</text>
+<rect x="390" y="306" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="306" width="149.5" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="328" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">23%</text>
+<text x="60" y="408" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R2 · Neutral</text>
+<rect x="390" y="384" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="384" width="245.7" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="406" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">37.8%</text>
+<text x="60" y="486" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R1 · Third party</text>
+<rect x="390" y="462" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="462" width="280.8" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="484" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">43.2%</text>
+<text x="60" y="564" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R2 · Third party</text>
+<rect x="390" y="540" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="540" width="383.5" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="562" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">59%</text>
+<text x="60" y="642" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R1 · Self-claim</text>
+<rect x="390" y="618" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="618" width="423.8" height="28" rx="4" fill="#847e6d"/>
+<text x="1058" y="640" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">65.2%</text>
+<text x="60" y="720" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#4a463c">R2 · Self-claim</text>
+<rect x="390" y="696" width="650" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="390" y="696" width="453.7" height="28" rx="4" fill="#fe6a03"/>
+<text x="1058" y="718" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#161512">69.8%</text>
+<text x="390" y="746" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">Ordering holds</text>
+</svg>

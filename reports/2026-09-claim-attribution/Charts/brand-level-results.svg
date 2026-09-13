@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="60" y="62" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#161512">Combined Winner Rate by Brand</text>
+<text x="60" y="98" font-family="Arial,sans-serif" font-size="16" fill="#4a463c">n=200 per brand per condition · both rounds combined</text>
+<rect x="330" y="120" width="14" height="14" fill="#c7c1b3"/><text x="352" y="133" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">No fact</text>
+<rect x="550" y="120" width="14" height="14" fill="#847e6d"/><text x="572" y="133" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">Neutral</text>
+<rect x="770" y="120" width="14" height="14" fill="#5f5a50"/><text x="792" y="133" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">Third party</text>
+<rect x="990" y="120" width="14" height="14" fill="#fe6a03"/><text x="1012" y="133" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">Self-claim</text>
+<text x="60" y="177" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Colored Organics</text>
+<rect x="330" y="155" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="330" y="155" width="0.0" height="28" rx="4" fill="#c7c1b3"/>
+<text x="508" y="176" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">0%</text>
+<rect x="550" y="155" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="550" y="155" width="76.5" height="28" rx="4" fill="#847e6d"/>
+<text x="728" y="176" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">45%</text>
+<rect x="770" y="155" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="770" y="155" width="98.6" height="28" rx="4" fill="#5f5a50"/>
+<text x="948" y="176" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">58%</text>
+<rect x="990" y="155" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="990" y="155" width="142.8" height="28" rx="4" fill="#fe6a03"/>
+<text x="1168" y="176" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">84%</text>
+<text x="60" y="302" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Barbaro Mojo</text>
+<rect x="330" y="280" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="330" y="280" width="0.0" height="28" rx="4" fill="#c7c1b3"/>
+<text x="508" y="301" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">0%</text>
+<rect x="550" y="280" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="550" y="280" width="71.4" height="28" rx="4" fill="#847e6d"/>
+<text x="728" y="301" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">42%</text>
+<rect x="770" y="280" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="770" y="280" width="112.2" height="28" rx="4" fill="#5f5a50"/>
+<text x="948" y="301" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">66%</text>
+<rect x="990" y="280" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="990" y="280" width="136.0" height="28" rx="4" fill="#fe6a03"/>
+<text x="1168" y="301" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">80%</text>
+<text x="60" y="427" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Hearthloom</text>
+<rect x="330" y="405" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="330" y="405" width="0.0" height="28" rx="4" fill="#c7c1b3"/>
+<text x="508" y="426" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">0%</text>
+<rect x="550" y="405" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="550" y="405" width="57.8" height="28" rx="4" fill="#847e6d"/>
+<text x="728" y="426" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">34%</text>
+<rect x="770" y="405" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="770" y="405" width="122.4" height="28" rx="4" fill="#5f5a50"/>
+<text x="948" y="426" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">72%</text>
+<rect x="990" y="405" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="990" y="405" width="146.2" height="28" rx="4" fill="#fe6a03"/>
+<text x="1168" y="426" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">86%</text>
+<text x="60" y="552" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">BodyArtForms</text>
+<rect x="330" y="530" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="330" y="530" width="0.0" height="28" rx="4" fill="#c7c1b3"/>
+<text x="508" y="551" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">0%</text>
+<rect x="550" y="530" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="550" y="530" width="0.0" height="28" rx="4" fill="#847e6d"/>
+<text x="728" y="551" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">0%</text>
+<rect x="770" y="530" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="770" y="530" width="13.6" height="28" rx="4" fill="#5f5a50"/>
+<text x="948" y="551" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">8%</text>
+<rect x="990" y="530" width="170" height="28" rx="4" fill="#e6e2d6"/>
+<rect x="990" y="530" width="35.7" height="28" rx="4" fill="#fe6a03"/>
+<text x="1168" y="551" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#161512">21%</text>
+</svg>

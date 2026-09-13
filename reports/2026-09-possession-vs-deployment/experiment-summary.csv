@@ -1,0 +1,22 @@
+metric,dimension,value,numerator,denominator,unit,notes
+gap_rate,cohort,75.8,,,percent,"Possessed but never deployed; 95% CI 69.9–81.6%; n=1,392 fact-cell checks."
+deployment_rate,cohort,24.2,,,percent,Actually deployed when the brand was mentioned.
+fact_cell_checks,cohort,1392,,,count,Across 9 brands.
+brands_tested,cohort,9,,,count,Possession/deployment cohort.
+possession_probe_calls,cohort,27,,,count,9 brands × 3 runs.
+deployment_observations_reused,cohort,3600,,,count,Previously collected buyer-question observations.
+scoring_calls_approx,cohort,280,,,count,Approximately one new scoring call per sampled mentioned cell.
+cells_scored,cohort,308,,,count,Capped at 40 cells per brand.
+deployment_rate,Onyx Coffee Lab,8.8,0,40,percent,Reported source value.
+deployment_rate,Peak Design,17,0,40,percent,Reported source value.
+deployment_rate,Branch,20.7,0,23,percent,Thinner sample than the 40-cell brands.
+deployment_rate,Bellroy,22.5,0,40,percent,Reported source value.
+deployment_rate,Rumpl,23,0,40,percent,Reported source value.
+deployment_rate,Wild One,27,0,40,percent,Reported source value.
+deployment_rate,Boll & Branch,35.6,0,40,percent,Reported source value.
+deployment_rate,Caraway,37.5,0,40,percent,Reported source value.
+deployment_rate,Zigpoll,40,0,5,percent,Smallest sample; source flags wide uncertainty.
+deployment_vs_recommend_rate_correlation,9_brand_sample,-0.04,,,r,"p = 0.91, n = 9; underpowered by design."
+deployment_vs_recommend_rate_p_value,9_brand_sample,0.91,,,p,Source reports no visible relationship.
+Topicals_mentions,excluded_brand,0,0,400,count,Excluded because there was nothing to check deployment against.
+Topicals_candidacy_rate,excluded_brand,0,0,400,percent,0 mentions in 400 buyer-question observations.

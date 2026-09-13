@@ -1,115 +1,42 @@
-# Experiment Summary
-
-## Study Overview
-
-| Metric | Value | Unit | Notes |
-|---|---:|---|---|
-| Study number | 27 | number | |
-| Published date | 2026-09-11 | date | |
-| Model | gpt-4o | text | |
-| Brands | 9 | number | |
-| Total claims | 40 | number | |
-| Checkable claims | 34 | number | |
-| Descriptive claims | 6 | number | |
-| Confirmed claims | 33 | number | |
-| Contradicted claims | 1 | number | |
-| New API calls | 0 | number | |
-| Brand Accuracy Score (BAS) | 97.1% | percent | 33 confirmed of 34 checkable claims |
-| Coverage Depth Index (CDI) | 61.1% | percent | 44 covered brand-category pairs of 72 possible |
-| Covered pairs | 44 | number | |
-| Possible pairs | 72 | number | |
-
----
-
-## Brand Accuracy Score
-
-BAS measures the percentage of checkable factual claims that were confirmed through independent verification.
-
-| Brand | Checkable Claims | Confirmed Claims | BAS |
-|---|---:|---:|---:|
-| Bellroy | 4 | 3 | 75.0% |
-| Boll & Branch | 4 | 4 | 100.0% |
-| Branch | 4 | 4 | 100.0% |
-| Caraway | 3 | 3 | 100.0% |
-| Onyx Coffee Lab | 4 | 4 | 100.0% |
-| Peak Design | 5 | 5 | 100.0% |
-| Rumpl | 3 | 3 | 100.0% |
-| Wild One | 4 | 4 | 100.0% |
-| Zigpoll | 3 | 3 | 100.0% |
-
-### Overall BAS
-
-**33 of 34 checkable claims were confirmed.**
-
-**BAS = 97.1%**
-
----
-
-## Coverage Depth Index
-
-CDI measures how much of the predefined attribute space the model covered without being explicitly prompted for each individual topic.
-
-| Brand | Categories Covered | Possible Categories | CDI |
-|---|---:|---:|---:|
-| Bellroy | 7 | 8 | 87.5% |
-| Boll & Branch | 6 | 8 | 75.0% |
-| Wild One | 6 | 8 | 75.0% |
-| Branch | 6 | 8 | 75.0% |
-| Peak Design | 5 | 8 | 62.5% |
-| Rumpl | 5 | 8 | 62.5% |
-| Onyx Coffee Lab | 4 | 8 | 50.0% |
-| Caraway | 3 | 8 | 37.5% |
-| Zigpoll | 2 | 8 | 25.0% |
-
-### Overall CDI
-
-**44 of 72 possible brand-category pairs were covered.**
-
-**CDI = 61.1%**
-
----
-
-## Category Coverage
-
-| Category | Brands Covered | Total Brands | Coverage |
-|---|---:|---:|---:|
-| Sustainability / Ethics | 8 | 9 | 88.9% |
-| Materials | 7 | 9 | 77.8% |
-| Pricing / Positioning | 7 | 9 | 77.8% |
-| Design / Functionality | 7 | 9 | 77.8% |
-| Competitor Comparison | 5 | 9 | 55.6% |
-| Business Model / Distribution | 4 | 9 | 44.4% |
-| Warranty / Returns | 3 | 9 | 33.3% |
-| Certifications / Awards | 3 | 9 | 33.3% |
-
----
-
-## Study Totals
-
-| Metric | Result |
-|---|---:|
-| Brands tested | 9 |
-| Total claims collected | 40 |
-| Checkable claims | 34 |
-| Descriptive claims | 6 |
-| Confirmed claims | 33 |
-| Contradicted claims | 1 |
-| Brand Accuracy Score | 97.1% |
-| Possible brand-category pairs | 72 |
-| Covered brand-category pairs | 44 |
-| Coverage Depth Index | 61.1% |
-| New API calls | 0 |
-
----
-
-## Key Finding
-
-The model was highly accurate about the information it volunteered.
-
-The larger gap was **what it did not volunteer**.
-
-High factual accuracy does not necessarily mean a deep representation of a brand.
-
-A model can be:
-
-**accurate but incomplete.**
+metric,dimension,value,numerator,denominator,unit,notes
+study,study_number,27,,,,study,
+study,published_date,2026-09-11,,,,date,
+study,model,gpt-4o,,,,model,reused possession dataset; zero new API calls
+study,brands,9,9,9,brands,Wave-1 brands
+study,total_claims,40,40,40,claims,reused from Possession vs Deployment
+study,checkable_claims,34,34,40,claims,factual/falsifiable claims scored for BAS
+study,descriptive_claims,6,6,40,claims,excluded from BAS; retained for CDI
+accuracy,confirmed_claims,33,33,34,claims,independently confirmed
+accuracy,contradicted_claims,1,1,34,claims,Bellroy pricing comparison involving Nomatic
+accuracy,BAS,97.1,33,34,percent,confirmed checkable claims / checkable claims
+accuracy,Bellroy_BAS,75.0,3,4,percent,one contradicted claim
+accuracy,Boll_and_Branch_BAS,100.0,4,4,percent,all checkable claims confirmed
+accuracy,Branch_BAS,100.0,4,4,percent,all checkable claims confirmed
+accuracy,Caraway_BAS,100.0,3,3,percent,all checkable claims confirmed
+accuracy,Onyx_Coffee_Lab_BAS,100.0,4,4,percent,all checkable claims confirmed after re-verification
+accuracy,Peak_Design_BAS,100.0,5,5,percent,all checkable claims confirmed
+accuracy,Rumpl_BAS,100.0,3,3,percent,all checkable claims confirmed
+accuracy,Wild_One_BAS,100.0,4,4,percent,all checkable claims confirmed
+accuracy,Zigpoll_BAS,100.0,3,3,percent,all checkable claims confirmed
+depth,total_categories,8,8,8,categories,Atom Foundry taxonomy
+depth,total_possible_pairs,72,72,72,pairs,9 brands x 8 categories
+depth,covered_pairs,44,44,72,pairs,category-brand pairs touched unprompted
+depth,CDI,61.1,44,72,percent,covered pairs / possible pairs
+depth,Bellroy_CDI,87.5,7,8,percent,
+depth,Boll_and_Branch_CDI,75.0,6,8,percent,
+depth,Wild_One_CDI,75.0,6,8,percent,
+depth,Branch_CDI,75.0,6,8,percent,
+depth,Peak_Design_CDI,62.5,5,8,percent,
+depth,Rumpl_CDI,62.5,5,8,percent,
+depth,Onyx_Coffee_Lab_CDI,50.0,4,8,percent,
+depth,Caraway_CDI,37.5,3,8,percent,
+depth,Zigpoll_CDI,25.0,2,8,percent
+category,Sustainability_Ethics,88.9,8,9,percent,brands where category appeared unprompted
+category,Materials,77.8,7,9,percent,brands where category appeared unprompted
+category,Pricing_Positioning,77.8,7,9,percent,brands where category appeared unprompted
+category,Design_Functionality,77.8,7,9,percent,brands where category appeared unprompted
+category,Competitor_Comparison,55.6,5,9,percent,brands where category appeared unprompted
+category,Business_Model_Distribution,44.4,4,9,percent,brands where category appeared unprompted
+category,Warranty_Returns,33.3,3,9,percent,brands where category appeared unprompted
+category,Certifications_Awards,33.3,3,9,percent,brands where category appeared unprompted
+methodology,new_model_calls,0,0,0,calls,study reuses existing possession claims

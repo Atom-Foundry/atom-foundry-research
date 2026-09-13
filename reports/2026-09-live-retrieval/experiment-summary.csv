@@ -1,0 +1,13 @@
+metric,dimension,value,numerator,denominator,unit,notes
+search_tool_invocation_rate,open_buyer_questions,0,0,960,percent,Main live-search collection plus confirmatory rerun; zero invocations.
+search_tool_invocation_rate,diagnostic_explicit_realtime,66.7,2,3,percent,Two of three diagnostic prompts triggered search; each returned ten citations.
+live_search_mention_rate,Brand A,0.5,1,200,percent,Published baseline 1.25%; Fact Injection ceiling 97.5%.
+live_search_mention_rate,Brand B,2.5,5,200,percent,Published baseline 5.75%; Fact Injection ceiling 97%.
+live_search_mention_rate,Brand C,13.5,27,200,percent,Published baseline 16.5%; Fact Injection ceiling 96%.
+live_search_mention_rate,Brand D,0,0,200,percent,Published baseline 0%; Fact Injection ceiling 44.5%.
+realized_ceiling_share,Brand A,-0.8,,,percent,Study-reported realized ceiling: (live rate - baseline) / (injected rate - baseline).
+realized_ceiling_share,Brand B,-3.6,,,percent,Study-reported realized ceiling.
+realized_ceiling_share,Brand C,-3.8,,,percent,Study-reported realized ceiling.
+realized_ceiling_share,Brand D,0,,,percent,Study-reported realized ceiling; baseline and live rate both 0%.
+fact_usage_among_live_mentions,all_eligible_cells,36.4,12,33,percent,Completeness metric only; sample too thin for a meaningful standalone finding.
+reference_ceiling,average_fact_injection_lift,77.9,,,percentage_points,Average mention-rate lift from the Fact Injection study.

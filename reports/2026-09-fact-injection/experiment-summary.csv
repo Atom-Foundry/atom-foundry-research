@@ -1,0 +1,35 @@
+metric,dimension,value,numerator,denominator,unit,notes
+study,study_number,25,,,study,
+study,published_date,2026-09-08,,,date,
+study,model,gpt-4o,,,model,
+study,brands,4,4,4,brands,Deliberately selected underperformers
+study,buyer_prompts_per_brand,20,20,20,prompts,Existing published buyer-question set
+study,repeats_per_prompt,10,10,10,repeats,Injected condition
+study,injected_calls,800,800,800,calls,4 brands × 20 prompts × 10 repeats
+study,judge_calls,240,240,240,calls,60 judged mentioned cells per brand
+study,new_calls_total,1050,,,calls,Approximate; includes judge scoring
+result,Brand A_baseline,1.25,,,percent,Published Recommendation Reports baseline
+result,Brand A_injected,97.5,,,percent,With fact injected
+result,Brand A_lift,96.25,,,percentage_points,Injected minus baseline
+result,Brand B_baseline,5.75,,,percent,Published Recommendation Reports baseline
+result,Brand B_injected,97.0,,,percent,With fact injected
+result,Brand B_lift,91.25,,,percentage_points,Injected minus baseline
+result,Brand C_baseline,16.5,,,percent,Published Recommendation Reports baseline
+result,Brand C_injected,96.0,,,percent,With fact injected
+result,Brand C_lift,79.50,,,percentage_points,Injected minus baseline
+result,Brand D_baseline,0.0,,,percent,Published Recommendation Reports baseline
+result,Brand D_injected,44.5,,,percent,With fact injected
+result,Brand D_lift,44.50,,,percentage_points,Injected minus baseline
+result,average_mention_rate_lift,77.9,,,percentage_points,Across four brands
+fact_usage,Brand A,88.3,53,60,percent,Fact actually cited or paraphrased when mentioned
+fact_usage,Brand B,46.7,28,60,percent,Fact actually cited or paraphrased when mentioned
+fact_usage,Brand C,33.3,20,60,percent,Fact actually cited or paraphrased when mentioned
+fact_usage,Brand D,33.3,20,60,percent,Fact actually cited or paraphrased when mentioned
+fact_usage,average,50.4,,,percent,Average fact usage when mentioned
+diagnostic,Brand A_ratio,1.09,,,ratio,Mention-rate lift divided by fact-usage rate
+diagnostic,Brand B_ratio,1.96,,,ratio,Mention-rate lift divided by fact-usage rate
+diagnostic,Brand C_ratio,2.39,,,ratio,Widest gap
+diagnostic,Brand D_ratio,1.34,,,ratio,Mention-rate lift divided by fact-usage rate
+diagnostic,brands_ratio_above_1,4,4,4,brands,All brands in the cohort
+validation,manual_spot_check,14,14,15,calls,Judge agreement
+validation,manual_spot_check_disagreement,1,1,15,calls,Likely conservative false negative

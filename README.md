@@ -1,26 +1,24 @@
 # Atom Foundry Research
 
-Public research, datasets and frameworks for understanding how AI systems discover, evaluate, select and recommend businesses.
+Public research exploring how AI systems discover, understand, trust, recommend, and influence commercial decisions.
 
-Our mission is simple.
-
-Understand how AI makes commercial decisions before everyone else.
+Atom Foundry Research is an independent research initiative focused on AI Commerce Intelligence™. We study AI behavior through real experiments, transparent methods, and public research.
 
 ---
 
-## Research at a glance
+# Research at a Glance
 
-- **22 public research studies**
-- **40,000+ AI recommendations analyzed**
-- **1,490 brands measured**
-- **5 commerce categories**
-- **66,000+ ecommerce stores analyzed**
-- **100% real-world data**
-- **No surveys**
-- **No simulations**
-- **No synthetic datasets**
+* **31 public research publications**
+* **40,000+ AI recommendations analyzed**
+* **1,490 brands observed**
+* **100 buyer intent prompts**
+* **5 ecommerce categories**
+* **66,090 ecommerce stores analyzed**
+* **100% real world data**
+* **No synthetic datasets**
+* **Public methodology**
 
-Every report published here is based on captured AI responses, real ecommerce stores and controlled, reproducible experiments.
+Every report is based on recorded AI responses, real ecommerce stores, and controlled experiments.
 
 ---
 
@@ -28,61 +26,68 @@ Every report published here is based on captured AI responses, real ecommerce st
 
 ## Flagship Research
 
-Our primary research synthesizing what we have learned about AI recommendation systems across commerce.
+Our main cross category research report.
 
-| Report | Description |
-|---------|-------------|
-| **The State of AI Recommendations Across Commerce 2026** | Cross-category analysis of 20,000 AI recommendations across five commerce industries. |
-
----
+* The State of AI Recommendations Across Commerce 2026
 
 ## Mechanism Studies
 
-Controlled experiments designed to understand the mechanisms behind AI recommendation and selection.
+Controlled experiments that test how AI recommendation and selection work.
 
-- Web Search Rewrites 77% of AI Product Recommendations
-- The Fame Study, Corrected
-- AI Knows Your Website. It Still Won't Recommend You.
-- 29,633 Reasons. 26,812 Unique. The Model Confabulates.
-- Search Changes the Vocabulary, Not Just the Brands
-- Candidacy vs Selection
-- Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
-- Two Months Later, the Model Still Agrees With Itself
-- Hand It a Rating, and It Follows Every Single Time
-- We Invented a Brand With Zero History. Reviews Got It Picked Anyway
-- We Widened the Fame Signal Four Ways. It Barely Moved
-- The Model Hedges Most When It's Most Sure
-
-These studies are designed to isolate individual variables and test whether observed patterns survive controlled changes.
-
----
+* Web Search Rewrites 77% of AI Product Recommendations
+* The Fame Study, Corrected
+* AI Knows Your Website. It Still Won't Recommend You.
+* 29,633 Reasons. 26,812 Unique. The Model Confabulates.
+* Search Changes the Vocabulary, Not Just the Brands
+* Candidacy vs Selection
+* Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
+* Two Months Later, the Model Still Agrees With Itself
+* Hand It a Rating, and It Follows Every Single Time
+* We Invented a Brand With Zero History. Reviews Got It Picked Anyway
+* We Widened the Fame Signal Four Ways. It Barely Moved
+* The Model Hedges Most When It's Most Sure
+* The Model Knows 6 Facts About Your Brand. It Uses One
+* It Recommends You First. By Turn Four, It's Moved On.
+* Give the Model the One Fact It's Missing. The Brand Goes From Invisible to Everywhere.
+* Tell the Model You Saw an Ad. It Recommends That Brand 88% of the Time
+* The Model Is Almost Never Wrong About Your Brand. It Just Doesn't Say Much.
+* The Model Had Real Web Search. It Never Once Reached for It.
+* We Described One Brand to the Model, Real or Invented. It Recommended That Brand Anyway.
+* Ask Like You're Googling It, and the AI Recommends the Brand 15.6 Points Less
+* Say It Yourself, and the Model Picks You 67.5% of the Time. A Third Party Only Gets 51.1%.
 
 ## Category Reports
 
-Repeated recommendation experiments performed independently across different commerce categories.
+Repeated recommendation studies across five ecommerce categories.
 
-- Beauty
-- Supplements
-- Coffee
-- Pets
-- Home & Living
+* Beauty
+* Supplements
+* Coffee
+* Pets
+* Home & Living
 
-Each category report follows the same core methodology, allowing results to be compared across industries.
-
----
+Each category report uses the same core research method so results can be compared across categories.
 
 ## Founder Lab
 
-Founder Lab is our public laboratory.
+Founder Lab is our public research laboratory.
 
-Instead of studying ecommerce brands only, we also build and document our own AI-native brand in public.
+We also build and document an AI native ecommerce brand in public.
 
 Current publications:
 
-- Founder Lab — Day Zero
-- Founder Lab — Research Log
+* Founder Lab: Day Zero
+* Founder Lab: Research Log
 
-The Founder Lab records changes, rescans and observations as they happen.
+## Research Map
+
+How AI Decides is the living map of the research program.
+
+It describes the working path from memory and retrieval through understanding, candidacy, evaluation, recommendation, stability, confidence, and purchase. It is a research model, not a claim that every AI system follows the same fixed process.
+
+## Supporting Research
+
+Founder Reality Check documents the practical reality of building Atom Foundry and the research program in public.
 
 ---
 
@@ -90,20 +95,23 @@ The Founder Lab records changes, rescans and observations as they happen.
 
 Atom Foundry researches how AI systems:
 
-- discover businesses
-- understand products
-- build candidate sets
-- select between alternatives
-- generate recommendations
-- explain their decisions
-- respond to web search
-- change their vocabulary and information retrieval
-- maintain or change recommendation behavior over time
-- respond to controlled changes in information and signals
+* discover businesses
+* understand websites and products
+* build candidate sets
+* evaluate alternatives
+* select brands
+* generate recommendations
+* explain decisions
+* respond to web search
+* use information they already have
+* deploy only some of the information they know
+* change behavior across a conversation
+* respond to controlled changes in information and context
+* influence commercial outcomes
 
-The goal is not simply to measure whether a brand is visible.
+The goal is not only to measure visibility.
 
-The goal is to understand the mechanisms that determine which brands AI systems actually choose.
+The goal is to understand why an AI system chooses one brand over another.
 
 ---
 
@@ -111,15 +119,17 @@ The goal is to understand the mechanisms that determine which brands AI systems 
 
 Every report follows the same principles.
 
-- Real AI responses
-- Real ecommerce stores
-- Controlled experiments
-- Public methodology
-- Reproducible analysis
-- No paid placements
-- No sponsored conclusions
+* Real AI responses
+* Real ecommerce stores
+* Controlled experiments
+* Public methodology
+* Reproducible analysis
+* Independent analysis
+* No paid placements
+* No sponsored conclusions
+* No synthetic datasets
 
-We separate observed behavior from interpretation.
+We separate measured behavior from interpretation.
 
 If we cannot measure it, we do not publish it as a finding.
 
@@ -127,39 +137,39 @@ If we cannot measure it, we do not publish it as a finding.
 
 # Methodology
 
-Our research combines several independent datasets and experimental approaches.
+Our research uses several methods.
 
-Including:
+* AI recommendation experiments
+* AI Commerce Score™ measurements
+* Website analysis
+* AI readability evaluation
+* AI understanding analysis
+* AI trust analysis
+* Cross model comparison
+* Web search experiments
+* Controlled signal changes
+* Longitudinal studies
+* Candidate set analysis
+* Selection analysis
+* Multi turn conversation studies
 
-- AI recommendation experiments
-- AI Commerce Score™ measurements
-- Store architecture analysis
-- AI readability evaluation
-- AI understanding analysis
-- AI trust analysis
-- Cross-model comparison
-- Controlled web search experiments
-- Controlled signal manipulation
-- Longitudinal rescans
-- Candidate set and selection analysis
-
-The research is built around recorded observations and controlled comparisons rather than assumptions about how AI systems work.
+The research is based on recorded observations and controlled comparisons.
 
 ---
 
 # AI Commerce Intelligence™
 
-This repository supports the development of the AI Commerce Intelligence™ Framework.
+This repository supports the AI Commerce Intelligence™ Framework.
 
 Core concepts include:
 
-- AI Readability™
-- AI Understanding™
-- AI Trust™
-- Recommendation Intelligence™
-- Recommendation Share™
-- Recommendation Confidence™
-- AI Commerce Score™
+* AI Readability™
+* AI Understanding™
+* AI Trust™
+* Recommendation Intelligence™
+* Recommendation Share™
+* Recommendation Confidence™
+* AI Commerce Score™
 
 More information:
 
@@ -169,39 +179,41 @@ https://atomfoundry.dev/framework
 
 # Research Timeline
 
-### January 2026
+## January 2026
 
 Research begins.
 
-### March 2026
+## March 2026
 
-First ecommerce stores scanned.
+First ecommerce stores are scanned.
 
-### May 2026
+## May 2026
 
-AI Commerce Intelligence™ introduced.
+AI Commerce Intelligence™ is introduced.
 
-### June 2026
+## June 2026
 
-Cross-category recommendation experiments launched.
+Cross category recommendation research begins.
 
-### July 2026
+## July 2026
 
-20,000 AI recommendations collected.
+20,000 AI recommendations are collected.
 
-Initial mechanism studies published.
+The first mechanism studies are published.
 
-### August 2026
+## August 2026
 
-Controlled mechanism research expanded.
+Controlled mechanism research expands.
 
-Longitudinal, search, selection and signal experiments added.
+Research adds studies on stability, selection, fame, search, and signal changes.
 
-Research library expanded with additional mechanism studies and Founder Lab observations.
+Founder Lab research also expands.
 
-### September 2026
+## September 2026
 
-Research continues across recommendation intelligence, AI visibility, agentic commerce and AI decision science.
+Research expands into recommendation intelligence, AI visibility, agentic commerce, and AI decision science.
+
+New studies examine facts, retrieval, hidden context, multi turn conversations, accuracy, brand legibility, attribution, and prompt shape.
 
 ---
 
@@ -214,18 +226,32 @@ reports/
     categories/
 
 founder-lab/
-
 framework/
-
 methodology/
-
 datasets/
-
 observations/
-
 timeline/
+```
 
-Website
+Each research report can contain its own summary, methodology, experiment data, and charts.
+
+---
+
+# Research Thesis
+
+The first generation of AI commerce focused on visibility.
+
+The next generation will focus on recommendation.
+
+Being discovered is not the same as being recommended.
+
+Being recommended is not the same as being chosen.
+
+Atom Foundry exists to understand the difference.
+
+---
+
+# Website
 
 Main website:
 
@@ -243,20 +269,23 @@ Founder Lab:
 
 https://founder.atomfoundry.dev
 
-Citation
+---
 
-If you reference this work in research, articles, presentations or other publications, please cite the original report together with the publication date.
+# Citation
+
+If you reference this work, cite the original report and its publication date.
 
 Example:
 
 Atom Foundry. "The State of AI Recommendations Across Commerce 2026."
 Atom Foundry Research, 2026.
+
 https://atomfoundry.dev/research
 
-For individual mechanism studies, please cite the original study title and its publication date.
+For individual mechanism studies, cite the original study title and publication date.
 
-License
+---
 
-This repository is released under the MIT License.
+Published by **Atom Foundry**
 
-See LICENSE for details.
+Advancing AI Commerce Intelligence™ through open research.

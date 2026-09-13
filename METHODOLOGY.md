@@ -1,8 +1,8 @@
 # Atom Foundry Research Methodology
 
-This document describes the standard methodology used across all public research published by Atom Foundry.
+This document describes the standard research method used across Atom Foundry Research.
 
-Every report follows the same research principles, data collection process and analytical framework unless explicitly stated otherwise.
+Every report follows the same research principles and data standards unless the report states otherwise.
 
 ---
 
@@ -10,62 +10,57 @@ Every report follows the same research principles, data collection process and a
 
 Atom Foundry studies how modern AI systems make commercial decisions.
 
-Rather than relying on surveys, opinions or theoretical assumptions, every study is based on direct observation of AI behavior under controlled conditions.
+We use direct observation instead of surveys, opinions, or assumptions.
 
-Our objective is to measure what AI systems actually do, not what they claim to do.
+Our goal is to measure what AI systems actually do.
 
 ---
 
 # Research Principles
 
-Every published report follows the same principles.
+Every report follows these principles.
 
-- Real AI responses
-- Real ecommerce stores
-- Public methodology
-- Reproducible experiments
-- Transparent assumptions
-- Independent analysis
-- No sponsored conclusions
-- No synthetic datasets
+* Real AI responses
+* Real ecommerce stores
+* Public methodology
+* Reproducible experiments
+* Transparent assumptions
+* Independent analysis
+* No sponsored conclusions
+* No synthetic datasets
 
-If a result cannot be measured, it is not included.
+If a result cannot be measured, it is not included as a finding.
 
 ---
 
 # Research Pipeline
 
-Every study follows a standardized workflow.
+A standard study follows this process.
 
 1. Define the research question.
+2. Select the ecommerce category or experiment.
+3. Design buyer intent prompts.
+4. Run repeated AI sessions.
+5. Capture every relevant response.
+6. Normalize merchant and brand names.
+7. Measure relevant AI Commerce Score™ data when needed.
+8. Compare recommendation behavior with the tested variables.
+9. Analyze the results.
+10. Publish the findings and method.
 
-2. Select the ecommerce category or experimental scenario.
-
-3. Design buyer-intent prompts.
-
-4. Execute repeated AI recommendation sessions.
-
-5. Capture every recommendation.
-
-6. Normalize merchant identities.
-
-7. Measure AI Commerce Score™ for every observed store.
-
-8. Compare recommendation behavior with technical readiness.
-
-9. Analyze results.
-
-10. Publish the findings.
+Individual studies can use a different process when the research question requires it.
 
 ---
 
 # Prompt Design
 
-All recommendation studies use buyer-intent prompts designed to simulate realistic shopping behavior.
+Recommendation studies use buyer intent prompts that represent realistic shopping tasks.
 
-Prompts focus on purchase intent rather than informational queries.
+Prompts focus on purchase intent rather than simple information requests.
 
-Each category uses an equivalent prompt structure to enable comparison across industries.
+When a study compares categories, the prompt structure is kept as consistent as possible.
+
+Mechanism studies can use custom prompts when a controlled experiment requires them.
 
 ---
 
@@ -73,72 +68,120 @@ Each category uses an equivalent prompt structure to enable comparison across in
 
 Recommendations are collected directly from AI model responses.
 
-For every recommendation we record relevant information including:
+Relevant fields can include:
 
-- Merchant
-- Brand
-- Category
-- Prompt
-- Response
-- Timestamp
-- Experimental context
+* Merchant
+* Brand
+* Category
+* Prompt
+* Response
+* Timestamp
+* Model
+* Search condition
+* Experimental condition
 
-Recommendations are then normalized to remove duplicates and inconsistent naming.
+Responses are normalized to remove duplicate names and inconsistent naming.
 
 ---
 
 # AI Commerce Score™
 
-Every observed ecommerce store is independently evaluated using the Atom Foundry AI Commerce Score™.
+The AI Commerce Score™ is an independent technical measurement of an ecommerce store.
 
-The score measures how effectively an ecommerce website can be discovered, understood and evaluated by modern AI systems.
+It measures signals related to how effectively an ecommerce website can be discovered, understood, and evaluated by AI systems.
 
-The AI Commerce Score™ is used as an independent technical measurement and is not influenced by recommendation frequency.
+The score is separate from recommendation frequency.
+
+A high score does not automatically mean that a brand will be recommended.
+
+---
+
+# Controlled Experiments
+
+Mechanism studies change one or more defined variables while keeping other conditions as stable as possible.
+
+Examples include:
+
+* Web search availability
+* Brand facts
+* Ratings
+* Product information
+* Hidden context
+* Prompt wording
+* Conversation turns
+* Information order
+* Claim source
+
+The exact controls are documented in each report.
 
 ---
 
 # Data Validation
 
-Before publication every dataset is reviewed to identify:
+Before publication, datasets are reviewed for:
 
-- duplicate merchants
-- inconsistent naming
-- missing observations
-- abnormal outputs
-- collection errors
+* duplicate merchants
+* inconsistent names
+* missing observations
+* abnormal outputs
+* collection errors
 
-Only validated observations are included in published research.
+Only validated observations are included in published findings.
+
+---
+
+# Analysis
+
+Analysis can include:
+
+* Recommendation rate
+* Winner rate
+* Mention rate
+* Recommendation position
+* Candidate formation
+* Selection rate
+* Correlation
+* Confidence intervals
+* Statistical tests
+* Logistic regression
+* Cross model comparison
+* Longitudinal comparison
+
+The exact analysis used is reported in each study.
 
 ---
 
 # Limitations
 
-Every research project has limitations.
+Results can vary with:
 
-Results may vary depending on:
+* AI model
+* Model version
+* Web search availability
+* Prompt wording
+* Time of collection
+* Geographic availability
+* Merchant changes
+* Experimental context
 
-- AI model
-- model version
-- browsing availability
-- prompt wording
-- time of collection
-- geographic availability
-- merchant changes over time
+Published findings describe observed behavior under documented conditions.
 
-Published findings represent observed behavior under documented experimental conditions.
+They should not be treated as universal rules for every AI system.
 
 ---
 
 # Reproducibility
 
-Our goal is to make every published experiment understandable and reproducible.
+Each public report should document enough information to understand the experiment and reproduce the main analysis when the underlying data can be shared.
 
-Individual reports include additional methodological details whenever a study requires deviations from the standard research process.
+Some raw datasets cannot be released.
+
+When that happens, the report documents the available measurements, methodology, and experimental results.
 
 ---
 
 # Version
 
-Current methodology: Version 1.0
+Current methodology: Version 1.1
 
-Last updated: July 2026
+Last updated: September 2026

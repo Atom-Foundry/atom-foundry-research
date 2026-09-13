@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to Atom Foundry Research are documented in this file.
+All notable changes to Atom Foundry Research are documented here.
 
-The project follows a continuously evolving research model. New reports, datasets and methodologies are added as research progresses.
+The research program evolves as new reports, datasets, and methods are published.
 
 ---
 
@@ -10,9 +10,18 @@ The project follows a continuously evolving research model. New reports, dataset
 
 ### Research Program
 
-- Continued controlled research into how AI systems discover, evaluate and select ecommerce brands.
-- Expanded the research from measuring recommendations to studying the mechanisms behind candidate formation, selection, search behavior and recommendation consistency.
-- Continued building the evidence base for the AI Commerce Intelligence™ Framework.
+* Continued controlled research into how AI systems discover, evaluate, and select ecommerce brands.
+* Expanded research into candidate formation, selection, search behavior, recommendation consistency, fact deployment, and prompt behavior.
+* Added public research covering multi turn conversations, hidden context, fact injection, live retrieval, accuracy, brand legibility, claim attribution, and prompt shape.
+* Continued development of the AI Commerce Intelligence™ Framework.
+
+### Research Library
+
+* Updated the public research inventory.
+* Added the current research map.
+* Updated repository documentation.
+* Expanded dataset documentation.
+* Updated the standard methodology.
 
 ---
 
@@ -20,25 +29,26 @@ The project follows a continuously evolving research model. New reports, dataset
 
 ### Mechanism Studies
 
-Published additional controlled studies examining how AI recommendation behavior works.
+Published additional controlled studies examining AI recommendation behavior.
 
-- Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
-- Two Months Later, the Model Still Agrees With Itself
-- Hand It a Rating, and It Follows Every Single Time
-- We Invented a Brand With Zero History. Reviews Got It Picked Anyway
-- We Widened the Fame Signal Four Ways. It Barely Moved
-- The Model Hedges Most When It's Most Sure
+* Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
+* Two Months Later, the Model Still Agrees With Itself
+* Hand It a Rating, and It Follows Every Single Time
+* We Invented a Brand With Zero History. Reviews Got It Picked Anyway
+* We Widened the Fame Signal Four Ways. It Barely Moved
+* The Model Hedges Most When It's Most Sure
 
 ### Longitudinal Research
 
-- Added follow-up experiments measuring whether recommendation behavior remains stable over time.
-- Began testing recommendation consistency across repeated observations.
-- Expanded research into signals that appear to influence selection independently of brand visibility.
+* Added research measuring recommendation stability over time.
+* Added repeated observation studies.
+* Expanded research into signals that appear to influence selection independently of visibility.
 
 ### Founder Lab
 
-- Continued documenting changes to the Atom Foundry store and rescanning after controlled changes.
-- Expanded the public research log to track changes, observations and AI behavior over time.
+* Continued documenting changes to the Atom Foundry store.
+* Continued rescanning after controlled changes.
+* Expanded the public research log.
 
 ---
 
@@ -46,44 +56,44 @@ Published additional controlled studies examining how AI recommendation behavior
 
 ### Research Library
 
-- Published the Atom Foundry Research Library.
-- Introduced standardized repository structure.
-- Added shared research methodology.
-- Added dataset documentation.
+* Published the Atom Foundry Research Library.
+* Introduced a standard repository structure.
+* Added shared research methodology.
+* Added dataset documentation.
 
 ### Flagship Research
 
-- Published **The State of AI Recommendations Across Commerce 2026**.
-- Combined findings from five independent ecommerce categories.
-- Analyzed **20,000 AI recommendations** across **1,490 brands**.
+* Published The State of AI Recommendations Across Commerce 2026.
+* Combined findings from five ecommerce categories.
+* Analyzed 20,000 AI recommendations across 1,490 brands.
 
 ### Mechanism Studies
 
 Published:
 
-- Web Search Changes AI Recommendations
-- The Fame Study, Corrected
-- AI Knows Your Website. It Still Won't Recommend You.
-- 29,633 Reasons. 26,812 Unique. The Model Confabulates.
-- Search Changes the Vocabulary, Not Just the Brands
-- Candidacy vs Selection
+* Web Search Changes AI Recommendations
+* The Fame Study, Corrected
+* AI Knows Your Website. It Still Won't Recommend You.
+* 29,633 Reasons. 26,812 Unique. The Model Confabulates.
+* Search Changes the Vocabulary, Not Just the Brands
+* Candidacy vs Selection
 
 ### Category Reports
 
 Published:
 
-- Beauty
-- Supplements
-- Coffee
-- Pets
-- Home & Living
+* Beauty
+* Supplements
+* Coffee
+* Pets
+* Home & Living
 
 ### Founder Lab
 
 Published:
 
-- Founder Lab — Day Zero
-- Founder Lab — Research Log
+* Founder Lab: Day Zero
+* Founder Lab: Research Log
 
 ---
 
@@ -91,15 +101,15 @@ Published:
 
 ### Category Research
 
-- Published the first category-level recommendation studies.
-- Established the standardized recommendation testing methodology.
-- Introduced AI Commerce Score™ comparison across ecommerce categories.
-- Began collecting large-scale cross-category recommendation data.
+* Published the first category recommendation studies.
+* Established the standard recommendation testing method.
+* Introduced AI Commerce Score™ comparison across ecommerce categories.
+* Began collecting large scale cross category recommendation data.
 
 ### Research Program
 
-- Expanded research from measuring AI recommendations to investigating the signals behind them.
-- Began separating candidate formation from final recommendation selection.
+* Expanded research from measuring AI recommendations to studying the signals behind them.
+* Began separating candidate formation from final selection.
 
 ---
 
@@ -107,7 +117,7 @@ Published:
 
 ### Research Program
 
-- Started the Atom Foundry Research initiative.
-- Began collecting AI recommendation data.
-- Started measuring ecommerce stores using the AI Commerce Intelligence™ framework.
-- Established the foundation for controlled research into AI commerce decisions.
+* Started the Atom Foundry Research initiative.
+* Began collecting AI recommendation data.
+* Started measuring ecommerce stores using the AI Commerce Intelligence™ framework.
+* Established the foundation for controlled research into AI commerce decisions.

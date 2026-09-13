@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="50" y="55" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#161512">Recognition drops, then partly recovers</text>
+<text x="50" y="88" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Cohort-wide mention / survival rate across four turns</text>
+<text x="50" y="168" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">T1 · explicit favorable introduction</text>
+<rect x="330" y="150" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="150" width="600.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="168" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">100%</text>
+<text x="50" y="218" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">T2 · open alternatives</text>
+<rect x="330" y="200" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="200" width="195.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="218" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">32.5%</text>
+<text x="50" y="268" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">T3 · narrowing question</text>
+<rect x="330" y="250" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="250" width="354.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="268" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">59%</text>
+<text x="50" y="318" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">T4 · forced final pick</text>
+<rect x="330" y="300" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="300" width="297.00" height="24" rx="5" fill="#fe6a03"/>
+<text x="945" y="318" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">49.5%</text>
+</svg>

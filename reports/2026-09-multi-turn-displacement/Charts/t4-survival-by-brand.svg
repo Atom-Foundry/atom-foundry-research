@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="50" y="55" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#161512">T4 survival rate by brand</text>
+<text x="50" y="88" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Share of 20 conversations where the introduced brand survived to the final pick</text>
+<text x="50" y="168" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand A</text>
+<rect x="330" y="150" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="150" width="600.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="168" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">100%</text>
+<text x="50" y="218" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand B</text>
+<rect x="330" y="200" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="200" width="600.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="218" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">100%</text>
+<text x="50" y="268" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand C</text>
+<rect x="330" y="250" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="250" width="600.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="268" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">100%</text>
+<text x="50" y="318" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand D</text>
+<rect x="330" y="300" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="300" width="360.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="318" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">60%</text>
+<text x="50" y="368" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand E</text>
+<rect x="330" y="350" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="350" width="360.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="368" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">60%</text>
+<text x="50" y="418" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand F</text>
+<rect x="330" y="400" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="400" width="270.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="418" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">45%</text>
+<text x="50" y="468" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand G</text>
+<rect x="330" y="450" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="450" width="150.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="468" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">25%</text>
+<text x="50" y="518" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand H</text>
+<rect x="330" y="500" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="500" width="30.00" height="24" rx="5" fill="#fe6a03"/>
+<text x="945" y="518" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">5%</text>
+<text x="50" y="568" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand I</text>
+<rect x="330" y="550" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="550" width="0.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="568" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">0%</text>
+<text x="50" y="618" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Brand J</text>
+<rect x="330" y="600" width="600" height="24" rx="5" fill="#e6e2d6"/>
+<rect x="330" y="600" width="0.00" height="24" rx="5" fill="#847e6d"/>
+<text x="945" y="618" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">0%</text>
+</svg>

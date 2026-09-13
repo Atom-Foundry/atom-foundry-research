@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="50" y="55" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#161512">Baseline recommend rate vs. T4 survival</text>
+<text x="50" y="88" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Published result: r = 0.68, p = 0.048, n = 9 (Brand I excluded)</text>
+<text x="500" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#938f81">Aggregate relationship reported</text>
+<text x="500" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Raw brand-level baseline coordinates are not reconstructed here.</text>
+<text x="500" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">See README and methodology for the exact reported statistic.</text>
+</svg>

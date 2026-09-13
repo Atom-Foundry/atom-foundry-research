@@ -28,9 +28,9 @@ Across 9 e-commerce brands, we collected 40 claims from the model:
 
 In other words:
 
-> The model was almost always right about what it said.
+The model was almost always right about what it said.
 
-> It simply did not say very much.
+It simply did not say very much.
 
 ---
 

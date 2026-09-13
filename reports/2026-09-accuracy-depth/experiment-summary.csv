@@ -1,27 +1,27 @@
 metric,dimension,value,numerator,denominator,unit,notes
-study,study_number,27,,,,study,
-study,published_date,2026-09-11,,,,date,
-study,model,gpt-4o,,,,model,reused possession dataset; zero new API calls
-study,brands,9,9,9,brands,Wave-1 brands
-study,total_claims,40,40,40,claims,reused from Possession vs Deployment
-study,checkable_claims,34,34,40,claims,factual/falsifiable claims scored for BAS
-study,descriptive_claims,6,6,40,claims,excluded from BAS; retained for CDI
-accuracy,confirmed_claims,33,33,34,claims,independently confirmed
-accuracy,contradicted_claims,1,1,34,claims,Bellroy pricing comparison involving Nomatic
-accuracy,BAS,97.1,33,34,percent,confirmed checkable claims / checkable claims
-accuracy,Bellroy_BAS,75.0,3,4,percent,one contradicted claim
-accuracy,Boll_and_Branch_BAS,100.0,4,4,percent,all checkable claims confirmed
-accuracy,Branch_BAS,100.0,4,4,percent,all checkable claims confirmed
-accuracy,Caraway_BAS,100.0,3,3,percent,all checkable claims confirmed
-accuracy,Onyx_Coffee_Lab_BAS,100.0,4,4,percent,all checkable claims confirmed after re-verification
-accuracy,Peak_Design_BAS,100.0,5,5,percent,all checkable claims confirmed
-accuracy,Rumpl_BAS,100.0,3,3,percent,all checkable claims confirmed
-accuracy,Wild_One_BAS,100.0,4,4,percent,all checkable claims confirmed
-accuracy,Zigpoll_BAS,100.0,3,3,percent,all checkable claims confirmed
-depth,total_categories,8,8,8,categories,Atom Foundry taxonomy
-depth,total_possible_pairs,72,72,72,pairs,9 brands x 8 categories
-depth,covered_pairs,44,44,72,pairs,category-brand pairs touched unprompted
-depth,CDI,61.1,44,72,percent,covered pairs / possible pairs
+study,study_number,27,,,study,
+study,published_date,2026-09-11,,,date,
+study,model,gpt-4o,,,model,"reused possession dataset; zero new API calls"
+study,brands,9,9,9,brands,"Wave-1 brands"
+study,total_claims,40,40,40,claims,"reused from Possession vs Deployment"
+study,checkable_claims,34,34,40,claims,"factual/falsifiable claims scored for BAS"
+study,descriptive_claims,6,6,40,claims,"excluded from BAS; retained for CDI"
+accuracy,confirmed_claims,33,33,34,claims,"independently confirmed"
+accuracy,contradicted_claims,1,1,34,claims,"Bellroy pricing comparison involving Nomatic"
+accuracy,BAS,97.1,33,34,percent,"confirmed checkable claims / checkable claims"
+accuracy,Bellroy_BAS,75.0,3,4,percent,"one contradicted claim"
+accuracy,Boll_and_Branch_BAS,100.0,4,4,percent,"all checkable claims confirmed"
+accuracy,Branch_BAS,100.0,4,4,percent,"all checkable claims confirmed"
+accuracy,Caraway_BAS,100.0,3,3,percent,"all checkable claims confirmed"
+accuracy,Onyx_Coffee_Lab_BAS,100.0,4,4,percent,"all checkable claims confirmed after re-verification"
+accuracy,Peak_Design_BAS,100.0,5,5,percent,"all checkable claims confirmed"
+accuracy,Rumpl_BAS,100.0,3,3,percent,"all checkable claims confirmed"
+accuracy,Wild_One_BAS,100.0,4,4,percent,"all checkable claims confirmed"
+accuracy,Zigpoll_BAS,100.0,3,3,percent,"all checkable claims confirmed"
+depth,total_categories,8,8,8,categories,"Atom Foundry taxonomy"
+depth,total_possible_pairs,72,72,72,pairs,"9 brands x 8 categories"
+depth,covered_pairs,44,44,72,pairs,"category-brand pairs touched unprompted"
+depth,CDI,61.1,44,72,percent,"covered pairs / possible pairs"
 depth,Bellroy_CDI,87.5,7,8,percent,
 depth,Boll_and_Branch_CDI,75.0,6,8,percent,
 depth,Wild_One_CDI,75.0,6,8,percent,
@@ -31,12 +31,12 @@ depth,Rumpl_CDI,62.5,5,8,percent,
 depth,Onyx_Coffee_Lab_CDI,50.0,4,8,percent,
 depth,Caraway_CDI,37.5,3,8,percent,
 depth,Zigpoll_CDI,25.0,2,8,percent
-category,Sustainability_Ethics,88.9,8,9,percent,brands where category appeared unprompted
-category,Materials,77.8,7,9,percent,brands where category appeared unprompted
-category,Pricing_Positioning,77.8,7,9,percent,brands where category appeared unprompted
-category,Design_Functionality,77.8,7,9,percent,brands where category appeared unprompted
-category,Competitor_Comparison,55.6,5,9,percent,brands where category appeared unprompted
-category,Business_Model_Distribution,44.4,4,9,percent,brands where category appeared unprompted
-category,Warranty_Returns,33.3,3,9,percent,brands where category appeared unprompted
-category,Certifications_Awards,33.3,3,9,percent,brands where category appeared unprompted
-methodology,new_model_calls,0,0,0,calls,study reuses existing possession claims
+category,Sustainability_Ethics,88.9,8,9,percent,"brands where category appeared unprompted"
+category,Materials,77.8,7,9,percent,"brands where category appeared unprompted"
+category,Pricing_Positioning,77.8,7,9,percent,"brands where category appeared unprompted"
+category,Design_Functionality,77.8,7,9,percent,"brands where category appeared unprompted"
+category,Competitor_Comparison,55.6,5,9,percent,"brands where category appeared unprompted"
+category,Business_Model_Distribution,44.4,4,9,percent,"brands where category appeared unprompted"
+category,Warranty_Returns,33.3,3,9,percent,"brands where category appeared unprompted"
+category,Certifications_Awards,33.3,3,9,percent,"brands where category appeared unprompted"
+methodology,new_model_calls,0,0,0,calls,"study reuses existing possession claims"

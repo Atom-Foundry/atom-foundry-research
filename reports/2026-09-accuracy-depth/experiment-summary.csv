@@ -1,0 +1,41 @@
+section,metric,brand,category,value,unit,notes
+study,study_number,,,27,number,
+study,published_date,,,2026-09-11,date,
+study,model,,,gpt-4o,text,
+study,brands,,,9,number,
+study,total_claims,,,40,number,
+study,checkable_claims,,,34,number,
+study,descriptive_claims,,,6,number,
+study,confirmed_claims,,,33,number,
+study,contradicted_claims,,,1,number,
+study,new_api_calls,,,0,number,
+accuracy,BAS,,,97.1,percent,33 confirmed of 34 checkable claims
+depth,CDI,,,61.1,percent,44 covered brand-category pairs of 72 possible
+depth,covered_pairs,,,44,number,
+depth,possible_pairs,,,72,number,
+BAS,BAS,Bellroy,,,75.0,percent,3 confirmed of 4 checkable claims
+BAS,BAS,Boll & Branch,,,100.0,percent,4 confirmed of 4 checkable claims
+BAS,BAS,Branch,,,100.0,percent,4 confirmed of 4 checkable claims
+BAS,BAS,Caraway,,,100.0,percent,3 confirmed of 3 checkable claims
+BAS,BAS,Onyx Coffee Lab,,,100.0,percent,4 confirmed of 4 checkable claims
+BAS,BAS,Peak Design,,,100.0,percent,5 confirmed of 5 checkable claims
+BAS,BAS,Rumpl,,,100.0,percent,3 confirmed of 3 checkable claims
+BAS,BAS,Wild One,,,100.0,percent,4 confirmed of 4 checkable claims
+BAS,BAS,Zigpoll,,,100.0,percent,3 confirmed of 3 checkable claims
+CDI,CDI,Bellroy,,,87.5,percent,7 of 8 categories covered
+CDI,CDI,Boll & Branch,,,75.0,percent,6 of 8 categories covered
+CDI,CDI,Wild One,,,75.0,percent,6 of 8 categories covered
+CDI,CDI,Branch,,,75.0,percent,6 of 8 categories covered
+CDI,CDI,Peak Design,,,62.5,percent,5 of 8 categories covered
+CDI,CDI,Rumpl,,,62.5,percent,5 of 8 categories covered
+CDI,CDI,Onyx Coffee Lab,,,50.0,percent,4 of 8 categories covered
+CDI,CDI,Caraway,,,37.5,percent,3 of 8 categories covered
+CDI,CDI,Zigpoll,,,25.0,percent,2 of 8 categories covered
+category_coverage,coverage,,Sustainability / Ethics,88.9,percent,8 of 9 brands covered
+category_coverage,coverage,,Materials,77.8,percent,7 of 9 brands covered
+category_coverage,coverage,,Pricing / Positioning,77.8,percent,7 of 9 brands covered
+category_coverage,coverage,,Design / Functionality,77.8,percent,7 of 9 brands covered
+category_coverage,coverage,,Competitor Comparison,55.6,percent,5 of 9 brands covered
+category_coverage,coverage,,Business Model / Distribution,44.4,percent,4 of 9 brands covered
+category_coverage,coverage,,Warranty / Returns,33.3,percent,3 of 9 brands covered
+category_coverage,coverage,,Certifications / Awards,33.3,percent,3 of 9 brands covered

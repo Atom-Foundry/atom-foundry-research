@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="60" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#161512">Fact Injection: Baseline vs. Injected Mention Rate</text>
+<text x="60" y="92" font-family="Arial,sans-serif" font-size="16" fill="#4a463c">Four deliberately underperforming brands · published baseline vs. injected condition</text>
+<text x="60" y="175" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Brand A</text>
+<rect x="360" y="145" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="145" width="9.8" height="22" rx="4" fill="#938f81"/>
+<rect x="360" y="179" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="179" width="760.5" height="22" rx="4" fill="#fe6a03"/>
+<text x="1156" y="163" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">1.25% baseline</text>
+<text x="1156" y="197" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fe6a03">97.5% injected</text>
+<text x="60" y="300" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Brand B</text>
+<rect x="360" y="270" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="270" width="44.9" height="22" rx="4" fill="#938f81"/>
+<rect x="360" y="304" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="304" width="756.6" height="22" rx="4" fill="#fe6a03"/>
+<text x="1156" y="288" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">5.75% baseline</text>
+<text x="1156" y="322" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fe6a03">97% injected</text>
+<text x="60" y="425" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Brand C</text>
+<rect x="360" y="395" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="395" width="128.7" height="22" rx="4" fill="#938f81"/>
+<rect x="360" y="429" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="429" width="748.8" height="22" rx="4" fill="#fe6a03"/>
+<text x="1156" y="413" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">16.5% baseline</text>
+<text x="1156" y="447" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fe6a03">96% injected</text>
+<text x="60" y="550" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">Brand D</text>
+<rect x="360" y="520" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="520" width="0.0" height="22" rx="4" fill="#938f81"/>
+<rect x="360" y="554" width="780" height="22" rx="4" fill="#e6e2d6"/>
+<rect x="360" y="554" width="347.1" height="22" rx="4" fill="#fe6a03"/>
+<text x="1156" y="538" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">0% baseline</text>
+<text x="1156" y="572" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fe6a03">44.5% injected</text>
+<rect x="360" y="665" width="14" height="14" fill="#938f81"/><text x="382" y="677" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">Published baseline</text>
+<rect x="530" y="665" width="14" height="14" fill="#fe6a03"/><text x="552" y="677" font-family="Arial,sans-serif" font-size="13" fill="#4a463c">Fact injected</text>
+</svg>

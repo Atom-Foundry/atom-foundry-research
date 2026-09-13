@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="522" viewBox="0 0 1200 522">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="60" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#161512">Mention-Rate Lift by Brand</text>
+<text x="60" y="92" font-family="Arial,sans-serif" font-size="16" fill="#4a463c">Injected mention rate minus published baseline</text>
+<text x="60" y="157" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4a463c">Brand A</text>
+<rect x="350" y="135" width="690" height="30" rx="4" fill="#e6e2d6"/>
+<rect x="350" y="135" width="664.1" height="30" rx="4" fill="#fe6a03"/>
+<text x="1058" y="158" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#161512">96.2%</text>
+<text x="350" y="187" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">1.25% → 97.5%</text>
+<text x="60" y="245" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4a463c">Brand B</text>
+<rect x="350" y="223" width="690" height="30" rx="4" fill="#e6e2d6"/>
+<rect x="350" y="223" width="629.6" height="30" rx="4" fill="#847e6d"/>
+<text x="1058" y="246" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#161512">91.2%</text>
+<text x="350" y="275" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">5.75% → 97.0%</text>
+<text x="60" y="333" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4a463c">Brand C</text>
+<rect x="350" y="311" width="690" height="30" rx="4" fill="#e6e2d6"/>
+<rect x="350" y="311" width="548.6" height="30" rx="4" fill="#847e6d"/>
+<text x="1058" y="334" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#161512">79.5%</text>
+<text x="350" y="363" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">16.5% → 96.0%</text>
+<text x="60" y="421" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4a463c">Brand D</text>
+<rect x="350" y="399" width="690" height="30" rx="4" fill="#e6e2d6"/>
+<rect x="350" y="399" width="307.1" height="30" rx="4" fill="#847e6d"/>
+<text x="1058" y="422" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#161512">44.5%</text>
+<text x="350" y="451" font-family="Arial,sans-serif" font-size="12.5" fill="#938f81">0.0% → 44.5%</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="50" y="55" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#161512">Search-tool invocation rate</text>
+<text x="50" y="88" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Open buyer questions vs explicitly time-sensitive diagnostic prompts</text>
+<text x="50" y="172" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">Open buyer questions · 960 calls</text>
+<rect x="300" y="150" width="630" height="28" rx="6" fill="#e6e2d6"/>
+<rect x="300" y="150" width="0.00" height="28" rx="6" fill="#fe6a03"/>
+<text x="945" y="172" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#161512">0%</text>
+<text x="50" y="244" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#4a463c">Explicit real-time framing · 3 calls</text>
+<rect x="300" y="222" width="630" height="28" rx="6" fill="#e6e2d6"/>
+<rect x="300" y="222" width="420.21" height="28" rx="6" fill="#847e6d"/>
+<text x="945" y="244" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#4a463c">66.7%</text>
+</svg>

@@ -1,0 +1,46 @@
+metric,dimension,value,numerator,denominator,unit,notes
+study,study_number,29,,,study,
+study,published_date,2026-09-11,,,date,
+study,model,gpt-4o,,,model,brand facts placed in the system prompt
+study,total_api_calls,1997,1997,1997,calls,five experimental designs
+study,brands_total,13,13,13,brands,9 well-known + 3 obscure real + 1 invented
+study,well_known_brands,9,9,9,brands,base Wave-1 group
+study,obscure_real_brands,3,3,3,brands,little-known real brands
+study,invented_brands,1,1,1,brands,fully invented ceramics brand
+study,framing_versions,3,3,3,versions,clear / ambiguous / misaligned
+understanding,category_accuracy_min,93.0,,,percent,Reported range across framing versions
+understanding,category_accuracy_max,96.0,,,percent,Reported range across framing versions
+understanding,audience_accuracy_min,96.0,,,percent,Reported range across framing versions
+understanding,audience_accuracy_max,100.0,,,percent,Reported range across framing versions
+round_1,api_calls,270,270,270,calls,9 brands × 3 versions × 30 calls per cell
+round_1,candidacy_clear,93.33,,,percent,Pooled across 9 brands
+round_1,candidacy_ambiguous,98.89,,,percent,Pooled across 9 brands
+round_1,candidacy_misaligned,98.89,,,percent,Pooled across 9 brands
+round_1,flat_brands,8,8,9,brands,8 of 9 at 100% candidacy in every version
+round_1,outlier_clear,40,,,percent,Candidacy
+round_1,outlier_ambiguous,90,,,percent,Candidacy
+round_1,outlier_misaligned,90,,,percent,Candidacy
+round_2,api_calls,270,270,270,calls,Harder questions; 8 of 9 brands changed question
+round_2,standalone_question_rate_min,25,,,percent,Standalone mention-rate range
+round_2,standalone_question_rate_max,60,,,percent,Standalone mention-rate range
+round_2,candidacy_clear,92.22,,,percent,Pooled across 9 brands
+round_2,candidacy_ambiguous,100,,,percent,Pooled across 9 brands
+round_2,candidacy_misaligned,100,,,percent,Pooled across 9 brands
+round_2,outlier_clear,30,,,percent,Candidacy
+round_2,outlier_ambiguous,100,,,percent,Candidacy
+round_2,outlier_misaligned,100,,,percent,Candidacy
+round_3,outlier_api_calls,30,30,30,calls,10 per framing version
+round_3,outlier_selection_clear,10,,,percent,Outlier brand
+round_3,outlier_selection_ambiguous,50,,,percent,Outlier brand
+round_3,outlier_selection_misaligned,80,,,percent,Outlier brand
+round_3,outlier_selection_swing,70,,,percentage_points,Clear to misaligned
+round_3,flat_candidacy_selection_brands,5,5,9,brands,100% candidacy and selection in all versions
+round_3,candidacy_flat_selection_wobble_brands,3,3,9,brands,Small inconsistent selection movement
+round_4,obscure_calls,90,90,90,calls,Across 3 obscure real brands
+round_4,obscure_candidacy,100,,,percent,"All 3 brands, all framing versions"
+round_4,obscure_selection,100,,,percent,"All 3 brands, all framing versions"
+diagnostic,invented_brand_candidacy,100,,,percent,Fully invented ceramics brand
+diagnostic,invented_brand_selection,100,,,percent,Fully invented ceramics brand
+headline,framing_did_not_move,12,12,13,brands,Reported across the 13 tested brands
+headline,invented_brand_candidacy,100,,,percent,All three framing versions
+headline,invented_brand_selection,100,,,percent,All three framing versions

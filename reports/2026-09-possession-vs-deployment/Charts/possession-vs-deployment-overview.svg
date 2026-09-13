@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#161512">Most possessed facts never get deployed</text>
+<text x="55" y="91" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Across 1,392 fact-cell checks</text>
+<text x="55" y="164" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Possessed but never deployed</text>
+<rect x="350" y="145" width="670" height="26" rx="5" fill="#e6e2d6"/>
+<rect x="350" y="145" width="507.86" height="26" rx="5" fill="#fe6a03"/>
+<text x="1042" y="165" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">75.8%</text>
+<text x="55" y="219" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4a463c">Actually deployed</text>
+<rect x="350" y="200" width="670" height="26" rx="5" fill="#e6e2d6"/>
+<rect x="350" y="200" width="162.14" height="26" rx="5" fill="#847e6d"/>
+<text x="1042" y="220" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#161512">24.2%</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620">
+<rect width="100%" height="100%" fill="#f0eee6"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#161512">Deployment is not the same mechanism as winning</text>
+<text x="55" y="91" font-family="Arial,sans-serif" font-size="15" fill="#4a463c">Published brand-level checks; raw coordinates are not reconstructed where the source does not expose them.</text>
+<rect x="75" y="155" width="450" height="310" rx="5" fill="#e3dacc"/>
+<text x="300" y="215" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#4a463c">DEPLOYMENT RATE vs RECOMMEND RATE</text>
+<text x="300" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="52" font-weight="800" fill="#fe6a03">r = -0.04</text>
+<text x="300" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#161512">p = 0.91 · n = 9</text>
+<text x="300" y="375" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">No visible relationship in this small cohort.</text>
+<text x="300" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">The source explicitly treats this as underpowered.</text>
+<rect x="575" y="155" width="450" height="310" rx="5" fill="#e3dacc"/>
+<text x="800" y="215" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#4a463c">COHORT HEADLINE</text>
+<text x="800" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="52" font-weight="800" fill="#fe6a03">75.8%</text>
+<text x="800" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#161512">possessed facts never deployed</text>
+<text x="800" y="375" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">95% CI 69.9–81.6%</text>
+<text x="800" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#4a463c">1,392 fact-cell checks · 9 brands</text>
+</svg>

@@ -1,0 +1,21 @@
+metric,dimension,value,numerator,denominator,unit,notes
+t4_survival_rate,cohort,49.5,99,200,percent,AMBIGUOUS counted conservatively as not-survived in headline numbers.
+t4_survival_rate,Brand A,100,20,20,percent,Anonymized brand.
+t4_survival_rate,Brand B,100,20,20,percent,Anonymized brand.
+t4_survival_rate,Brand C,100,20,20,percent,Anonymized brand.
+t4_survival_rate,Brand D,60,12,20,percent,Anonymized brand.
+t4_survival_rate,Brand E,60,12,20,percent,Anonymized brand.
+t4_survival_rate,Brand F,45,9,20,percent,Anonymized brand.
+t4_survival_rate,Brand G,25,5,20,percent,Anonymized brand.
+t4_survival_rate,Brand H,5,1,20,percent,"18 displaced, 1 survived, 1 ambiguous."
+t4_survival_rate,Brand I,0,0,20,percent,Near-zero baseline cohort member.
+t4_survival_rate,Brand J,0,0,20,percent,Near-zero baseline cohort member.
+t2_mention_rate,cohort,32.5,65,200,percent,Brand mention detected without the brand being named in T2.
+t3_mention_rate,cohort,59,118,200,percent,Brand mention detected without the brand being named in T3.
+t1_mention_rate,cohort,100,200,200,percent,By construction: brand explicitly named in T1.
+baseline_survival_correlation,9_brand_sample,0.68,,,r,"Brand I excluded; source reports p=0.048, n=9."
+baseline_survival_p_value,9_brand_sample,0.048,,,p,Fragile / underpowered signal per source.
+industry_test_t4_survival,similarly_designed_test,12.7,,,percent,Contextual comparison; different T1 design.
+survival_gap_vs_industry,cohort_vs_industry,36.8,,,percentage_points,"49.5% minus 12.7%, contextual only."
+brand_h_displacements,Brand H,18,18,20,count,Same rival displaced Brand H in 18 of 20 conversations.
+manual_spot_check_agreement,judge_validation,100,17,17,percent,17 judge calls matched raw T4 text on manual review.

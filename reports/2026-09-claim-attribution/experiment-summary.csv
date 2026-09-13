@@ -1,0 +1,54 @@
+metric,dimension,value,numerator,denominator,unit,notes
+study,study_number,31,,,study,
+study,published_date,2026-09-12,,,date,
+study,model,gpt-4o,,,model,
+study,total_calls,3200,3200,3200,calls,2 independent rounds
+study,brands,4,4,4,brands,
+study,purchase_intents_per_brand,20,20,20,intents,
+study,conditions,4,4,4,conditions,no fact / neutral / third party / self-claim
+study,repeats_per_cell,5,5,5,repeats,
+study,rounds,2,2,2,rounds,independent rounds
+round_1,calls,1600,1600,1600,calls,Original wrappers
+round_1,no_fact,0.2,,,percent,Winner rate
+round_1,neutral,23.0,,,percent,Winner rate
+round_1,third_party,43.2,,,percent,Winner rate
+round_1,self_claim,65.2,,,percent,Winner rate
+round_2,calls,1600,1600,1600,calls,Length-matched wrappers; fresh independent draw
+round_2,no_fact,0.0,,,percent,Winner rate
+round_2,neutral,37.8,,,percent,Winner rate
+round_2,third_party,59.0,,,percent,Winner rate
+round_2,self_claim,69.8,,,percent,Winner rate
+combined,calls_per_condition,800,800,800,calls,Both rounds combined
+combined,no_fact,0.1,,,percent,Winner rate
+combined,neutral,30.4,,,percent,Winner rate
+combined,third_party,51.1,,,percent,Winner rate
+combined,self_claim,67.5,,,percent,Winner rate
+combined,neutral_delta_vs_no_fact,30.3,,,percentage_points,
+combined,third_party_delta_vs_no_fact,51.0,,,percentage_points,
+combined,self_claim_delta_vs_no_fact,67.4,,,percentage_points,
+combined,self_claim_delta_vs_third_party,16.4,,,percentage_points,
+combined,third_party_delta_vs_neutral,20.7,,,percentage_points,
+brand,Colored Organics_no_fact,0,,,percent,Combined; n=200 per condition
+brand,Colored Organics_neutral,45,,,percent,Combined; n=200 per condition
+brand,Colored Organics_third_party,58,,,percent,Combined; n=200 per condition
+brand,Colored Organics_self_claim,84,,,percent,p<0.001
+brand,Barbaro Mojo_no_fact,0,,,percent,Combined; n=200 per condition
+brand,Barbaro Mojo_neutral,42,,,percent,Combined; n=200 per condition
+brand,Barbaro Mojo_third_party,66,,,percent,Combined; n=200 per condition
+brand,Barbaro Mojo_self_claim,80,,,percent,p=0.003
+brand,Hearthloom_no_fact,0,,,percent,Fictional control; combined; n=200 per condition
+brand,Hearthloom_neutral,34,,,percent,Fictional control; combined; n=200 per condition
+brand,Hearthloom_third_party,72,,,percent,Fictional control; combined; n=200 per condition
+brand,Hearthloom_self_claim,86,,,percent,p<0.001
+brand,BodyArtForms_no_fact,0,,,percent,Combined; n=200 per condition
+brand,BodyArtForms_neutral,0,,,percent,Combined; n=200 per condition
+brand,BodyArtForms_third_party,8,,,percent,Combined; n=200 per condition
+brand,BodyArtForms_self_claim,21,,,percent,p<0.001
+outcomes,named_competitor_wins,37,37,3200,calls,1.2% of all calls
+outcomes,other_real_brand_wins,1970,1970,3200,calls,61.6% of all calls
+statistics,self_vs_third_party_z,6.67,,,z,p<0.0001
+statistics,third_party_vs_neutral_z,8.45,,,z,p<0.0001
+statistics,neutral_vs_no_fact_z,16.83,,,z,p<0.0001
+statistics,pooled_chi_square,866.67,,,chi_square,df=3
+statistics,condition_logistic_regression_p,7.4e-124,,,p_value,"Controlling for brand, round and message word count"
+statistics,word_count_logistic_regression_p,0.35,,,p_value,"Controlling for brand, round and condition"

@@ -49,15 +49,6 @@ BAS measures the percentage of checkable factual claims that were confirmed thro
 
 CDI measures how much of the predefined attribute space the model covered without being explicitly prompted for each individual topic.
 
-There were:
-
-- 9 brands
-- 8 attribute categories
-- 72 possible brand-category pairs
-- 44 covered pairs
-
-**CDI = 44 / 72 = 61.1%**
-
 | Brand | Categories Covered | Possible Categories | CDI |
 |---|---:|---:|---:|
 | Bellroy | 7 | 8 | 87.5% |
@@ -70,11 +61,15 @@ There were:
 | Caraway | 3 | 8 | 37.5% |
 | Zigpoll | 2 | 8 | 25.0% |
 
+### Overall CDI
+
+**44 of 72 possible brand-category pairs were covered.**
+
+**CDI = 61.1%**
+
 ---
 
 ## Category Coverage
-
-The study used 8 attribute categories.
 
 | Category | Brands Covered | Total Brands | Coverage |
 |---|---:|---:|---:|
@@ -118,13 +113,3 @@ High factual accuracy does not necessarily mean a deep representation of a brand
 A model can be:
 
 **accurate but incomplete.**
-
----
-
-## Data Boundary
-
-This summary uses the published study data and verification results.
-
-No new API calls were made for this verification study.
-
-No claim-level records or values are invented beyond the published aggregate results.

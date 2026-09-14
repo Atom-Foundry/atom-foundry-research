@@ -4,6 +4,8 @@
 
 Published: September 11, 2026
 
+[![DOI](https://zenodo.org/badge/1266113982.svg)](https://doi.org/10.5281/zenodo.22754000)
+
 ---
 
 ## The short version

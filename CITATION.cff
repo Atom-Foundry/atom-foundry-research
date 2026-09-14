@@ -4,7 +4,7 @@ title: "Atom Foundry Research"
 
 message: "If you use this research, please cite the repository or the corresponding published report."
 
-type: dataset
+type: software
 
 authors:
   - family-names: "Pokorný"
@@ -38,8 +38,10 @@ keywords:
 
 license: MIT
 
-version: "1.1.0"
+version: "1.0.0"
 
-date-released: "2026-09-01"
+date-released: "2026-09-14"
 
-url: "https://atomfoundry.dev/research"
+doi: "10.5281/zenodo.22753415"
+
+url: "https://doi.org/10.5281/zenodo.22753415"

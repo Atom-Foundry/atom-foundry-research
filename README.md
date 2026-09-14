@@ -273,7 +273,17 @@ https://founder.atomfoundry.dev
 
 # Citation
 
-If you reference this work, cite the original report and its publication date.
+If you reference this research, please cite the original report or the Atom Foundry Research repository.
+
+## Repository
+
+Atom Foundry Research. (2026). Atom Foundry Research (Version v1.0.0) [Computer software]. Zenodo.
+
+https://doi.org/10.5281/zenodo.22753415
+
+## Individual Research
+
+For individual studies, cite the original study title, publication date, and the corresponding research repository.
 
 Example:
 
@@ -281,9 +291,6 @@ Atom Foundry. "The State of AI Recommendations Across Commerce 2026."
 Atom Foundry Research, 2026.
 
 https://atomfoundry.dev/research
-
-For individual mechanism studies, cite the original study title and publication date.
-
 ---
 
 Published by **Atom Foundry**

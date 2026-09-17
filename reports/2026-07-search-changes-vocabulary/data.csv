@@ -1,0 +1,15 @@
+metric,item,value,note
+word_frequency_ratio,monohydrate,21.0,"search-on / search-off, normalized by total word volume"
+word_frequency_ratio,provides,20.0,
+word_frequency_ratio,whey,17.0,
+word_frequency_ratio,leggings,15.0,
+word_frequency_ratio,ashwagandha,14.0,
+word_frequency_ratio,chamomile,5.9,
+word_frequency_ratio,creatine,5.7,
+word_frequency_ratio,collagen,4.9,
+word_frequency_ratio,third party,3.3,
+noise_floor,search_on,27,"percent, model changes its own answer for no reason, from the companion browsing study"
+noise_floor,search_off,47,percent
+brand_recommendation_change_rate,search_on_vs_off,76.9,"percent of recommended brands that change when search is toggled, from the companion browsing study"
+design,prompts,50,"identical prompt set, both conditions"
+design,conditions,2,"search on, search off"

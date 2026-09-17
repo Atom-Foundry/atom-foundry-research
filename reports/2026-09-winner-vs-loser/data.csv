@@ -1,0 +1,28 @@
+metric,item,value,note
+rating_effect,target_stronger,99.2,"percent, combined, both rounds identical"
+rating_effect,competitor_stronger,17.6,"percent, combined, 95pct CI 11.3-24.5"
+specificity_effect,vague,55.5,"percent, combined"
+specificity_effect,specific,61.3,"percent, combined, +5.8pp, p<0.001 both rounds"
+format_effect,prose,59.5,"percent, combined"
+format_effect,structured,57.3,"percent, combined, not significant either round (p=0.25, p=0.15)"
+overall,matches_stronger_rating_brand,90.8,percent of all 6400 calls
+by_brand_category_specificity,barbaro_mojo_functional_vague,71.5,
+by_brand_category_specificity,barbaro_mojo_functional_specific,79.0,+7.5pp
+by_brand_category_specificity,hearthloom_functional_vague,50.2,
+by_brand_category_specificity,hearthloom_functional_specific,58.5,+8.3pp
+by_brand_category_specificity,colored_organics_trust_vague,50.0,
+by_brand_category_specificity,colored_organics_trust_specific,54.8,"+4.8pp, no reversal unlike pdp-specificity study"
+by_brand_category_specificity,bodyartforms_trust_vague,50.1,
+by_brand_category_specificity,bodyartforms_trust_specific,53.1,+3.0pp
+format_wordcount,structured_avg_words,58.9,same both rounds
+format_wordcount,prose_avg_words,54.9,same both rounds
+design,total_calls,6400,3200 per round
+design,brands,4,same 4 as pdp-specificity original round
+design,conditions_per_brand,8,2x2x2: rating x specificity x format
+design,rounds,2,"independent, fresh random seed"
+design,judge_parse_failures,0,out of 6400 judge calls
+stats,full_model_LR_pooled,5572.16,"df=7, p<0.0001, driven mostly by rating"
+stats,cells_near_ceiling_or_floor,21,"out of 32 cells (4 brands x 8 conditions), both rounds"
+stats,category_x_specificity_interaction_pooled,4.02,"df=1, p=0.045, only significant pooled"
+stats,category_x_specificity_interaction_round1,3.45,p=0.063
+stats,category_x_specificity_interaction_round2,0.96,"p=0.328, does not replicate"

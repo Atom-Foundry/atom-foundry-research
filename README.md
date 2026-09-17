@@ -8,7 +8,7 @@ Atom Foundry Research is an independent research initiative focused on AI Commer
 
 # Research at a Glance
 
-* **31 public research publications**
+* **38 public research publications**
 * **40,000+ AI recommendations analyzed**
 * **1,490 brands observed**
 * **100 buyer intent prompts**
@@ -55,6 +55,13 @@ Controlled experiments that test how AI recommendation and selection work.
 * We Described One Brand to the Model, Real or Invented. It Recommended That Brand Anyway.
 * Ask Like You're Googling It, and the AI Recommends the Brand 15.6 Points Less
 * Say It Yourself, and the Model Picks You 67.5% of the Time. A Third Party Only Gets 51.1%.
+* Specific Claims Add 15.7 Points in Spec Driven Categories. They Cost Nearly 5 in Trust Driven Ones.
+* Give It the Better Rating, and It Wins 91% of the Time
+* Mention It Was Featured Somewhere, and It Wins 85% of the Time. Bring In a Rating, and It Nearly Disappears.
+* Claim the Brand Is Widely Known, and It Wins 80% of the Time. Bring In a Rating, and the Edge Is Nearly Gone.
+* The Cited Source Changes. The Winner Almost Never Does.
+* Two Signals Get You Most of the Way There. A Third Barely Helps, and Format Doesn't Move It at All.
+* We Turned the Same Facts Into Bullets. The Model Cited Fewer of Them.
 
 ## Category Reports
 
@@ -214,6 +221,8 @@ Founder Lab research also expands.
 Research expands into recommendation intelligence, AI visibility, agentic commerce, and AI decision science.
 
 New studies examine facts, retrieval, hidden context, multi turn conversations, accuracy, brand legibility, attribution, and prompt shape.
+
+Research turns to the signals behind selection itself: claim specificity, star rating, third-party authority, brand familiarity, cited-source stability, and how those signals rank against each other once rating is removed from the comparison. A final study in this run tests whether structuring the same facts as bullets instead of prose changes how much of them a model cites.
 
 ---
 

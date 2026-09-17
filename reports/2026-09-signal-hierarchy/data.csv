@@ -1,0 +1,13 @@
+condition_code,condition_label,winner_rate_round1_pct,winner_rate_round2_pct,winner_rate_combined_pct
+AS,Authority + Specificity,100.0,100.0,100.0
+drop-M,"A+F+S, no format",100.0,100.0,100.0
+AFSM,Full stack (all four),99.8,100.0,99.9
+FS,Familiarity + Specificity,,,99.65
+drop-F,"A+S+M, no familiarity",,,99.0
+drop-A,"F+S+M, no authority",,,98.0
+AF,Authority + Familiarity,,,96.7
+drop-S,"A+F+M, no specificity",,,96.65
+SM,Specificity + Format,,,94.85
+FM,"Familiarity + Format, no specificity",,,90.65
+AM,"Authority + Format, lowest pair",89.0,86.8,87.9
+0000,"Baseline, nothing on",76.5,74.5,75.5

@@ -13,12 +13,16 @@ The research program evolves as new reports, datasets, and methods are published
 * Continued controlled research into how AI systems discover, evaluate, and select ecommerce brands.
 * Expanded research into candidate formation, selection, search behavior, recommendation consistency, fact deployment, and prompt behavior.
 * Added public research covering multi turn conversations, hidden context, fact injection, live retrieval, accuracy, brand legibility, claim attribution, and prompt shape.
+* Turned to the signals behind selection itself once a brand is already being compared: claim specificity, star rating, third-party authority, and brand familiarity, each tested alone and then crossed against rating.
+* Added a signal-hierarchy study putting authority, familiarity, specificity, and format head-to-head and in combination, with rating removed from the comparison entirely.
+* Added a source-stability study testing whether the recommended brand changes when the search-cited source changes between repeats of the same question.
+* Added a structured-markup study testing whether presenting the same facts as bullets instead of prose changes citation fidelity and vocabulary reuse, closing out the series' repeated tests of the format signal.
 * Continued development of the AI Commerce Intelligence™ Framework.
 
 ### Research Library
 
-* Updated the public research inventory.
-* Added the current research map.
+* Updated the public research inventory to 38 public research publications.
+* Updated the current research map.
 * Updated repository documentation.
 * Expanded dataset documentation.
 * Updated the standard methodology.

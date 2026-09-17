@@ -1,0 +1,22 @@
+metric,item,value,note
+phase1_follows_familiarity,round_1,80.6,"percent, n=800"
+phase1_follows_familiarity,round_2,78.9,"percent, n=800, p<1e-60 both rounds"
+phase1_follows_familiarity,combined,79.8,"percent, n=1600"
+phase2_marginal_familiarity,target_has_it,55.6,"percent, combined"
+phase2_marginal_familiarity,competitor_has_it,55.4,"percent, combined, 0.2pp gap"
+phase2_rating,target_stronger_rating,99.8,"percent, combined"
+phase2_rating,competitor_stronger_rating,11.2,"percent, combined"
+phase2_familiarity_within_rating_room,disadvantaged_also_gets_familiarity,11.6,vs 11.2 alone
+phase2_familiarity_within_rating_room,advantaged_also_gets_familiarity,99.5,"vs 99.8 alone, no additional room"
+phase2_familiarity_within_rating_room,disadvantaged_opponent_gets_familiarity,100.0,no room to move
+by_brand_follows_familiarity,barbaro_mojo_functional,53.5,"round1 53.5, round2 53.5, identical"
+by_brand_follows_familiarity,hearthloom_functional,81.8,"round1 83.0, round2 80.5"
+by_brand_follows_familiarity,colored_organics_trust,87.0,"round1 89.5, round2 84.5"
+by_brand_follows_familiarity,bodyartforms_trust,96.8,"round1 96.5, round2 97.0"
+design,total_calls,4800,2400 per round
+design,phase1_calls,800,4 brands x 2 conditions x 20 intents x 5 repeats
+design,phase2_calls,1600,"4 brands x 4 conditions x 20 intents x 5 repeats, per round"
+design,rounds,2,"independent, fresh random seed"
+design,judge_parse_failures,0,out of 4800 judge calls
+stats,phase2_full_model_LR_round1,1621.71,"df=3, p approx 0"
+stats,phase2_full_model_LR_round2,1605.73,"df=3, p approx 0"

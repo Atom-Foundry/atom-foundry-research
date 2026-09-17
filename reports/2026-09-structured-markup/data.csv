@@ -1,0 +1,11 @@
+metric,condition,round_1,round_2,combined,round_1_p,round_2_p,note
+citation_rate,prose,0.653,0.638,0.6455,,,"share of 3 injected facts cited or clearly paraphrased, LLM judge"
+citation_rate,structured,0.595,0.592,0.5935,,,
+citation_rate,diff_structured_minus_prose,-0.0583,-0.0467,-0.052,0.0003,0.0011,"clustered paired t-test, brand x intent, n=80 clusters per round"
+vocabulary_lift,prose,0.677,0.689,0.683,,,share of 5 pre-registered distinctive terms per brand appearing verbatim
+vocabulary_lift,structured,0.645,0.644,0.6445,,,
+vocabulary_lift,diff_structured_minus_prose,-0.0325,-0.045,-0.0385,0.0044,<0.0001,"clustered paired t-test, brand x intent, n=80 clusters per round"
+word_count,prose,144.6,145.6,145.1,,,mean words per response
+word_count,structured,142.5,140.0,141.25,,,robustness check: structured not longer than prose
+brand_mentioned,prose,0.998,0.998,0.998,,,share of responses naming the brand at all
+brand_mentioned,structured,1.0,1.0,1.0,,,robustness check: both conditions near ceiling

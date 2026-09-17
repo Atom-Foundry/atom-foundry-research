@@ -1,0 +1,6 @@
+signal,r_squared_pct,signal_type
+Store quality,0.7,external
+Public fame,1.2,external
+Web traces,0.2,external
+"Intent, within set",1.2,external
+"Position, month to month",61.4,internal

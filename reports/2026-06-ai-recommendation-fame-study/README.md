@@ -122,3 +122,7 @@ https://atomfoundry.dev/research/ai-recommendation-fame-study
 **Created by Atom Foundry**
 
 *Building the AI Commerce Intelligence Layer™*
+
+## Note
+
+This folder is the original, pre-correction draft of this study. The corrected, published version, with its Zenodo DOI, lives in `2026-06-the-fame-study` (DOI: 10.5281/zenodo.22772589).

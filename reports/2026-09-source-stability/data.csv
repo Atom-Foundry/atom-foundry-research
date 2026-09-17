@@ -1,0 +1,9 @@
+category,winner_stability_r1_pct,winner_stability_r2_pct,source_stability_r1_pct,source_stability_r2_pct,cluster_diff_r1_pp,cluster_diff_r2_pp,note
+Meal kit,40.0,60.0,2.2,2.2,+39.3,+30.0,
+Electric toothbrush,80.0,100.0,13.3,48.9,+25.8,+0.0,
+Mechanical keyboard,100.0,100.0,48.9,20.0,+0.0,+0.0,
+Air fryer,100.0,100.0,6.7,13.3,+0.0,+0.0,
+Bluetooth speaker,100.0,100.0,26.7,46.7,+0.0,+0.0,
+Headphones,100.0,,33.3,,+0.0,,round 2 not computable
+Robot vacuum,,100.0,,46.7,,+0.0,round 1 not computable
+Gaming mouse,100.0,100.0,80.0,24.4,,,"no low-overlap group, both rounds"

@@ -1,0 +1,24 @@
+metric,item,value,note
+phase1_follows_authority,round_1,85.5,"percent, n=800"
+phase1_follows_authority,round_2,84.8,"percent, n=800, p<1e-90 both rounds"
+phase1_follows_authority,combined,85.2,"percent, n=1600"
+phase2_marginal_authority,target_has_it,56.1,"percent, combined"
+phase2_marginal_authority,competitor_has_it,54.6,"percent, combined, 1.5pp gap"
+phase2_rating,target_stronger_rating,100.0,"percent, combined"
+phase2_rating,competitor_stronger_rating,10.8,"percent, combined"
+phase2_authority_within_rating_room,disadvantaged_also_gets_authority,12.3,vs 10.8 alone
+phase2_authority_within_rating_room,advantaged_also_gets_authority,90.8,vs 89.2 alone
+phase2_authority_within_rating_room,disadvantaged_opponent_gets_authority,100.0,no room to move
+by_brand_follows_authority,barbaro_mojo_functional,64.5,"round1 64.0, round2 65.0"
+by_brand_follows_authority,colored_organics_trust,81.3,"round1 86.0, round2 76.5"
+by_brand_follows_authority,hearthloom_functional,96.8,"round1 95.0, round2 98.5"
+by_brand_follows_authority,bodyartforms_trust,98.0,"round1 97.0, round2 99.0"
+design,total_calls,4800,2400 per round
+design,phase1_calls,800,4 brands x 2 conditions x 20 intents x 5 repeats
+design,phase2_calls,1600,"4 brands x 4 conditions x 20 intents x 5 repeats, per round"
+design,rounds,2,"independent, fresh random seed"
+design,judge_parse_failures,0,out of 4800 judge calls
+stats,phase2_full_model_LR_round1,1651.07,"df=3, p approx 0"
+stats,phase2_full_model_LR_round2,1659.81,"df=3, p approx 0"
+stats,cluster_permutation_p_round1,0.55,"disadvantaged side, authority's marginal lift"
+stats,cluster_permutation_p_round2,0.60,"disadvantaged side, authority's marginal lift"

@@ -1,0 +1,38 @@
+metric,item,value,note
+pooled_original_4_brands,no_claims,0.0,"percent, baseline, n=800"
+pooled_original_4_brands,vague,54.1,"percent, rounds 1+2 combined, n=800"
+pooled_original_4_brands,specific,62.9,"percent, rounds 1+2 combined, n=800"
+round_replication,vague_round1,54.2,
+round_replication,vague_round2,54.0,
+round_replication,specific_round1,62.8,
+round_replication,specific_round2,63.0,replicated
+by_brand_original4,colored_organics_vague,93.5,"organic baby clothes, trust"
+by_brand_original4,colored_organics_specific,85.0,"p=0.006, reversed, -8.5pp"
+by_brand_original4,bodyartforms_vague,9.0,"body piercing jewelry, trust"
+by_brand_original4,bodyartforms_specific,10.0,"p=0.73, flat, +1.0pp"
+by_brand_original4,barbaro_mojo_vague,50.5,"Cuban style hot sauce, functional"
+by_brand_original4,barbaro_mojo_specific,68.0,"p<0.001, +17.5pp"
+by_brand_original4,hearthloom_vague,63.5,"ceramic dinnerware, functional"
+by_brand_original4,hearthloom_specific,88.5,"p<0.001, +25.0pp"
+by_category_all_8_brands,functional_vague,68.8,"percent, n=600, baseline"
+by_category_all_8_brands,functional_specific,84.5,"percent, n=600, +15.7pp"
+by_category_all_8_brands,trust_vague,65.2,"percent, n=600, baseline"
+by_category_all_8_brands,trust_specific,60.7,"percent, n=600, -4.5pp, p=0.11 not significant alone"
+round3_new_brands,wild_one_vague,87.0,"dog gear, trust"
+round3_new_brands,wild_one_specific,74.0,"p=0.020, reversed"
+round3_new_brands,primally_pure_vague,99.0,"natural deodorant, trust"
+round3_new_brands,primally_pure_specific,100.0,"p=0.32, ceiling"
+round3_new_brands,zigpoll_vague,85.0,"Shopify survey tool, functional"
+round3_new_brands,zigpoll_specific,96.0,p=0.008
+round3_new_brands,bellroy_vague,100.0,"slim leather wallets, functional"
+round3_new_brands,bellroy_specific,98.0,"p=0.16, ceiling"
+round3_new_brands,no_claims_baseline,24.5,"already-famous brands, vs 0.0 for rounds 1-2 obscure brands"
+design,total_calls,3600,"1200 per round, 3 rounds"
+design,brands_total,8,"4 original rounds 1-2, 4 new round 3"
+design,judge_parse_failures,0,out of 3600 judge calls
+stats,vague_vs_specific_z,3.55,p=0.0004
+stats,three_condition_chi2,780.09,"df=2, p<0.0001"
+stats,brand_x_specificity_interaction,35.87,"df=3, p<0.0001 (rounds 1+2)"
+stats,category_x_specificity_interaction,39.26,"df=1, p<0.0001, controlling for brand, all 2400 calls"
+stats,specificity_controlling_brand_wordcount,p=0.0005,significant
+stats,wordcount_controlling_specificity,p=0.24,"not significant, rounds 1-2"

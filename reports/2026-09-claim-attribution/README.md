@@ -1,6 +1,8 @@
 # Say It Yourself, and the Model Picks You 67.5% of the Time. A Third Party Only Gets 51.1%.
 
-**Atom Foundry · Recommendation Intelligence Research™ · Study #31**
+Atom Foundry — Recommendation Intelligence Research™ · Study #31
+Published: 2026-09-12
+DOI: [10.5281/zenodo.22758452](https://doi.org/10.5281/zenodo.22758452)
 
 > Same brand. Same fact. Same model. Only who appears to be saying the fact changes.
 
@@ -165,3 +167,7 @@ The complete row-level API log is not exposed in the supplied HTML. This reposit
 ## Source
 
 https://atomfoundry.dev/research/claim-attribution
+
+## Citation
+
+Atom Foundry (2026). *Say It Yourself, and the Model Picks You 67.5% of the Time. A Third Party Only Gets 51.1%.* Recommendation Intelligence Research™, Study #31. Zenodo. https://doi.org/10.5281/zenodo.22758452

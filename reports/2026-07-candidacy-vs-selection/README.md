@@ -1,6 +1,8 @@
 # Candidacy vs Selection
 
-Recommendation Intelligence Research™ · Atom Foundry · July 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #6
+Published: 2026-07-21
+DOI: [10.5281/zenodo.22772390](https://doi.org/10.5281/zenodo.22772390)
 
 ---
 
@@ -118,3 +120,7 @@ Once inside that pool, however, recommendation frequency is driven largely by fa
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *Candidacy vs Selection* Recommendation Intelligence Research™, Study #6. Zenodo. https://doi.org/10.5281/zenodo.22772390

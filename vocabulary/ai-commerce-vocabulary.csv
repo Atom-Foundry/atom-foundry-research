@@ -1,0 +1,67 @@
+term,definition,url
+AI Commerce Score™,"The single 0 to 100 number measuring how well AI shopping agents can understand, trust, and recommend a store.",https://atomfoundry.dev/vocabulary/ai-commerce-score
+Recommendation Share™,The percentage of high-intent buying prompts in which a brand appears in AI recommendations.,https://atomfoundry.dev/vocabulary/recommendation-share
+AI Visibility Risk™,The score zone below 50. Stores here are systematically excluded from AI shopping recommendations.,https://atomfoundry.dev/vocabulary/ai-invisible-risk
+AI Commerce Graph™,"The complete network of relationships between brands, products, trust signals, buyer intents, and AI recommendation systems. The infrastructure Atom Foundry maps.",https://atomfoundry.dev/vocabulary/ai-commerce-graph
+Recommendation Routing™,"How AI systems decide which brand receives which buyer query. Not whether you are in the graph, but how traffic flows through it to you.",https://atomfoundry.dev/vocabulary/recommendation-routing
+Persistent Merchant Identity™,How consistently AI systems understand your brand across platforms and over time. High PMI means every AI system knows the same accurate story about you.,https://atomfoundry.dev/vocabulary/persistent-merchant-identity
+AI Trust Layer™,The complete set of signals AI checks before considering a brand for recommendation. Trust verification happens before any scoring or matching.,https://atomfoundry.dev/vocabulary/ai-trust-layer
+Semantic Commerce Layer™,The infrastructure of intent-aligned product language that bridges what a store sells and how buyers ask AI to find it.,https://atomfoundry.dev/vocabulary/semantic-commerce-layer
+Machine-Readable Commerce™,"E-commerce infrastructure structured so AI systems can parse, verify, and act on product and store data without human assistance.",https://atomfoundry.dev/vocabulary/machine-readable-commerce
+Recommendation Confidence™,"How strongly AI will recommend a store, from a weak mention to a confident first pick.",https://atomfoundry.dev/vocabulary/recommendation-confidence
+Semantic Clarity™,"How clearly AI can understand what a store sells, who it serves, and why it is different.",https://atomfoundry.dev/vocabulary/semantic-clarity
+AI Extractability™,How easily AI systems can pull structured answers from a store's content and pages.,https://atomfoundry.dev/vocabulary/ai-extractability
+Prompt Visibility™,Whether and how often a brand appears when buyers query AI systems with purchase-intent prompts.,https://atomfoundry.dev/vocabulary/prompt-visibility
+Recommendation Velocity™,The rate of change in a brand's AI Commerce Score and Recommendation Share over time.,https://atomfoundry.dev/vocabulary/recommendation-velocity
+Recommendation Density™,"How broadly a brand appears across adjacent buying intents, not just its primary category queries.",https://atomfoundry.dev/vocabulary/recommendation-density
+Hidden Authority™,A store with real authority but poor extractability. AI knows the brand but cannot pull answers to recommend it.,https://atomfoundry.dev/vocabulary/hidden-authority
+Intent Misalignment™,A brand with authority and good structure whose content does not match how buyers actually query AI in that category.,https://atomfoundry.dev/vocabulary/intent-misalignment
+AI Trust Graph™,"The network of external mentions, citations, reviews, and third-party validation that AI uses to verify and trust a brand.",https://atomfoundry.dev/vocabulary/ai-trust-graph
+Recommendation Position™,"Where in an AI response a brand appears: first recommendation, supporting mention, comparison mention, or weak citation.",https://atomfoundry.dev/vocabulary/recommendation-position
+Recommendation Graph™,"The relationship network connecting brands, products, trust signals, citations, and semantic relevance across AI systems.",https://atomfoundry.dev/vocabulary/recommendation-graph
+AI Visibility™,"Whether and how clearly an e-commerce store can be discovered, interpreted, and surfaced by AI shopping systems.",https://atomfoundry.dev/vocabulary/ai-visibility
+Agent-Readable Commerce™,"E-commerce infrastructure specifically structured for autonomous AI shopping agents that browse, compare, and complete purchases without human input.",https://atomfoundry.dev/vocabulary/agent-readable-commerce
+AI Commerce Infrastructure™,"The machine-readable systems, trust layers, and semantic commerce architecture that enable AI-driven discovery and transactions at scale.",https://atomfoundry.dev/vocabulary/ai-commerce-infrastructure
+Agentic Commerce™,"The model where AI agents autonomously browse, compare, evaluate, and complete purchases on behalf of buyers without requiring human input at each step.",https://atomfoundry.dev/vocabulary/agentic-commerce
+AI Discoverability™,"How easily and reliably AI systems can find, index, and surface a store in response to relevant buyer queries.",https://atomfoundry.dev/vocabulary/ai-discoverability
+Merchant Interpretability™,"How well AI systems can understand a merchant's identity, category, products, and positioning from available signals.",https://atomfoundry.dev/vocabulary/merchant-interpretability
+AI Recommendation Eligibility™,Whether a store has met the minimum threshold of signals required to be considered for AI shopping recommendations at all.,https://atomfoundry.dev/vocabulary/ai-recommendation-eligibility
+Commerce Knowledge Graph™,"The semantic knowledge structure AI systems build around merchant entities, product categories, buyer intents, and commerce relationships.",https://atomfoundry.dev/vocabulary/commerce-knowledge-graph
+AI Visibility Layer™,"The complete stack of signals, structures, and systems that determine how visible a merchant is within AI commerce ecosystems.",https://atomfoundry.dev/vocabulary/ai-visibility-layer
+Commerce Protocol Layer™,The standardized machine-readable protocols and file formats that enable AI systems to interact with e-commerce stores programmatically.,https://atomfoundry.dev/vocabulary/commerce-protocol-layer
+AI Readability™,How cleanly and completely AI systems can extract structured content from a store without relying on JavaScript or visual rendering.,https://atomfoundry.dev/vocabulary/ai-readability
+Recommendation Visibility™,Whether a brand is visible to AI systems in the specific moment a buyer submits a purchase-intent query.,https://atomfoundry.dev/vocabulary/recommendation-visibility
+Trusted But Invisible™,A store with real authority and trust that AI cannot surface because its content is technically inaccessible.,https://atomfoundry.dev/vocabulary/trusted-but-invisible
+Machine Trust Signals™,The specific crawlable signals AI uses to verify merchant trustworthiness before recommending a store to a buyer.,https://atomfoundry.dev/vocabulary/machine-trust-signals
+Recommendation Economy™,"The emerging commercial model where AI systems, not search engines, control which brands and products buyers discover and purchase.",https://atomfoundry.dev/vocabulary/recommendation-economy
+Recommendation Gap™,The measurable difference between a brand's current Recommendation Share and the share held by the category leader.,https://atomfoundry.dev/vocabulary/recommendation-gap
+AI Recommendation Rate™,The percentage of tested buyer prompts in which a merchant receives any form of recommendation from an AI system.,https://atomfoundry.dev/vocabulary/ai-recommendation-rate
+Recommendation Authority™,"The cumulative strength of signals supporting a merchant's eligibility, trust, and confidence for AI recommendation.",https://atomfoundry.dev/vocabulary/recommendation-authority
+Recommendation Eligibility Score™,A scored measure of how close a store is to meeting the minimum threshold for AI recommendation eligibility.,https://atomfoundry.dev/vocabulary/recommendation-eligibility-score
+Buyer Intent Graph™,"The structured map of the real purchase-intent prompts buyers bring to AI, connected to the brands that satisfy each one.",https://atomfoundry.dev/vocabulary/buyer-intent-graph
+Buyer Intent Coverage™,The share of a category's buyer intents for which a brand appears in AI recommendations at all.,https://atomfoundry.dev/vocabulary/buyer-intent-coverage
+Intent Authority™,"How strongly AI associates a brand with a specific buyer intent, beyond merely appearing for it.",https://atomfoundry.dev/vocabulary/intent-authority
+Recommendation Demand™,The volume of real buyer intent flowing to a category or intent cluster through AI systems.,https://atomfoundry.dev/vocabulary/recommendation-demand
+Agent Transaction Readiness™,"Whether an AI agent can complete a purchase on a store end to end, not just read it.",https://atomfoundry.dev/vocabulary/agent-transaction-readiness
+AI Actionability™,"Whether the data on a store is structured precisely enough for an AI agent to act on it, not just read it.",https://atomfoundry.dev/vocabulary/ai-actionability
+ACO™,"The process of optimizing product data, trust signals, and commerce infrastructure so AI systems can discover, evaluate, recommend, and transact products accurately.",https://atomfoundry.dev/vocabulary/aco
+GEO™,"Generative Engine Optimization. The practice of structuring content so generative AI systems cite, quote, or recommend it directly inside their answers.",https://atomfoundry.dev/vocabulary/geo
+GEO vs SEO™,"A comparison term. SEO optimizes for search engine rankings, GEO optimizes for being cited and recommended inside AI-generated answers.",https://atomfoundry.dev/vocabulary/geo-vs-seo
+AI Shopping™,"The behavior of buyers using AI assistants like ChatGPT, Google AI Mode, or Alexa to research, compare, and purchase products instead of searching directly.",https://atomfoundry.dev/vocabulary/ai-shopping
+Semantic Commerce™,"Ecommerce content and data described in the language and intent buyers actually use, rather than internal product naming.",https://atomfoundry.dev/vocabulary/semantic-commerce
+AI Authority Signals™,"The specific proof points, reviews, citations, and third-party mentions AI systems check to decide whether a brand can be trusted enough to recommend.",https://atomfoundry.dev/vocabulary/ai-authority-signals
+AI Commerce Audit™,"A structured scan of a store's product data, trust signals, and technical infrastructure that scores how visible and recommendable it is to AI shopping systems.",https://atomfoundry.dev/vocabulary/ai-commerce-audit
+AI Commerce Intelligence™,"The layer of analysis that turns raw AI Commerce Score and Recommendation Graph data into specific, actionable fixes for a merchant.",https://atomfoundry.dev/vocabulary/ai-commerce-intelligence
+AI Interpretability™,"How accurately AI systems understand what a store actually sells, beyond simply being able to read the page.",https://atomfoundry.dev/vocabulary/ai-interpretability
+AI Readiness™,"How prepared a store's data, structure, and trust signals are for AI systems to read, evaluate, and recommend it right now.",https://atomfoundry.dev/vocabulary/ai-readiness
+AI Structured Signals™,"The machine-readable markers, schema, and structured data a store exposes that let AI systems parse its products, pricing, and policies without guessing.",https://atomfoundry.dev/vocabulary/ai-structured-signals
+AI Trust Confidence™,How certain an AI system is that a store's trust signals are accurate and current enough to recommend without risk.,https://atomfoundry.dev/vocabulary/ai-trust-confidence
+ChatGPT Shopping,"ChatGPT's built-in product search and recommendation feature, which surfaces and compares merchant products directly inside conversational answers.",https://atomfoundry.dev/vocabulary/chatgpt-shopping
+ChatGPT Visibility,Whether and how often a brand appears when buyers ask ChatGPT for product recommendations in its category.,https://atomfoundry.dev/vocabulary/chatgpt-visibility
+Human View vs AI View™,The gap between what a human sees on a rendered page and what an AI crawler can actually extract from its underlying code.,https://atomfoundry.dev/vocabulary/human-view-vs-ai-view
+llms.txt,A plain-text file at a store's root domain that gives AI systems a structured summary of what the site sells and how to interpret it.,https://atomfoundry.dev/vocabulary/llms-txt
+Prompt Visibility Testing™,The practice of running real buyer prompts through AI systems to measure whether and how a brand appears in the responses.,https://atomfoundry.dev/vocabulary/prompt-visibility-testing
+Retrieval Intelligence™,"How effectively an AI system retrieves the correct, most relevant store content to answer a buyer's query.",https://atomfoundry.dev/vocabulary/retrieval-intelligence
+Shopify AI Readiness™,"How prepared a Shopify store specifically is, given the platform's default theme and data structure, for AI shopping agents to read and recommend it.",https://atomfoundry.dev/vocabulary/shopify-ai-readiness
+Shopify AI Visibility™,"Whether a Shopify store's products, pages, and trust signals are visible enough for AI shopping systems to discover it in the first place.",https://atomfoundry.dev/vocabulary/shopify-ai-visibility
+Unverified Visibility™,"Appearing in AI search results or mentions without the trust signals to back the claim, a fragile, easily lost form of visibility.",https://atomfoundry.dev/vocabulary/unverified-visibility

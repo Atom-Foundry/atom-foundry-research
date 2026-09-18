@@ -1,0 +1,478 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "name": "AI Commerce Vocabulary",
+  "alternateName": "AI Commerce Explorer",
+  "description": "An interactive knowledge base explaining how AI discovers, evaluates, trusts, and recommends e-commerce stores, built from 66 defined terms and the relationships between them.",
+  "url": "https://atomfoundry.dev/vocabulary",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Atom Foundry",
+    "url": "https://atomfoundry.dev"
+  },
+  "license": "https://atomfoundry.dev/terms-of-service",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Commerce Score™",
+      "description": "The single 0 to 100 number measuring how well AI shopping agents can understand, trust, and recommend a store.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-commerce-score",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Share™",
+      "description": "The percentage of high-intent buying prompts in which a brand appears in AI recommendations.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-share",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Visibility Risk™",
+      "description": "The score zone below 50. Stores here are systematically excluded from AI shopping recommendations.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-invisible-risk",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Commerce Graph™",
+      "description": "The complete network of relationships between brands, products, trust signals, buyer intents, and AI recommendation systems. The infrastructure Atom Foundry maps.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-commerce-graph",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Routing™",
+      "description": "How AI systems decide which brand receives which buyer query. Not whether you are in the graph, but how traffic flows through it to you.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-routing",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Persistent Merchant Identity™",
+      "description": "How consistently AI systems understand your brand across platforms and over time. High PMI means every AI system knows the same accurate story about you.",
+      "url": "https://atomfoundry.dev/vocabulary/persistent-merchant-identity",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Trust Layer™",
+      "description": "The complete set of signals AI checks before considering a brand for recommendation. Trust verification happens before any scoring or matching.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-trust-layer",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Semantic Commerce Layer™",
+      "description": "The infrastructure of intent-aligned product language that bridges what a store sells and how buyers ask AI to find it.",
+      "url": "https://atomfoundry.dev/vocabulary/semantic-commerce-layer",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Machine-Readable Commerce™",
+      "description": "E-commerce infrastructure structured so AI systems can parse, verify, and act on product and store data without human assistance.",
+      "url": "https://atomfoundry.dev/vocabulary/machine-readable-commerce",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Confidence™",
+      "description": "How strongly AI will recommend a store, from a weak mention to a confident first pick.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-confidence",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Semantic Clarity™",
+      "description": "How clearly AI can understand what a store sells, who it serves, and why it is different.",
+      "url": "https://atomfoundry.dev/vocabulary/semantic-clarity",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Extractability™",
+      "description": "How easily AI systems can pull structured answers from a store's content and pages.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-extractability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Prompt Visibility™",
+      "description": "Whether and how often a brand appears when buyers query AI systems with purchase-intent prompts.",
+      "url": "https://atomfoundry.dev/vocabulary/prompt-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Velocity™",
+      "description": "The rate of change in a brand's AI Commerce Score and Recommendation Share over time.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-velocity",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Density™",
+      "description": "How broadly a brand appears across adjacent buying intents, not just its primary category queries.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-density",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Hidden Authority™",
+      "description": "A store with real authority but poor extractability. AI knows the brand but cannot pull answers to recommend it.",
+      "url": "https://atomfoundry.dev/vocabulary/hidden-authority",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Intent Misalignment™",
+      "description": "A brand with authority and good structure whose content does not match how buyers actually query AI in that category.",
+      "url": "https://atomfoundry.dev/vocabulary/intent-misalignment",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Trust Graph™",
+      "description": "The network of external mentions, citations, reviews, and third-party validation that AI uses to verify and trust a brand.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-trust-graph",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Position™",
+      "description": "Where in an AI response a brand appears: first recommendation, supporting mention, comparison mention, or weak citation.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-position",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Graph™",
+      "description": "The relationship network connecting brands, products, trust signals, citations, and semantic relevance across AI systems.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-graph",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Visibility™",
+      "description": "Whether and how clearly an e-commerce store can be discovered, interpreted, and surfaced by AI shopping systems.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Agent-Readable Commerce™",
+      "description": "E-commerce infrastructure specifically structured for autonomous AI shopping agents that browse, compare, and complete purchases without human input.",
+      "url": "https://atomfoundry.dev/vocabulary/agent-readable-commerce",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Commerce Infrastructure™",
+      "description": "The machine-readable systems, trust layers, and semantic commerce architecture that enable AI-driven discovery and transactions at scale.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-commerce-infrastructure",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Agentic Commerce™",
+      "description": "The model where AI agents autonomously browse, compare, evaluate, and complete purchases on behalf of buyers without requiring human input at each step.",
+      "url": "https://atomfoundry.dev/vocabulary/agentic-commerce",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Discoverability™",
+      "description": "How easily and reliably AI systems can find, index, and surface a store in response to relevant buyer queries.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-discoverability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Merchant Interpretability™",
+      "description": "How well AI systems can understand a merchant's identity, category, products, and positioning from available signals.",
+      "url": "https://atomfoundry.dev/vocabulary/merchant-interpretability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Recommendation Eligibility™",
+      "description": "Whether a store has met the minimum threshold of signals required to be considered for AI shopping recommendations at all.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-recommendation-eligibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Commerce Knowledge Graph™",
+      "description": "The semantic knowledge structure AI systems build around merchant entities, product categories, buyer intents, and commerce relationships.",
+      "url": "https://atomfoundry.dev/vocabulary/commerce-knowledge-graph",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Visibility Layer™",
+      "description": "The complete stack of signals, structures, and systems that determine how visible a merchant is within AI commerce ecosystems.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-visibility-layer",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Commerce Protocol Layer™",
+      "description": "The standardized machine-readable protocols and file formats that enable AI systems to interact with e-commerce stores programmatically.",
+      "url": "https://atomfoundry.dev/vocabulary/commerce-protocol-layer",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Readability™",
+      "description": "How cleanly and completely AI systems can extract structured content from a store without relying on JavaScript or visual rendering.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-readability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Visibility™",
+      "description": "Whether a brand is visible to AI systems in the specific moment a buyer submits a purchase-intent query.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Trusted But Invisible™",
+      "description": "A store with real authority and trust that AI cannot surface because its content is technically inaccessible.",
+      "url": "https://atomfoundry.dev/vocabulary/trusted-but-invisible",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Machine Trust Signals™",
+      "description": "The specific crawlable signals AI uses to verify merchant trustworthiness before recommending a store to a buyer.",
+      "url": "https://atomfoundry.dev/vocabulary/machine-trust-signals",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Economy™",
+      "description": "The emerging commercial model where AI systems, not search engines, control which brands and products buyers discover and purchase.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-economy",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Gap™",
+      "description": "The measurable difference between a brand's current Recommendation Share and the share held by the category leader.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-gap",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Recommendation Rate™",
+      "description": "The percentage of tested buyer prompts in which a merchant receives any form of recommendation from an AI system.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-recommendation-rate",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Authority™",
+      "description": "The cumulative strength of signals supporting a merchant's eligibility, trust, and confidence for AI recommendation.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-authority",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Eligibility Score™",
+      "description": "A scored measure of how close a store is to meeting the minimum threshold for AI recommendation eligibility.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-eligibility-score",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Buyer Intent Graph™",
+      "description": "The structured map of the real purchase-intent prompts buyers bring to AI, connected to the brands that satisfy each one.",
+      "url": "https://atomfoundry.dev/vocabulary/buyer-intent-graph",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Buyer Intent Coverage™",
+      "description": "The share of a category's buyer intents for which a brand appears in AI recommendations at all.",
+      "url": "https://atomfoundry.dev/vocabulary/buyer-intent-coverage",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Intent Authority™",
+      "description": "How strongly AI associates a brand with a specific buyer intent, beyond merely appearing for it.",
+      "url": "https://atomfoundry.dev/vocabulary/intent-authority",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Recommendation Demand™",
+      "description": "The volume of real buyer intent flowing to a category or intent cluster through AI systems.",
+      "url": "https://atomfoundry.dev/vocabulary/recommendation-demand",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Agent Transaction Readiness™",
+      "description": "Whether an AI agent can complete a purchase on a store end to end, not just read it.",
+      "url": "https://atomfoundry.dev/vocabulary/agent-transaction-readiness",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Actionability™",
+      "description": "Whether the data on a store is structured precisely enough for an AI agent to act on it, not just read it.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-actionability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "ACO™",
+      "description": "The process of optimizing product data, trust signals, and commerce infrastructure so AI systems can discover, evaluate, recommend, and transact products accurately.",
+      "url": "https://atomfoundry.dev/vocabulary/aco",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "GEO™",
+      "description": "Generative Engine Optimization. The practice of structuring content so generative AI systems cite, quote, or recommend it directly inside their answers.",
+      "url": "https://atomfoundry.dev/vocabulary/geo",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "GEO vs SEO™",
+      "description": "A comparison term. SEO optimizes for search engine rankings, GEO optimizes for being cited and recommended inside AI-generated answers.",
+      "url": "https://atomfoundry.dev/vocabulary/geo-vs-seo",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Shopping™",
+      "description": "The behavior of buyers using AI assistants like ChatGPT, Google AI Mode, or Alexa to research, compare, and purchase products instead of searching directly.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-shopping",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Semantic Commerce™",
+      "description": "Ecommerce content and data described in the language and intent buyers actually use, rather than internal product naming.",
+      "url": "https://atomfoundry.dev/vocabulary/semantic-commerce",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Authority Signals™",
+      "description": "The specific proof points, reviews, citations, and third-party mentions AI systems check to decide whether a brand can be trusted enough to recommend.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-authority-signals",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Commerce Audit™",
+      "description": "A structured scan of a store's product data, trust signals, and technical infrastructure that scores how visible and recommendable it is to AI shopping systems.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-commerce-audit",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Commerce Intelligence™",
+      "description": "The layer of analysis that turns raw AI Commerce Score and Recommendation Graph data into specific, actionable fixes for a merchant.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-commerce-intelligence",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Interpretability™",
+      "description": "How accurately AI systems understand what a store actually sells, beyond simply being able to read the page.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-interpretability",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Readiness™",
+      "description": "How prepared a store's data, structure, and trust signals are for AI systems to read, evaluate, and recommend it right now.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-readiness",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Structured Signals™",
+      "description": "The machine-readable markers, schema, and structured data a store exposes that let AI systems parse its products, pricing, and policies without guessing.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-structured-signals",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Trust Confidence™",
+      "description": "How certain an AI system is that a store's trust signals are accurate and current enough to recommend without risk.",
+      "url": "https://atomfoundry.dev/vocabulary/ai-trust-confidence",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "ChatGPT Shopping",
+      "description": "ChatGPT's built-in product search and recommendation feature, which surfaces and compares merchant products directly inside conversational answers.",
+      "url": "https://atomfoundry.dev/vocabulary/chatgpt-shopping",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "ChatGPT Visibility",
+      "description": "Whether and how often a brand appears when buyers ask ChatGPT for product recommendations in its category.",
+      "url": "https://atomfoundry.dev/vocabulary/chatgpt-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Human View vs AI View™",
+      "description": "The gap between what a human sees on a rendered page and what an AI crawler can actually extract from its underlying code.",
+      "url": "https://atomfoundry.dev/vocabulary/human-view-vs-ai-view",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "llms.txt",
+      "description": "A plain-text file at a store's root domain that gives AI systems a structured summary of what the site sells and how to interpret it.",
+      "url": "https://atomfoundry.dev/vocabulary/llms-txt",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Prompt Visibility Testing™",
+      "description": "The practice of running real buyer prompts through AI systems to measure whether and how a brand appears in the responses.",
+      "url": "https://atomfoundry.dev/vocabulary/prompt-visibility-testing",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Retrieval Intelligence™",
+      "description": "How effectively an AI system retrieves the correct, most relevant store content to answer a buyer's query.",
+      "url": "https://atomfoundry.dev/vocabulary/retrieval-intelligence",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Shopify AI Readiness™",
+      "description": "How prepared a Shopify store specifically is, given the platform's default theme and data structure, for AI shopping agents to read and recommend it.",
+      "url": "https://atomfoundry.dev/vocabulary/shopify-ai-readiness",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Shopify AI Visibility™",
+      "description": "Whether a Shopify store's products, pages, and trust signals are visible enough for AI shopping systems to discover it in the first place.",
+      "url": "https://atomfoundry.dev/vocabulary/shopify-ai-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Unverified Visibility™",
+      "description": "Appearing in AI search results or mentions without the trust signals to back the claim, a fragile, easily lost form of visibility.",
+      "url": "https://atomfoundry.dev/vocabulary/unverified-visibility",
+      "inDefinedTermSet": "https://atomfoundry.dev/vocabulary#glossary"
+    }
+  ]
+}

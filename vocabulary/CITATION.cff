@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this vocabulary, please cite it as below."
+type: dataset
+title: "AI Commerce Vocabulary"
+abstract: >-
+  A controlled vocabulary of 66 terms describing how AI systems discover,
+  evaluate, trust, and recommend online stores and brands, drawn from
+  Atom Foundry's public research program.
+authors:
+  - name: "Atom Foundry"
+    website: "https://atomfoundry.dev"
+date-released: "2026-09-18"
+url: "https://atomfoundry.dev/vocabulary"
+license: "https://atomfoundry.dev/terms-of-service"
+keywords:
+  - AI recommendation
+  - AI commerce
+  - LLM shopping agents
+  - generative engine optimization
+  - controlled vocabulary
+  - AI SEO
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "DOI for this Zenodo record (update after upload)"

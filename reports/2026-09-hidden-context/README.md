@@ -1,6 +1,8 @@
 # Tell the Model You Saw an Ad. It Recommends That Brand 88% of the Time
 
-**Study #26 · Recommendation Intelligence Research™ · September 2026**
+Atom Foundry — Recommendation Intelligence Research™ · Study #26
+Published: 2026-09-08
+DOI: [10.5281/zenodo.22758569](https://doi.org/10.5281/zenodo.22758569)
 
 > Same prompt, same brand, same model. Only one hidden line in the system message changes. A fabricated claim that the shopper just saw an ad for the brand produced an 88% winner rate, the largest lift of any condition tested.
 
@@ -146,3 +148,7 @@ See [`methodology.md`](methodology.md) for the detailed design and limitations.
 ## Source
 
 Canonical study page: https://atomfoundry.dev/research/hidden-context
+
+## Citation
+
+Atom Foundry (2026). *Tell the Model You Saw an Ad. It Recommends That Brand 88% of the Time* Recommendation Intelligence Research™, Study #26. Zenodo. https://doi.org/10.5281/zenodo.22758569

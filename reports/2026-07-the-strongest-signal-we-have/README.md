@@ -115,3 +115,7 @@ Recommendation systems appear to exhibit stable internal structures that persist
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Note
+
+This folder is an earlier draft of this study, published before it was renamed and finalized. The current, DOI-bearing version lives in `2026-07-the-model-predicts-itself` (DOI: 10.5281/zenodo.22820552).

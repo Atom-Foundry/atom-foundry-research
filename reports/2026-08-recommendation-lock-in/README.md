@@ -1,6 +1,8 @@
 # The Model Hedges Most When It’s Most Sure
 
-Recommendation Intelligence Research™ · Atom Foundry · August 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #18
+Published: 2026-08-26
+DOI: [10.5281/zenodo.22818316](https://doi.org/10.5281/zenodo.22818316)
 
 ---
 
@@ -94,3 +96,7 @@ Full write-up: https://atomfoundry.dev/research/recommendation-confidence
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *The Model Hedges Most When It's Most Sure* Recommendation Intelligence Research™, Study #18. Zenodo. https://doi.org/10.5281/zenodo.22818316

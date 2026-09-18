@@ -29,7 +29,7 @@ Content is available under the terms described at https://atomfoundry.dev/terms-
 
 ## How to cite
 
-Atom Foundry (2026). AI Commerce Vocabulary. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Atom Foundry (2026). AI Commerce Vocabulary. Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.22836955)
 
 (Replace the DOI above with the one Zenodo assigns after upload, and update the same value in CITATION.cff.)
 

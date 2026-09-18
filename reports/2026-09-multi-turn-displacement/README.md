@@ -1,6 +1,8 @@
 # It Recommends You First. By Turn Four, It's Moved On
 
-**Atom Foundry — Recommendation Intelligence Research™ · Study #24**
+Atom Foundry — Recommendation Intelligence Research™ · Study #24
+Published: 2026-09-08
+DOI: [10.5281/zenodo.22757634](https://doi.org/10.5281/zenodo.22757634)
 
 > We introduced a brand favorably, then stopped naming it. Across 200 four-turn conversations, the introduced brand survived to the final pick 49.5% of the time. The cohort ranged from 100% survival to 0%, and one mid-pack brand was displaced by the same rival in 18 of 20 conversations.
 
@@ -148,3 +150,7 @@ The baseline data were not recollected for this study. They were reused from the
 ## Source
 
 Published study: https://atomfoundry.dev/research/multi-turn-displacement
+
+## Citation
+
+Atom Foundry (2026). *It Recommends You First. By Turn Four, It's Moved On* Recommendation Intelligence Research™, Study #24. Zenodo. https://doi.org/10.5281/zenodo.22757634

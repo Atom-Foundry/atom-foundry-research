@@ -1,6 +1,8 @@
 # We Invented a Brand With Zero History. Reviews Got It Picked Anyway
 
-Recommendation Intelligence Research™ · Atom Foundry · August 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #20
+Published: 2026-08-27
+DOI: [10.5281/zenodo.22817960](https://doi.org/10.5281/zenodo.22817960)
 
 ---
 
@@ -94,3 +96,7 @@ Full write-up: https://atomfoundry.dev/research/cold-start
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *We Invented a Brand With Zero History. Reviews Got It Picked Anyway* Recommendation Intelligence Research™, Study #20. Zenodo. https://doi.org/10.5281/zenodo.22817960

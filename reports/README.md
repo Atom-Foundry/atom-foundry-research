@@ -54,6 +54,8 @@ Research explaining why AI recommendation systems behave the way they do.
 | **Source Stability** | Testing whether the recommended brand changes when the search-cited source changes between repeats of the same question. |
 | **Signal Hierarchy** | Testing authority, familiarity, specificity, and format against each other and in combination, with rating removed from the comparison entirely. |
 | **Structured Markup vs Plain Prose** | Testing whether structuring the same facts as bullets instead of prose changes citation fidelity and vocabulary reuse. |
+| **Category Fit** | Testing whether category type (functional vs. trust and safety sensitive) changes how much authority and familiarity signals move the recommended brand. |
+| **Winner Stability Across Intents** | Testing whether the recommended brand stays stable when the same buying intent is worded three different ways instead of repeated verbatim. |
 
 ---
 
@@ -86,7 +88,7 @@ Current publications:
 
 # Research at a Glance
 
-- **38 published research reports**
+- **40 published research reports**
 - **40,000+ AI recommendations analyzed**
 - **1,490 brands observed**
 - **100 buyer-intent prompts**

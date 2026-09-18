@@ -1,6 +1,8 @@
 # We Described One Brand to the Model, Real or Made Up. It Recommended That Brand Anyway.
 
-**Atom Foundry · Recommendation Intelligence Research™ · Study #29**
+Atom Foundry — Recommendation Intelligence Research™ · Study #29
+Published: 2026-09-11
+DOI: [10.5281/zenodo.22799702](https://doi.org/10.5281/zenodo.22799702)
 
 > Once a brand's facts were placed in front of the model, framing quality barely changed candidacy for 12 of 13 tested brands. A fully invented brand reached 100% candidacy and 100% selection anyway.
 
@@ -169,3 +171,7 @@ The experiment summary in this folder records the aggregate measurements explici
 - `methodology.md` — study design, rounds, measurements and limitations
 - `experiment-summary.csv` — machine-readable aggregate results
 - `Charts/` — standalone SVG versions of the reported charts
+
+## Citation
+
+Atom Foundry (2026). *We Described One Brand to the Model, Real or Made Up. It Recommended That Brand Anyway.* Recommendation Intelligence Research™, Study #29. Zenodo. https://doi.org/10.5281/zenodo.22799702

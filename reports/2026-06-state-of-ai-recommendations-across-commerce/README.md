@@ -1,6 +1,8 @@
 # The State of AI Recommendations Across Commerce 2026
 
-**Recommendation Intelligence Research™ · Atom Foundry · June 2026**
+Atom Foundry — Recommendation Intelligence Research™
+Published: 2026-06-13
+DOI: [10.5281/zenodo.22817359](https://doi.org/10.5281/zenodo.22817359)
 
 ## Research Summary
 
@@ -121,3 +123,7 @@ Understanding why AI chooses one brand over another remains one of the most impo
 ## Full Report
 
 https://atomfoundry.dev/research/ai-recommendations-across-commerce-2026
+
+## Citation
+
+Atom Foundry (2026). *The State of AI Recommendations Across Commerce 2026* Recommendation Intelligence Research™. Zenodo. https://doi.org/10.5281/zenodo.22817359

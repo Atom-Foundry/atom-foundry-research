@@ -1,6 +1,8 @@
 # Two Months Later, the Model Still Agrees With Itself
 
-Recommendation Intelligence Research™ · Atom Foundry · August 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #22
+Published: 2026-08-31
+DOI: [10.5281/zenodo.22818169](https://doi.org/10.5281/zenodo.22818169)
 
 ---
 
@@ -93,3 +95,7 @@ Full write-up: https://atomfoundry.dev/research/recommendation-lock-in
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *Two Months Later, the Model Still Agrees With Itself* Recommendation Intelligence Research™, Study #22. Zenodo. https://doi.org/10.5281/zenodo.22818169

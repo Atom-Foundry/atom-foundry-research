@@ -1,6 +1,8 @@
 # The Model Knows 6 Facts About Your Brand. It Uses One
 
-**Atom Foundry — Recommendation Intelligence Research™ · Study #23**
+Atom Foundry — Recommendation Intelligence Research™ · Study #23
+Published: 2026-09-11
+DOI: [10.5281/zenodo.22758106](https://doi.org/10.5281/zenodo.22758106)
 
 > We asked gpt-4o what it knows about 9 brands, then checked those claimed facts against 4,000 already-collected real buyer-question responses. Across 1,392 fact-cell checks, 75.8% of possessed facts never appeared when the model actually made a recommendation.
 
@@ -180,3 +182,7 @@ In this study, most did not.
 ## Source
 
 Published study: https://atomfoundry.dev/research/possession-vs-deployment
+
+## Citation
+
+Atom Foundry (2026). *The Model Knows 6 Facts About Your Brand. It Uses One* Recommendation Intelligence Research™, Study #23. Zenodo. https://doi.org/10.5281/zenodo.22758106

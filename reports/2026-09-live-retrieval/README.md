@@ -1,6 +1,8 @@
 # The Model Had Real Web Search. It Never Once Reached for It.
 
-**Atom Foundry — Recommendation Intelligence Research™ · Study #28**
+Atom Foundry — Recommendation Intelligence Research™ · Study #28
+Published: 2026-09-11
+DOI: [10.5281/zenodo.22755046](https://doi.org/10.5281/zenodo.22755046)
 
 > We gave gpt-4o real web search and asked it the same open buyer questions behind Fact Injection. Across 960 real API calls, it invoked the search tool zero times.
 
@@ -135,3 +137,7 @@ Brand detection used deterministic substring matching rather than an LLM judge.
 ## Source
 
 Published study: https://atomfoundry.dev/research/live-retrieval
+
+## Citation
+
+Atom Foundry (2026). *The Model Had Real Web Search. It Never Once Reached for It.* Recommendation Intelligence Research™, Study #28. Zenodo. https://doi.org/10.5281/zenodo.22755046

@@ -8,7 +8,7 @@ Atom Foundry Research is an independent research initiative focused on AI Commer
 
 # Research at a Glance
 
-* **38 public research publications**
+* **40 public research publications**
 * **40,000+ AI recommendations analyzed**
 * **1,490 brands observed**
 * **100 buyer intent prompts**
@@ -62,6 +62,8 @@ Controlled experiments that test how AI recommendation and selection work.
 * The Cited Source Changes. The Winner Almost Never Does.
 * Two Signals Get You Most of the Way There. A Third Barely Helps, and Format Doesn't Move It at All.
 * We Turned the Same Facts Into Bullets. The Model Cited Fewer of Them.
+* Authority Adds 9 Points in Trust Categories. Familiarity Adds 14.
+* Reword the Question Three Ways. The Winner Mostly Stays the Same.
 
 ## Category Reports
 
@@ -222,7 +224,7 @@ Research expands into recommendation intelligence, AI visibility, agentic commer
 
 New studies examine facts, retrieval, hidden context, multi turn conversations, accuracy, brand legibility, attribution, and prompt shape.
 
-Research turns to the signals behind selection itself: claim specificity, star rating, third-party authority, brand familiarity, cited-source stability, and how those signals rank against each other once rating is removed from the comparison. A final study in this run tests whether structuring the same facts as bullets instead of prose changes how much of them a model cites.
+Research turns to the signals behind selection itself: claim specificity, star rating, third-party authority, brand familiarity, cited-source stability, and how those signals rank against each other once rating is removed from the comparison. A final study in this run tests whether structuring the same facts as bullets instead of prose changes how much of them a model cites. Two closing studies test whether category type changes how much authority and familiarity signals move the recommended brand, and whether recommendation stability holds up when the same buying intent is worded three different ways instead of repeated verbatim.
 
 ---
 

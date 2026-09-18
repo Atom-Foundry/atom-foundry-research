@@ -17,11 +17,13 @@ The research program evolves as new reports, datasets, and methods are published
 * Added a signal-hierarchy study putting authority, familiarity, specificity, and format head-to-head and in combination, with rating removed from the comparison entirely.
 * Added a source-stability study testing whether the recommended brand changes when the search-cited source changes between repeats of the same question.
 * Added a structured-markup study testing whether presenting the same facts as bullets instead of prose changes citation fidelity and vocabulary reuse, closing out the series' repeated tests of the format signal.
+* Added a category-fit study testing whether category type (functional vs. trust and safety sensitive) changes how much authority and brand familiarity signals move the recommended brand.
+* Added a winner-stability-across-intents study testing whether the recommended brand stays stable when the same buying intent is worded three different ways instead of repeated verbatim, directly answering a LinkedIn objection to the source-stability study.
 * Continued development of the AI Commerce Intelligence™ Framework.
 
 ### Research Library
 
-* Updated the public research inventory to 38 public research publications.
+* Updated the public research inventory to 40 public research publications.
 * Updated the current research map.
 * Updated repository documentation.
 * Expanded dataset documentation.

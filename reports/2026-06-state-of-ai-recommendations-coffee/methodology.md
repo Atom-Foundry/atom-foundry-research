@@ -2,7 +2,7 @@
 
 ## Category
 
-Coffee
+Beauty
 
 ## Model
 
@@ -18,7 +18,7 @@ GPT-4o-mini
 
 ## Distinct Brands
 
-228
+238
 
 ## Metrics
 
@@ -30,7 +30,5 @@ GPT-4o-mini
 ## Notes
 
 Recommendations were captured directly from model outputs.
-
-Retailers and marketplaces were excluded from brand-level analysis.
 
 Brand names were matched against the Atom Foundry index where available.

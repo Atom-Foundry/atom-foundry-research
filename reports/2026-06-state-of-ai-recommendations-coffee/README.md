@@ -1,78 +1,82 @@
-# The State of AI Recommendations in Coffee
+# The State of AI Recommendations in Beauty
 
-**Recommendation Intelligence Research™ · Atom Foundry · June 2026**
+Atom Foundry — Recommendation Intelligence Research™
+Published: 2026-06-10
+DOI: [10.5281/zenodo.22816315](https://doi.org/10.5281/zenodo.22816315)
 
 ## Research Summary
 
-We analyzed 4,000 AI-generated coffee recommendations across 20 high-intent shopping prompts to determine whether AI systems recommend brands because their stores are AI-ready.
+We analyzed 4,000 AI-generated beauty recommendations across 20 high-intent shopping prompts to determine whether AI systems recommend brands because their stores are AI-ready.
 
-The answer was again no.
+The answer was largely no.
 
-Across 400 prompt runs, 228 distinct brands, and thousands of recommendations, Recommendation Frequency™ showed virtually no relationship with AI Commerce Score™.
+Across 400 prompt runs, 238 distinct brands, and thousands of recommendations, Recommendation Frequency™ showed no meaningful relationship with AI Commerce Score™.
 
 **Correlation between Recommendation Frequency™ and AI Commerce Score™**
 
-**r = 0.019**
+**r = 0.17**
 
-This is statistically indistinguishable from zero.
+At this sample size, the relationship is statistically indistinguishable from zero.
 
-The most recommended coffee brands were often stores with average or poor AI readiness, while several of the strongest stores received little recommendation visibility.
+The most recommended brands were often stores with poor AI readiness, while some of the highest-scoring stores received relatively little recommendation visibility.
 
 ---
 
 ## Key Findings
 
-* 4,000 recommendations analyzed
-* 228 distinct brands identified
-* Recommendation Frequency™ and AI Commerce Score™ showed no measurable relationship
-* Famous coffee brands dominated recommendations
-* Several AI Invisible stores appeared frequently in recommendations
-* Highly optimized stores were not consistently rewarded with visibility
+- 4,000 recommendations analyzed
+- 238 distinct brands identified
+- Recommendation Frequency™ and AI Commerce Score™ showed no measurable relationship
+- Famous beauty brands dominated recommendations
+- Several AI Invisible stores were recommended frequently
+- Highly optimized stores were not consistently rewarded with visibility
 
 ---
 
 ## Top Recommended Brands
 
-* Peet's Coffee
-* Stumptown Coffee Roasters
-* Blue Bottle Coffee
-* Starbucks
-* Death Wish Coffee
+- Neutrogena
+- The Ordinary
+- CeraVe
+- La Roche-Posay
+- Drunk Elephant
 
 ---
 
 ## Notable Observation
 
-Peet's Coffee appeared in **96.5%** of prompt runs while scoring only **56/100** in AI Commerce Score™.
+Some of the strongest examples came from brands such as Clinique, SkinCeuticals, and Kiehl's.
 
-Stumptown Coffee Roasters appeared in **78.3%** of prompts with a score of **58/100**.
+These brands appeared in a significant percentage of recommendations despite scoring only **14/100** in AI Commerce Score™.
 
-Blue Bottle Coffee appeared in **75.3%** of prompts despite scoring only **36/100**, placing it in AI Invisible Risk territory.
+Meanwhile, Drunk Elephant achieved one of the highest AI Commerce Scores™ in the category yet was not the most frequently recommended brand.
 
-Meanwhile, several of the strongest stores in the category received little recommendation visibility despite substantially higher readiness scores.
-
-The results suggest that current AI recommendation systems may rely more heavily on brand familiarity and historical prominence than on actual store readiness.
+This suggests that current AI recommendation systems may rely more heavily on brand familiarity and historical prominence than on real-time store readiness.
 
 ---
 
 ## Conclusion
 
-Coffee replicates the findings from Beauty and Supplements.
+The Beauty category produced the first signal that would later repeat across multiple industries.
 
-Across three independent categories, Recommendation Frequency™ appears disconnected from AI Commerce Score™ and store readiness.
+Recommendation Frequency™ did not meaningfully track AI Commerce Score™.
 
-The evidence increasingly suggests that AI systems currently recommend familiar brands rather than the most machine-readable stores.
+In other words, being recommended by AI and being AI-ready appear to be different phenomena.
 
-As AI commerce evolves from memory-based recommendations toward retrieval, browsing, comparison, and autonomous purchasing, store readiness may become significantly more important than historical brand recognition.
+The findings suggest that current AI systems often recommend brands they already know rather than the stores that are easiest for AI systems to read, understand, and evaluate.
 
 ---
 
 ## Full Report
 
-https://atomfoundry.dev/research/state-of-ai-recommendations-coffee
+https://atomfoundry.dev/research/state-of-ai-recommendations-beauty
 
 ---
 
 **Created by Atom Foundry**
 
 *Building the AI Commerce Intelligence Layer™*
+
+## Citation
+
+Atom Foundry (2026). *The State of AI Recommendations in Beauty* Recommendation Intelligence Research™. Zenodo. https://doi.org/10.5281/zenodo.22816315

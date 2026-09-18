@@ -1,6 +1,8 @@
 # Prompt Shape
 
-**Atom Foundry — Recommendation Intelligence Research, Study #30**
+Atom Foundry — Recommendation Intelligence Research™ · Study #30
+Published: 2026-09-12
+DOI: [10.5281/zenodo.22758351](https://doi.org/10.5281/zenodo.22758351)
 
 ## Title
 
@@ -76,3 +78,7 @@ The study also does not establish a universal effect across models or categories
 ## Reproduction
 
 The `experiment-summary.csv` contains the published aggregate metrics used in the charts. The `methodology.md` documents the experimental setup and scoring decisions. `Charts/` contains SVG visualizations of the final reported results.
+
+## Citation
+
+Atom Foundry (2026). *Ask Like You're Googling It, and the AI Recommends the Brand 15.6 Points Less* Recommendation Intelligence Research™, Study #30. Zenodo. https://doi.org/10.5281/zenodo.22758351

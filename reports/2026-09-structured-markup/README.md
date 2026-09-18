@@ -1,8 +1,8 @@
 # We Turned the Same Facts Into Bullets. The Model Cited Fewer of Them.
 
-**Study #38 in Atom Foundry's Recommendation Intelligence Research series.**
-Published: September 2026.
-Live report: https://atomfoundry.dev/research/structured-markup
+Atom Foundry — Recommendation Intelligence Research™ · Study #38
+Published: 2026-09-17
+DOI: [10.5281/zenodo.22819917](https://doi.org/10.5281/zenodo.22819917)
 
 ## What this tests
 
@@ -76,7 +76,7 @@ at the URL above; no raw per-call data is included in this package.
 
 ## How to cite
 
-DOI pending (Zenodo record not yet minted for this study).
+DOI: [10.5281/zenodo.22819917](https://doi.org/10.5281/zenodo.22819917).
 
 Atom Foundry (2026). "We Turned the Same Facts Into Bullets. The Model
 Cited Fewer of Them." Recommendation Intelligence Research, Study #38.

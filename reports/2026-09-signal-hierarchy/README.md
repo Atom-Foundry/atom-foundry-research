@@ -1,8 +1,8 @@
 # Two Signals Get You Most of the Way There. A Third Barely Helps, and Format Doesn't Move It at All.
 
-**Atom Foundry -- Recommendation Intelligence Research(TM), Study #37**
-**Published:** September 2026
-**Live page:** https://atomfoundry.dev/research/signal-hierarchy
+Atom Foundry — Recommendation Intelligence Research™ · Study #37
+Published: 2026-09-17
+DOI: [10.5281/zenodo.22819610](https://doi.org/10.5281/zenodo.22819610)
 
 ## Summary
 
@@ -43,7 +43,7 @@ in this package.
 
 ## How to cite
 
-DOI pending (Zenodo record not yet minted for this study). Cite as:
+DOI: [10.5281/zenodo.22819610](https://doi.org/10.5281/zenodo.22819610). Cite as:
 
 Atom Foundry (2026). *Two Signals Get You Most of the Way There. A Third
 Barely Helps, and Format Doesn't Move It at All.* Recommendation

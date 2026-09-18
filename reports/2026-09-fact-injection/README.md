@@ -1,6 +1,8 @@
 # Give the Model the One Fact It's Missing. The Brand Goes From Invisible to Everywhere.
 
-**Atom Foundry · Recommendation Intelligence Research™ · Study #25**
+Atom Foundry — Recommendation Intelligence Research™ · Study #25
+Published: 2026-09-08
+DOI: [10.5281/zenodo.22757248](https://doi.org/10.5281/zenodo.22757248)
 
 > Put one real, verified fact directly in front of the model, as if retrieval had just succeeded. The brand can move from barely mentioned to near-universal.
 
@@ -148,3 +150,7 @@ The complete row-level API log is not exposed in the supplied HTML. This reposit
 ## Source
 
 https://atomfoundry.dev/research/fact-injection
+
+## Citation
+
+Atom Foundry (2026). *Give the Model the One Fact It's Missing. The Brand Goes From Invisible to Everywhere.* Recommendation Intelligence Research™, Study #25. Zenodo. https://doi.org/10.5281/zenodo.22757248

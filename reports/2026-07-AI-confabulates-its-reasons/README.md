@@ -1,6 +1,8 @@
 # AI Confabulates Its Reasons
 
-Recommendation Intelligence Research™ · Atom Foundry · July 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #4
+Published: 2026-07-21
+DOI: [10.5281/zenodo.22773380](https://doi.org/10.5281/zenodo.22773380)
 
 ---
 
@@ -106,3 +108,7 @@ Understanding this distinction is essential when interpreting AI-generated reaso
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *AI Confabulates Its Reasons* Recommendation Intelligence Research™, Study #4. Zenodo. https://doi.org/10.5281/zenodo.22773380

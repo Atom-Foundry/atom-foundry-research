@@ -1,6 +1,8 @@
 # Hand It a Rating, and It Follows Every Single Time
 
-Recommendation Intelligence Research™ · Atom Foundry · August 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #19
+Published: 2026-08-27
+DOI: [10.5281/zenodo.22817764](https://doi.org/10.5281/zenodo.22817764)
 
 ---
 
@@ -94,3 +96,7 @@ Full write-up: https://atomfoundry.dev/research/candidate-evaluation
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *Hand It a Rating, and It Follows Every Single Time* Recommendation Intelligence Research™, Study #19. Zenodo. https://doi.org/10.5281/zenodo.22817764

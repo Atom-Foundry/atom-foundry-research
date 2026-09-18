@@ -1,9 +1,9 @@
-signal,category_type,round,follow_signal_rate_pct,n,metric
-authority,functional,round_1,65.4,800,follow-the-signal rate
-authority,trust_safety_sensitive,round_1,74.5,800,follow-the-signal rate
-authority,functional,round_2,64.9,800,follow-the-signal rate
-authority,trust_safety_sensitive,round_2,74.0,800,follow-the-signal rate
-familiarity,functional,round_1,60.0,800,follow-the-signal rate
-familiarity,trust_safety_sensitive,round_1,74.4,800,follow-the-signal rate
-familiarity,functional,round_2,60.4,800,follow-the-signal rate
-familiarity,trust_safety_sensitive,round_2,73.5,800,follow-the-signal rate
+signal,category_type,round,follow_the_signal_rate_pct,n_per_cell
+authority,trust_safety_sensitive,round_1,74.5,800
+authority,functional,round_1,65.4,800
+authority,trust_safety_sensitive,round_2,74.0,800
+authority,functional,round_2,64.9,800
+familiarity,trust_safety_sensitive,round_1,74.4,800
+familiarity,functional,round_1,60.0,800
+familiarity,trust_safety_sensitive,round_2,73.5,800
+familiarity,functional,round_2,60.4,800

@@ -1,6 +1,8 @@
 # We Widened the Fame Signal Four Ways. It Barely Moved
 
-Recommendation Intelligence Research™ · Atom Foundry · August 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #21
+Published: 2026-08-27
+DOI: [10.5281/zenodo.22818056](https://doi.org/10.5281/zenodo.22818056)
 
 ---
 
@@ -96,3 +98,7 @@ Full write-up: https://atomfoundry.dev/research/memory-source
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *We Widened the Fame Signal Four Ways. It Barely Moved* Recommendation Intelligence Research™, Study #21. Zenodo. https://doi.org/10.5281/zenodo.22818056

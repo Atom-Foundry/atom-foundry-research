@@ -1,6 +1,8 @@
 # Authority Adds 9 Points in Trust Categories. Familiarity Adds 14.
 
-**Recommendation Intelligence Research™ · Study #39**
+Atom Foundry — Recommendation Intelligence Research™ · Study #39
+Published: 2026-09-18
+DOI: [10.5281/zenodo.22832667](https://doi.org/10.5281/zenodo.22832667)
 
 ## Abstract
 
@@ -49,3 +51,7 @@ The finding supports a narrower conclusion: the effect of a recommendation signa
 The study uses eight brands, one model, a forced-choice setup, and a simplified functional-versus-trust category axis. Brand-level effects are heterogeneous beneath the category averages. The comparison with specificity comes from a separate study with a different brand set rather than one unified experiment.
 
 Part of the Atom Foundry Recommendation Intelligence Research™ series.
+
+## Citation
+
+Atom Foundry (2026). *Authority Adds 9 Points in Trust Categories. Familiarity Adds 14.* Recommendation Intelligence Research™, Study #39. Zenodo. https://doi.org/10.5281/zenodo.22832667

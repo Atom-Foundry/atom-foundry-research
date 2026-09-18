@@ -1,7 +1,8 @@
 # The Fame Study
 
-Recommendation Intelligence Research™ · Atom Foundry · June 2026  
-**Corrected 17 July 2026**
+Atom Foundry — Recommendation Intelligence Research™ · Study #2
+Published: 2026-06-14 (corrected 2026-07-17)
+DOI: [10.5281/zenodo.22772589](https://doi.org/10.5281/zenodo.22772589)
 
 ---
 
@@ -118,3 +119,7 @@ Understanding those hidden drivers remains one of the central open questions of 
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *The Fame Study, Corrected* Recommendation Intelligence Research™, Study #2. Zenodo. https://doi.org/10.5281/zenodo.22772589

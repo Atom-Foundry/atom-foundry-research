@@ -1,6 +1,8 @@
 # The State of AI Recommendations in Home & Living
 
-**Recommendation Intelligence Research™ · Atom Foundry · June 2026**
+Atom Foundry — Recommendation Intelligence Research™
+Published: 2026-06-12
+DOI: [10.5281/zenodo.22817221](https://doi.org/10.5281/zenodo.22817221)
 
 ## Research Summary
 
@@ -74,3 +76,7 @@ https://atomfoundry.dev/research/state-of-ai-recommendations-home-living
 **Created by Atom Foundry**
 
 *Building the AI Commerce Intelligence Layer™*
+
+## Citation
+
+Atom Foundry (2026). *The State of AI Recommendations in Home & Living* Recommendation Intelligence Research™. Zenodo. https://doi.org/10.5281/zenodo.22817221

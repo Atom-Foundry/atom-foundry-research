@@ -1,8 +1,8 @@
 # The Cited Source Changes. The Winner Almost Never Does.
 
-**Atom Foundry -- Recommendation Intelligence Research(TM), Study #36**
-**Published:** September 2026
-**Live page:** https://atomfoundry.dev/research/source-stability
+Atom Foundry — Recommendation Intelligence Research™ · Study #36
+Published: 2026-09-15
+DOI: [10.5281/zenodo.22819482](https://doi.org/10.5281/zenodo.22819482)
 
 ## Summary
 
@@ -45,7 +45,7 @@ in this package.
 
 ## How to cite
 
-DOI pending (Zenodo record not yet minted for this study). Cite as:
+DOI: [10.5281/zenodo.22819482](https://doi.org/10.5281/zenodo.22819482). Cite as:
 
 Atom Foundry (2026). *The Cited Source Changes. The Winner Almost Never
 Does.* Recommendation Intelligence Research(TM), Study #36.

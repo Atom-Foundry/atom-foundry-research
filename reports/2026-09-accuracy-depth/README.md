@@ -4,7 +4,7 @@
 
 Published: September 11, 2026
 
-[![DOI](https://zenodo.org/badge/1266113982.svg)](https://doi.org/10.5281/zenodo.22754000)
+[![DOI](https://zenodo.org/badge/1266113982.svg)](https://doi.org/10.5281/zenodo.22754001)
 
 ---
 
@@ -251,3 +251,7 @@ Recommendation Intelligence Research™
 Study #27 · September 11, 2026
 
 https://atomfoundry.dev/research/accuracy-depth
+
+## Citation
+
+Atom Foundry (2026). *The Model Is Almost Never Wrong About Your Brand. It Just Doesn't Say Much.* Recommendation Intelligence Research™, Study #27. Zenodo. https://doi.org/10.5281/zenodo.22754001

@@ -1,8 +1,8 @@
 # Nothing About Your Brand Predicts Recommendation. The Model's Own Past Behavior Does.
 
-**Atom Foundry -- Recommendation Intelligence Research(TM), Study #7**
-**Published:** July 2026 (Part seven of the series)
-**Live page:** https://atomfoundry.dev/research/the-model-predicts-itself
+Atom Foundry — Recommendation Intelligence Research™ · Study #7
+Published: 2026-07-21
+DOI: [10.5281/zenodo.22820552](https://doi.org/10.5281/zenodo.22820552)
 
 ## Summary
 
@@ -40,7 +40,7 @@ in this package.
 
 ## How to cite
 
-DOI pending (Zenodo record not yet minted for this study). Cite as:
+DOI: [10.5281/zenodo.22820552](https://doi.org/10.5281/zenodo.22820552). Cite as:
 
 Atom Foundry (2026). *Nothing About Your Brand Predicts Recommendation.
 The Model's Own Past Behavior Does.* Recommendation Intelligence

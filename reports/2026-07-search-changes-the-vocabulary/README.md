@@ -1,6 +1,8 @@
 # Search Changes the Vocabulary
 
-Recommendation Intelligence Research™ · Atom Foundry · July 2026
+Atom Foundry — Recommendation Intelligence Research™ · Study #5
+Published: 2026-07-21
+DOI: [10.5281/zenodo.22820526](https://doi.org/10.5281/zenodo.22820526)
 
 ---
 
@@ -104,3 +106,7 @@ The language shifts toward concrete, verifiable product characteristics, suggest
 Published by **Atom Foundry**
 
 Advancing AI Commerce Intelligence™ through open research.
+
+## Citation
+
+Atom Foundry (2026). *Search Changes the Vocabulary* Recommendation Intelligence Research™, Study #5. Zenodo. https://doi.org/10.5281/zenodo.22820526

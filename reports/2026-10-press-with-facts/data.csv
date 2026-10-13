@@ -1,0 +1,24 @@
+section,item,value,note
+headline,Generic press,1.9%,hero statistic on the study page
+headline,Category-level,15.0%,hero statistic on the study page
+headline,Exact query,80.6%,hero statistic on the study page
+headline,Query + facts,96.9%,hero statistic on the study page
+Newcomer selection rate,No evidence,0.0%,36 intents · 360 runs per condition
+Newcomer selection rate,Generic press (“a rising name”),1.9%,36 intents · 360 runs per condition
+Newcomer selection rate,Press reporting 4.7 stars across 500 reviews,52.8%,36 intents · 360 runs per condition
+Newcomer selection rate,"The same 4.7 stars, 500 reviews shown directly",51.9%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,Generic press (“a rising name”),1.9%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,Top choice for a query in a different category,0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,"Top choice for an adjacent use case, same category",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,Top choice in the category,15.0%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,Top choice for the exact query asked,80.6%,36 intents · 360 runs per condition
+Newcomer selection rate by what the press line names,"Exact query, plus 4.7 stars across 500 reviews",96.9%,36 intents · 360 runs per condition
+table 1,No evidence,Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,Generic press,Newcomer selected: 1.9% | 95% CI (bootstrap over intents): 0.3–4.2%,
+table 1,Press: top choice for a query in a different category,Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,Press: top choice for an adjacent use case,Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,Press: top choice in the category,Newcomer selected: 15.0% | 95% CI (bootstrap over intents): 5.8–25.8%,
+table 1,Press: top choice for the exact query,Newcomer selected: 80.6% | 95% CI (bootstrap over intents): 69.7–90.3%,
+table 1,Press reporting 4.7 stars across 500 reviews,Newcomer selected: 52.8% | 95% CI (bootstrap over intents): 39.2–66.1%,
+table 1,Press: exact query plus 4.7 stars across 500 reviews,Newcomer selected: 96.9% | 95% CI (bootstrap over intents): 92.8–100.0%,
+table 1,"4.7 stars, 500 reviews shown directly",Newcomer selected: 51.9% | 95% CI (bootstrap over intents): 39.4–64.2%,

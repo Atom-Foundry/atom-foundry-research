@@ -1,0 +1,11 @@
+section,item,value,note
+headline,"Price vs. rating flip-rate gap (p=0.0225, significant)",+43.8pp,hero statistic on the study page
+headline,"Rating intents flipped, of 16 (published)",0,hero statistic on the study page
+headline,"Specs intents flipped, of 16 (not significant)",2,hero statistic on the study page
+headline,"Price intents flipped, of 16 (significant)",7,hero statistic on the study page
+"Share of intents where the pick flipped across 5 phrasings, by signal type",Rating (published),0.0%,16 contested intents per signal · 5 phrasings × 10 runs = 800 calls per signal (rating figure republished from Method 6)
+"Share of intents where the pick flipped across 5 phrasings, by signal type",Specs,12.5%,16 contested intents per signal · 5 phrasings × 10 runs = 800 calls per signal (rating figure republished from Method 6)
+"Share of intents where the pick flipped across 5 phrasings, by signal type",Price,43.8%,16 contested intents per signal · 5 phrasings × 10 runs = 800 calls per signal (rating figure republished from Method 6)
+table 1,Price vs. rating,Flip-rate diff: +43.8pplargest gap | Raw p: p=0.0075 | Bonferroni-corrected p (×3): p=0.0225 | Result: Significant,
+table 1,Specs vs. rating,Flip-rate diff: +12.5pp | Raw p: p=0.4936 | Bonferroni-corrected p (×3): p=1.0 | Result: Not significant,
+table 1,Price vs. specs,Flip-rate diff: +31.2pp | Raw p: p=0.1137 | Bonferroni-corrected p (×3): p=0.341 | Result: Not significant,

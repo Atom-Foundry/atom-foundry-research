@@ -8,7 +8,7 @@ Atom Foundry Research is an independent research initiative focused on AI Commer
 
 # Research at a Glance
 
-* **40 public research publications**
+* **50 public research publications**
 * **40,000+ AI recommendations analyzed**
 * **1,490 brands observed**
 * **100 buyer intent prompts**
@@ -64,6 +64,16 @@ Controlled experiments that test how AI recommendation and selection work.
 * We Turned the Same Facts Into Bullets. The Model Cited Fewer of Them.
 * Authority Adds 9 Points in Trust Categories. Familiarity Adds 14.
 * Reword the Question Three Ways. The Winner Mostly Stays the Same.
+* Rating Recommendations Don't Move When You Reword the Question. Price Recommendations Do.
+* A Bad Rating Barely Touches Candidacy. It Wrecks the Final Round.
+* Mark the Listing Sponsored, and It Loses 18.4 Points in a Head-to-Head Pick
+* Match the Sponsored Listing to the Search Term, and the Penalty Overshoots by 21 Points
+* Rank First in the Cited Source, and the Model Always Agrees. Fourth Place Wins 1.2% of the Time.
+* Under 4.1 Stars, the Model Ignores an Unknown Brand. At 4.9 Stars It Picks It 85% of the Time.
+* In a Ranked Source, the Higher-Ranked Brand Wins 100% of the Time, Even Against the Model's Favorite.
+* Press Coverage Moves the Model Only When It Answers the Exact Question Asked. Generic: 1.9%. Matching: 80.6%.
+* Describe a Company by Its Side Feature and It Falls Off the AI Shortlist: 82.8% to 24.0%. The Model Still Names Its Category Correctly.
+* Reviews Four Years Old Count as No Reviews at All: 0%. Five Hundred Fresh Ones Beat Thirty Thousand Old Ones, 72.8% to 1.4%.
 
 ## Category Reports
 
@@ -225,6 +235,16 @@ Research expands into recommendation intelligence, AI visibility, agentic commer
 New studies examine facts, retrieval, hidden context, multi turn conversations, accuracy, brand legibility, attribution, and prompt shape.
 
 Research turns to the signals behind selection itself: claim specificity, star rating, third-party authority, brand familiarity, cited-source stability, and how those signals rank against each other once rating is removed from the comparison. A final study in this run tests whether structuring the same facts as bullets instead of prose changes how much of them a model cites. Two closing studies test whether category type changes how much authority and familiarity signals move the recommended brand, and whether recommendation stability holds up when the same buying intent is worded three different ways instead of repeated verbatim.
+
+Late September adds five more studies: whether recommendations stay stable when the same facts are phrased five ways, what a bad rating does to candidacy versus the final selection, what the sponsored label costs a listing in a head-to-head pick, whether matching a sponsored listing to the search term removes that cost, and how a brand's rank inside a cited source decides the pick.
+
+## October 2026
+
+Research returns to the cold-start problem and to the evidence an unknown brand can bring.
+
+New studies test how star rating and review count move an unknown brand against an entrenched incumbent, whether source rank still decides the pick against the model's own favorite, what a press mention must contain to matter, whether describing a company by a side feature removes it from the AI shortlist, and whether the age of reviews changes how much they count.
+
+The public research inventory reaches 50 studies.
 
 ---
 

@@ -113,6 +113,13 @@ Research areas include:
 * Prompt shape
 * Claim attribution
 * Brand legibility
+* Phrasing stability
+* Negative reputation
+* Sponsored labeling
+* Source rank position
+* Review age and recency
+* Press coverage and third-party mentions
+* Company description and classification
 
 The dataset is designed to test individual variables instead of relying only on large scale correlations.
 

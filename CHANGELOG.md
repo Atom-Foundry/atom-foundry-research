@@ -6,6 +6,24 @@ The research program evolves as new reports, datasets, and methods are published
 
 ---
 
+## October 2026
+
+### Research Program
+
+* Added a cold-start-dose-response study testing how star rating and review count move an unknown brand's selection against an entrenched incumbent.
+* Added a source-rank-brand-prior study testing whether source rank still decides the pick when the lower-ranked brand is the model's favorite.
+* Added a press-with-facts study testing what a third-party press mention must contain to move selection of an unknown brand.
+* Added a classification-candidacy study testing whether describing a company by a side feature removes it from the AI shortlist even though the model classifies it correctly.
+* Added a review-recency study testing whether the age of reviews changes how much weight the model gives them, independent of rating and count.
+
+### Research Library
+
+* Updated the public research inventory to 50 public research publications.
+* Added report packages for Studies #40 to #50.
+* Updated repository documentation and methodology.
+
+---
+
 ## September 2026
 
 ### Research Program
@@ -19,11 +37,15 @@ The research program evolves as new reports, datasets, and methods are published
 * Added a structured-markup study testing whether presenting the same facts as bullets instead of prose changes citation fidelity and vocabulary reuse, closing out the series' repeated tests of the format signal.
 * Added a category-fit study testing whether category type (functional vs. trust and safety sensitive) changes how much authority and brand familiarity signals move the recommended brand.
 * Added a winner-stability-across-intents study testing whether the recommended brand stays stable when the same buying intent is worded three different ways instead of repeated verbatim, directly answering a LinkedIn objection to the source-stability study.
+* Added a phrasing-stability-by-signal study testing whether rating, specification, and price recommendations stay stable when the same facts are phrased five different ways.
+* Added a negative-reputation-candidacy study separating the effect of a bad rating on candidate formation from its effect on the final selection.
+* Added a sponsored-tag-penalty study measuring what the sponsored label costs a listing in a head-to-head pick, and a query-conditional-defense study testing whether matching the listing to the search term removes that cost.
+* Added a source-rank-position study testing how a brand's rank inside a cited source decides the model's selection.
 * Continued development of the AI Commerce Intelligence™ Framework.
 
 ### Research Library
 
-* Updated the public research inventory to 40 public research publications.
+* Updated the public research inventory to 45 public research publications.
 * Updated the current research map.
 * Updated repository documentation.
 * Expanded dataset documentation.

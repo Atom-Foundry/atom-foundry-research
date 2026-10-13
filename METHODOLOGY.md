@@ -180,8 +180,23 @@ When that happens, the report documents the available measurements, methodology,
 
 ---
 
+# Statistical Practice
+
+Recent controlled studies apply the following where the design allows it.
+
+* Hypotheses and planned contrasts written down before the run
+* Exact brand match on the model's answer instead of a judge, where possible
+* Cluster bootstrap confidence intervals, with the buying intent as the independent unit
+* Permutation tests for planned contrasts
+* Bonferroni correction across planned contrasts
+* Disclosure of any round or control added after seeing the data
+
+Older studies use the methods documented in their own reports.
+
+---
+
 # Version
 
-Current methodology: Version 1.1
+Current methodology: Version 1.2
 
-Last updated: September 2026
+Last updated: October 2026

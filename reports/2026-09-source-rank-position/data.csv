@@ -1,0 +1,15 @@
+section,item,value,note
+headline,Selection rate at rank 1,100.0%,hero statistic on the study page
+headline,Selection rate at rank 4,1.2%,hero statistic on the study page
+headline,Selection rate at rank 15,0.0%,hero statistic on the study page
+headline,Rank 1 minus rank 15,100.0pp,hero statistic on the study page
+Selection/winner rate by source rank,Rank 1 of 17,100.0%,Cluster mean across 4 brands · n=400 per condition
+Selection/winner rate by source rank,Rank 4 of 17,1.2%,Cluster mean across 4 brands · n=400 per condition
+Selection/winner rate by source rank,Rank 15 of 17,0.0%,Cluster mean across 4 brands · n=400 per condition
+Named-candidacy rate by source rank,Rank 1 of 17,100.0%,Cluster mean across 4 brands · n=400 per condition · is the brand mentioned at all?
+Named-candidacy rate by source rank,Rank 4 of 17,40.0%,Cluster mean across 4 brands · n=400 per condition · is the brand mentioned at all?
+Named-candidacy rate by source rank,Rank 15 of 17,35.2%,Cluster mean across 4 brands · n=400 per condition · is the brand mentioned at all?
+table 1,Barbaro Mojo,Rank 1: 100.0% | Rank 4: 5.0%only nonzero at rank 4 | Rank 15: 0.0%,
+table 1,BodyArtForms,Rank 1: 100.0% | Rank 4: 0.0% | Rank 15: 0.0%,
+table 1,Colored Organics,Rank 1: 100.0% | Rank 4: 0.0% | Rank 15: 0.0%,
+table 1,Hearthloom,Rank 1: 100.0% | Rank 4: 0.0% | Rank 15: 0.0%,

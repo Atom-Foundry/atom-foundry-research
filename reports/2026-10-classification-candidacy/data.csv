@@ -1,0 +1,25 @@
+section,item,value,note
+headline,Core leads,82.8%,hero statistic on the study page
+headline,Side feature dominates,24.0%,hero statistic on the study page
+headline,"+ ""Primary category"" line",27.5%,hero statistic on the study page
+headline,Core category named,100%,hero statistic on the study page
+Target company on the 3-name shortlist,Core capability first and dominant,82.8%,20 categories · 400 runs per condition
+Target company on the 3-name shortlist,Side capability first and dominant,24.0%,20 categories · 400 runs per condition
+Target company on the 3-name shortlist,"Same, plus a “Primary category: X” sentence",27.5%,20 categories · 400 runs per condition
+Target company on the 3-name shortlist,"Core first, mostly about the core",87.7%,20 categories · 300 runs per condition
+Target company on the 3-name shortlist,"Even split, core first",61.0%,20 categories · 300 runs per condition
+Target company on the 3-name shortlist,"Side feature first, mostly about the core",59.0%,20 categories · 300 runs per condition
+Target company on the 3-name shortlist,Description written like the rivals (baseline),50.0%,20 categories · 300 runs per condition
+Target company on the 3-name shortlist,"Core first, mostly about the side feature",45.0%,20 categories · 300 runs per condition
+Target company on the 3-name shortlist,"Side feature first, mostly about the side feature",27.7%,20 categories · 300 runs per condition
+table 1,Main round (round 2),,
+table 1,"Core first, mostly about the core",On the shortlist: 82.8% | 95% CI (bootstrap over categories): 70.3–93.2%,
+table 1,"Side feature first, mostly about the side feature",On the shortlist: 24.0% | 95% CI (bootstrap over categories): 12.3–36.5%,
+table 1,"Same, plus a “Primary category” sentence",On the shortlist: 27.5% | 95% CI (bootstrap over categories): 15.7–40.0%,
+table 1,Follow-up (round 3),,
+table 1,"Core first, mostly about the core",On the shortlist: 87.7% | 95% CI (bootstrap over categories): 76.7–96.0%,
+table 1,"Even split, core first",On the shortlist: 61.0% | 95% CI (bootstrap over categories): 43.7–77.7%,
+table 1,"Side feature first, mostly about the core",On the shortlist: 59.0% | 95% CI (bootstrap over categories): 42.7–74.3%,
+table 1,Written like the rivals (baseline),On the shortlist: 50.0% | 95% CI (bootstrap over categories): 36.3–63.3%,
+table 1,"Core first, mostly about the side feature",On the shortlist: 45.0% | 95% CI (bootstrap over categories): 28.7–61.7%,
+table 1,"Side feature first, mostly about the side feature",On the shortlist: 27.7% | 95% CI (bootstrap over categories): 14.7–41.0%,

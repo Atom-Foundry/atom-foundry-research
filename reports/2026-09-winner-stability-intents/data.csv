@@ -1,0 +1,21 @@
+section,item,value,note
+headline,"Combined cluster diff, borderline (p=0.063)",+3.1pp,hero statistic on the study page
+headline,Real product categories,8,hero statistic on the study page
+headline,"Live search calls, 2 rounds",240,hero statistic on the study page
+headline,Search invocation rate,98.8%,hero statistic on the study page
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Meal kit,10.0pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Electric toothbrush,9.5pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Mechanical keyboard,4.7pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Headphones,0.7pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Robot vacuum,0.0pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Air fryer,0.0pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Gaming mouse,0.0pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+"Same-phrasing minus different-phrasing gap, by category, both rounds averaged",Bluetooth speaker,0.0pp,"n=15 usable calls per category per round (3 phrasings × 5 repeats) · gpt-4o LLM judge, 3 of 240 low-confidence"
+table 1,Meal kit,Winner stability (R1 → R2): 100.0% → 80.0% | Cross-phrasing diff (R1 → R2): +0.0pp → +20.0pplargest R2 diff | Modal brand: hellofresh,
+table 1,Electric toothbrush,Winner stability (R1 → R2): 64.3% → 73.3% | Cross-phrasing diff (R1 → R2): +16.2pp → +2.7pplargest R1 diff | Modal brand: philips,
+table 1,Mechanical keyboard,Winner stability (R1 → R2): 53.3% → 53.3% | Cross-phrasing diff (R1 → R2): +0.0pp → +9.3pp | Modal brand: razer / keychron,
+table 1,Headphones,Winner stability (R1 → R2): 80.0% → 100.0% | Cross-phrasing diff (R1 → R2): +1.3pp → +0.0pp | Modal brand: sony,
+table 1,Robot vacuum,Winner stability (R1 → R2): 100.0% → 100.0% | Cross-phrasing diff (R1 → R2): +0.0pp → +0.0pp | Modal brand: dreame,
+table 1,Air fryer,Winner stability (R1 → R2): 100.0% → 100.0% | Cross-phrasing diff (R1 → R2): +0.0pp → +0.0pp | Modal brand: cosori,
+table 1,Gaming mouse,Winner stability (R1 → R2): 100.0% → 100.0% | Cross-phrasing diff (R1 → R2): +0.0pp → +0.0pp | Modal brand: logitech,
+table 1,Bluetooth speaker,Winner stability (R1 → R2): 100.0% → 100.0% | Cross-phrasing diff (R1 → R2): +0.0pp → +0.0pp | Modal brand: jbl,

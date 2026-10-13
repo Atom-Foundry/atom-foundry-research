@@ -1,0 +1,54 @@
+section,item,value,note
+headline,Ranked #1 vs favorite,100.0%,hero statistic on the study page
+headline,Ranked #2 vs favorite,0.0%,hero statistic on the study page
+headline,Unordered list,0.8%,hero statistic on the study page
+headline,#1 with 3.4 stars,86.1%,hero statistic on the study page
+Newcomer selection rate,No source at all,0.0%,36 intents · 360 runs per condition
+Newcomer selection rate,"Same 17 brands, listed as unordered (not a ranking), newcomer first",0.8%,36 intents · 360 runs per condition
+Newcomer selection rate,"Ranked source, newcomer at #4",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate,"Ranked source, newcomer at #1",100.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #2, favorite #1",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #3, favorite #1",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #5, favorite #1",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #8, favorite #1",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #15, favorite #1",0.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #1, favorite #2",100.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #1, favorite #3",100.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #1, favorite #8",100.0%,36 intents · 360 runs per condition
+Newcomer selection rate by rank pair,"Newcomer #1, favorite #15",100.0%,36 intents · 360 runs per condition
+"Newcomer ranked #1, favorite #2",Original prompt (“Use this source if it's relevant”),100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2",Instruction removed,100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2",“Weigh it however you see fit”,100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2",Source in the user message,100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2","Source is an anonymous, unverified blog",100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2",Real brands instead of invented ones (16 intents),100.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2",Source is a sponsored (paid placement) list,77.8%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #1, favorite #2","Newcomer has a 3.4-star rating, favorite has none",86.1%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",Original prompt,0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",Instruction removed,0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",“Weigh it however you see fit”,0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",Source in the user message,0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2","Anonymous, unverified blog",0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",Real brands (16 intents),0.0%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2",Sponsored list,2.2%,36 intents · 360 runs per condition (160 for real brands)
+"Newcomer ranked #4, favorite #2","Newcomer has 4.9 stars, 2,500 reviews",1.7%,36 intents · 360 runs per condition (160 for real brands)
+table 1,No source,Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Unordered list, newcomer in slot 1",Newcomer selected: 0.8% | 95% CI (bootstrap over intents): 0.0–1.9%,
+table 1,"Unordered list, newcomer in slot 4",Newcomer selected: 0.3% | 95% CI (bootstrap over intents): 0.0–0.8%,
+table 1,"Unordered list, newcomer in slot 15",Newcomer selected: 0.3% | 95% CI (bootstrap over intents): 0.0–0.8%,
+table 1,"Ranked: newcomer #1, favorite #2 (original prompt)",Newcomer selected: 100.0% | 95% CI (bootstrap over intents): 100.0–100.0%,
+table 1,"Ranked: newcomer #4, favorite #2 (original prompt)",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Ranked: newcomer #15, favorite #2 (original prompt)",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Ranked: newcomer #2, favorite #1",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Instruction removed, newcomer #1",Newcomer selected: 100.0% | 95% CI (bootstrap over intents): 100.0–100.0%,
+table 1,"Instruction removed, newcomer #4",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Source in user message, newcomer #1",Newcomer selected: 100.0% | 95% CI (bootstrap over intents): 100.0–100.0%,
+table 1,"Source in user message, newcomer #4",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Blog source, newcomer #1",Newcomer selected: 100.0% | 95% CI (bootstrap over intents): 100.0–100.0%,
+table 1,"Sponsored source, newcomer #1",Newcomer selected: 77.8% | 95% CI (bootstrap over intents): 68.3–86.7%,
+table 1,"Sponsored source, newcomer #4",Newcomer selected: 2.2% | 95% CI (bootstrap over intents): 0.6–4.4%,
+table 1,"Newcomer #1, 3.4 stars (500 reviews)",Newcomer selected: 86.1% | 95% CI (bootstrap over intents): 78.9–92.2%,
+table 1,"Newcomer #4, 4.9 stars (2,500 reviews)",Newcomer selected: 1.7% | 95% CI (bootstrap over intents): 0.3–3.3%,
+table 1,"Real brands, newcomer #1 (16 intents)",Newcomer selected: 100.0% | 95% CI (bootstrap over intents): 100.0–100.0%,
+table 1,"Real brands, newcomer #4 (16 intents)",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"Real brands, newcomer #15 (16 intents)",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,

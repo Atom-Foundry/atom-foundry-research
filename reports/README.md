@@ -56,6 +56,16 @@ Research explaining why AI recommendation systems behave the way they do.
 | **Structured Markup vs Plain Prose** | Testing whether structuring the same facts as bullets instead of prose changes citation fidelity and vocabulary reuse. |
 | **Category Fit** | Testing whether category type (functional vs. trust and safety sensitive) changes how much authority and familiarity signals move the recommended brand. |
 | **Winner Stability Across Intents** | Testing whether the recommended brand stays stable when the same buying intent is worded three different ways instead of repeated verbatim. |
+| **Phrasing Stability by Signal** | Testing whether rating, specification, and price recommendations stay stable when the same facts are phrased five different ways. |
+| **Negative Reputation Candidacy** | Testing whether a bad rating removes a brand from the candidate set or only costs it the final selection. |
+| **Sponsored Tag Penalty** | Testing whether marking a listing as sponsored changes the model's pick in a head-to-head choice. |
+| **Query-Conditional Defense** | Testing whether matching a sponsored listing to the search term offsets the sponsored penalty. |
+| **Source Rank Position** | Testing how a brand's rank inside a cited source changes the model's selection. |
+| **Cold Start Dose-Response** | Testing how star rating and review count move an unknown brand's selection against an entrenched incumbent. |
+| **Source Rank Brand Prior** | Testing whether source rank still decides the pick when the lower-ranked brand is the model's favorite. |
+| **Press with Facts** | Testing what a third-party press mention must contain to move selection of an unknown brand. |
+| **Classification to Candidacy** | Testing whether describing a company by a side feature removes it from the AI shortlist even though the model classifies it correctly. |
+| **Review Recency** | Testing whether the age of reviews changes how much weight the model gives them, independent of rating and count. |
 
 ---
 
@@ -88,7 +98,7 @@ Current publications:
 
 # Research at a Glance
 
-- **40 published research reports**
+- **50 published research reports**
 - **40,000+ AI recommendations analyzed**
 - **1,490 brands observed**
 - **100 buyer-intent prompts**

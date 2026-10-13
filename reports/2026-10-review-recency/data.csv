@@ -1,0 +1,31 @@
+section,item,value,note
+headline,500 fresh reviews,72.8%,hero statistic on the study page
+headline,"500, undated",50.8%,hero statistic on the study page
+headline,"500, 4 years old",0.0%,hero statistic on the study page
+headline,"30,000, 4 years old",1.4%,hero statistic on the study page
+"Newcomer selection rate, 4.7 stars and 500 reviews",All posted in the last 3 months,72.8%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars and 500 reviews",Posted evenly over 5 years,60.8%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars and 500 reviews",No dates given,50.8%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars and 500 reviews","450 posted 4 years ago, 50 in the last 3 months",0.0%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars and 500 reviews",All posted 4 years ago,0.0%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars","500 reviews, all from the last 3 months",72.8%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars","30,000 reviews, no dates",71.1%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars","40 reviews, all from the last 3 months",36.9%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars","40 reviews, no dates",22.5%,36 intents · 360 runs per condition
+"Newcomer selection rate, 4.7 stars","30,000 reviews, all posted 4 years ago",1.4%,36 intents · 360 runs per condition
+"Newcomer selection rate, 500 reviews","4.7 stars, no dates",50.8%,36 intents · 360 runs per condition
+"Newcomer selection rate, 500 reviews","3.8 overall, 4.7 over the last 3 months",10.6%,36 intents · 360 runs per condition
+"Newcomer selection rate, 500 reviews","4.7 overall, 3.8 over the last 3 months",2.5%,36 intents · 360 runs per condition
+"Newcomer selection rate, 500 reviews","3.8 stars, no dates",0.0%,36 intents · 360 runs per condition
+table 1,"4.7 stars, 500 reviews, all from the last 3 months",Newcomer selected: 72.8% | 95% CI (bootstrap over intents): 61.7–83.3%,
+table 1,"4.7 stars, 30,000 reviews, no dates",Newcomer selected: 71.1% | 95% CI (bootstrap over intents): 59.4–81.9%,
+table 1,"4.7 stars, 500 reviews, posted evenly over 5 years",Newcomer selected: 60.8% | 95% CI (bootstrap over intents): 48.9–72.5%,
+table 1,"4.7 stars, 500 reviews, no dates",Newcomer selected: 50.8% | 95% CI (bootstrap over intents): 38.9–62.5%,
+table 1,"4.7 stars, 40 reviews, all from the last 3 months",Newcomer selected: 36.9% | 95% CI (bootstrap over intents): 25.8–48.9%,
+table 1,"4.7 stars, 40 reviews, no dates",Newcomer selected: 22.5% | 95% CI (bootstrap over intents): 13.1–33.1%,
+table 1,"3.8 overall, 4.7 over the last 3 months (500 reviews)",Newcomer selected: 10.6% | 95% CI (bootstrap over intents): 4.4–18.1%,
+table 1,"4.7 overall, 3.8 over the last 3 months (500 reviews)",Newcomer selected: 2.5% | 95% CI (bootstrap over intents): 0.3–5.3%,
+table 1,"4.7 stars, 30,000 reviews, all posted 4 years ago",Newcomer selected: 1.4% | 95% CI (bootstrap over intents): 0.0–3.6%,
+table 1,"4.7 stars, 500 reviews, all posted 4 years ago",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"4.7 stars, 500 reviews: 450 posted 4 years ago, 50 in the last 3 months",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,
+table 1,"3.8 stars, 500 reviews, no dates",Newcomer selected: 0.0% | 95% CI (bootstrap over intents): 0.0–0.0%,

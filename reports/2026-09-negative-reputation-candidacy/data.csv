@@ -1,0 +1,13 @@
+section,item,value,note
+headline,"Candidacy rose, not fell",+15.5pp,hero statistic on the study page
+headline,Selection win rate collapsed,-59.2pp,hero statistic on the study page
+headline,Brands tested,4,hero statistic on the study page
+headline,Chat + judge calls,"2,400",hero statistic on the study page
+"Candidacy vs. selection rate, neutral vs. negative reputation",Candidacy · neutral,39.0%,Cluster mean across 4 brands · n=100 per brand per condition per probe
+"Candidacy vs. selection rate, neutral vs. negative reputation",Candidacy · negative,54.5%,Cluster mean across 4 brands · n=100 per brand per condition per probe
+"Candidacy vs. selection rate, neutral vs. negative reputation",Selection · neutral,83.5%,Cluster mean across 4 brands · n=100 per brand per condition per probe
+"Candidacy vs. selection rate, neutral vs. negative reputation",Selection · negative,24.3%,Cluster mean across 4 brands · n=100 per brand per condition per probe
+table 1,Barbaro Mojo,"Candidacy, neutral → negative: 23.0% → 62.0% | Selection, neutral → negative: 97.0% → 30.0%",
+table 1,BodyArtForms,"Candidacy, neutral → negative: 26.0% → 16.0% | Selection, neutral → negative: 100.0% → 56.0%",
+table 1,Colored Organics,"Candidacy, neutral → negative: 80.0% → 86.0% | Selection, neutral → negative: 41.0% → 0.0%",
+table 1,Hearthloom,"Candidacy, neutral → negative: 27.0% → 54.0% | Selection, neutral → negative: 96.0% → 11.0%",

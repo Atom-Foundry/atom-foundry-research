@@ -1,0 +1,11 @@
+section,item,value,note
+headline,Sponsored tag penalty,-18.4pp,hero statistic on the study page
+headline,Organic win rate,74.2%,hero statistic on the study page
+headline,Sponsored win rate,55.8%,hero statistic on the study page
+headline,"Brands, all 4 same direction",4,hero statistic on the study page
+Selection/winner rate by condition,Organic,74.2%,Cluster mean across 4 brands · n=400 per condition
+Selection/winner rate by condition,Sponsored,55.8%,Cluster mean across 4 brands · n=400 per condition
+table 1,BodyArtForms,Organic: 100.0% | Sponsored: 97.0% | Penalty: 3.0ppnear ceiling,
+table 1,Barbaro Mojo,Organic: 71.0% | Sponsored: 62.0% | Penalty: 9.0pp,
+table 1,Hearthloom,Organic: 88.0% | Sponsored: 60.0% | Penalty: 28.0pp,
+table 1,Colored Organics,Organic: 38.0% | Sponsored: 4.0% | Penalty: 34.0ppnear floor,

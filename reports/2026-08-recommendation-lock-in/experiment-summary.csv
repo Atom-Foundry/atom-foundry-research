@@ -1,27 +1,18 @@
 metric,value,unit,notes
-fixed_scenarios,16,scenarios,same facts across methods
-total_calls,2900,calls,approximate
-hedge_rating,11.2,percent,highest hedge rate
-hedge_specs,3.1,percent,
-hedge_price,2.5,percent,
-logprob_confidence_price,82.3,index,scaled ×100
-logprob_confidence_specs,88.2,index,scaled ×100
-logprob_confidence_rating,99.4,index,scaled ×100
-self_report_price,80.0,index,mean
-self_report_specs,80.8,index,mean
-self_report_rating,89.2,index,mean
-self_report_vs_logprob_r,0.345,correlation,
-hedge_vs_real_confidence_r,0.03,correlation,
-phrasing_calls,800,calls,5 phrasings×16×10
-phrasing_pick_flips,0,flips,0/16 intents
-hedge_casual,6.9,percent,
-hedge_formal,7.5,percent,
-hedge_imperative,8.1,percent,
-hedge_reversed,11.2,percent,
-hedge_baseline,15.6,percent,
-cross_model_pick_agreement,16/16,intents,all three models
-gpt4o_flip_rate,0,percent,
-claude_flip_rate,0,percent,
-gemini_flip_rate,1.2,percent,
-judge_exact_agreement,66,percent,50 sampled texts
-judge_binary_agreement,76,percent,hedged vs not
+intents_tracked,50,intents,10 categories
+categories,10,categories,
+sweeps,6,sweeps,June 30–August 26 2026
+days,58,days,
+recommendations_analyzed,30170,recommendations,
+locked_intents,43,intents,same #1 every sweep
+locked_rate,86,percent,43/50
+contested_intents,7,intents,#1 changed at least once
+confirmatory_runs,20,runs,three borderline intents
+athleta_share,60,percent,plus-size activewear
+nike_share,25,percent,plus-size activewear
+olay_share,50,percent,"eye cream, dark circles"
+clinique_share,25,percent,"eye cream, dark circles"
+fiesta_share,50,percent,ceramic dinnerware
+corelle_share,40,percent,ceramic dinnerware
+specialist_avg_position,1.6,position,supporting comparison
+generalist_avg_position,7.4,position,supporting comparison

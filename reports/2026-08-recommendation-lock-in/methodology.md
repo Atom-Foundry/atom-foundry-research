@@ -2,33 +2,33 @@
 
 ## Study
 
-**The Model Hedges Most When It’s Most Sure**  
-Study #22 · Published 2026-08-31
+**Two Months Later, the Model Still Agrees With Itself**  
+Study #18 · Published 2026-08-26
 
-Source page: https://atomfoundry.dev/research/recommendation-confidence
+Source page: https://atomfoundry.dev/research/recommendation-lock-in
 
 ## Design
 
-The study reused the exact 16 fixed rating-signal scenarios from Candidate Evaluation so that the facts and correct pick stayed constant while measurement methods changed. Method 1 used a hedge/booster lexicon; method 2 used a blind Claude judge on 50 sampled texts; method 3 used constrained A/B token logprobs; method 4 requested 0–100 self-confidence; method 5 tested repetition stability across 10 runs; method 6 changed phrasing five ways; method 7 replicated the same scenarios across GPT-4o, Claude Sonnet 4.5 and Gemini 2.5 Flash. The HTML notes that hedge-rate percentages should be read directionally because exact lexicon labeling agreement was only 66%.
+The same 50 intents were submitted repeatedly to gpt-4o-mini at temperature 0.7. Each sweep contained ten runs per intent. Six sweeps were collected over 58 days. The primary outcome was binary: whether the exact same brand occupied position #1 in every sweep. Three borderline cases were re-run at 20 samples to separate persistent disagreement from small-sample noise. Two sweep identifiers were corrected after tracing execution timestamps and splitting a duplicated same-day identifier.
 
 ## Experimental parameters
 
-- 16 identical fixed comparison scenarios
-- ~2,900 calls across seven methods
-- Primary model: gpt-4o, temperature 0.7 (methods 1–6)
-- Cross-model replication: Claude Sonnet 4.5 and Gemini 2.5 Flash
-- Ground truth for real confidence: OpenAI token logprobs
-- Blind second-model judge for lexicon validation
+- Model: gpt-4o-mini
+- Temperature: 0.7
+- 50 shopping intents across 10 categories
+- 6 independent sweeps, June 30–August 26 2026
+- 10 runs per intent per sweep
+- 30,170 recommendations analyzed
+- Concordance rule: exact same #1 brand in every sweep
+- 7 non-concordant intents received a 20-run same-day confirmatory check
 
 ## Primary outcomes
 
-- Hedge language vs. real internal confidence: r=0.03.
-- Rating-signal reasons had the highest hedge rate at 11.2%, even though rating produced the highest real confidence.
-- Token-logprob confidence gaps were 82.3 for price, 88.2 for specs and 99.4 for rating.
-- Self-reported confidence correlated only r=0.345 with real logprob confidence.
-- 0 of 16 picks changed across five phrasing variants, while hedge rates changed substantially.
-- All 16 intents had the same majority pick across GPT-4o, Claude and Gemini; within-model flip rates were 0%, 0% and 1.2%.
-- Blind judge agreement with the lexicon was 66% on exact three-way labels and 76% on hedged-vs-not.
+- 43 of 50 intents (86%) returned the exact same #1 brand in every sweep.
+- 7 of 50 intents (14%) changed #1 at least once.
+- Two of the three borderline cases tested at 20 runs resolved as sampling noise.
+- Ceramic dinnerware remained a genuine split: Fiesta 50%, Corelle 40% at 20 runs.
+- Category specialists averaged position 1.6 versus 7.4 for broad generalist retailers in the supporting comparison.
 
 ## Data handling and limitations
 
